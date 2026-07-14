@@ -6,6 +6,9 @@ chmod +x ARCHIVIO_UNICO/*.sh
 
 OUT="Audio e Video Originali con sottotitoli/NUOVO_v2"
 
+echo "========== FASE 0: Intro condivise =========="
+bash ARCHIVIO_UNICO/genera_intro.sh
+
 echo "========== FASE 1: SRT in NUOVO_v2/ =========="
 python3 ARCHIVIO_UNICO/genera_nuovo.py
 

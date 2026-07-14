@@ -1,0 +1,5 @@
+/workspace/Audio e Video Originali con sottotitoli/IT/srt/0002.srt
+/workspace/Audio e Video Originali con sottotitoli/IT/srt/0008.srt
+/workspace/Audio e Video Originali con sottotitoli/EN/srt/0008.srt
+/workspace/Audio e Video Originali con sottotitoli/FR/srt/0008.srt
+/workspace/Audio e Video Originali con sottotitoli/SP/srt/0008.srt

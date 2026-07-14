@@ -1,152 +1,315 @@
 1
-00:00:00,000 --> 00:00:06,360
-Bienvenue dans la salle du foque, connu également sous le nom de plage du foque ou salle des de plages.
+00:00:00,000 --> 00:00:05,681
+Bienvenue dans
+la Salle
+du Phoque,
+connue également
+sous le nom
+de Plage
+du Phoque
 
 2
-00:00:06,360 --> 00:00:10,480
-C'est la dernière partie du parcour touristique de la Grotte du Bueh-Marino.
+00:00:05,681 --> 00:00:11,709
+ou Salle des
+Deux Plages.
+C'est
+la dernière
+partie
+du parcours
+touristique
+de la Grotte
 
 3
-00:00:10,480 --> 00:00:14,560
-Le nom vient de la présence du sable, comme vous pouvez le constater,
+00:00:11,709 --> 00:00:17,598
+du Bue Marino.
+Le nom vient
+de la présence
+du sable : comme
+vous pouvez
+le constater,
 
 4
-00:00:14,560 --> 00:00:20,600
-nous ne marchons plus sur une passée artificielle, mais sur le véritable sol de la Grotte.
+00:00:17,598 --> 00:00:23,141
+nous ne marchons
+plus sur une
+passerelle
+artificielle,
+mais sur
+le véritable sol
 
 5
-00:00:20,600 --> 00:00:24,320
-La salle, aidé dié à la Monacuse Monacuse.
+00:00:23,141 --> 00:00:29,238
+de la grotte.
+La salle est
+dédiée à
+la Monachus
+monachus,
+le moine de mer
+méditerranéen.
 
 6
-00:00:24,320 --> 00:00:31,560
-Le moine de mer méditeranéan, c'est précisément ici que dans les années 1970,
+00:00:29,238 --> 00:00:34,989
+C'est
+précisément ici
+que, dans les
+années 1970,
+l'un des
+derniers
+spécimens encore
 
 7
-00:00:31,560 --> 00:00:37,320
-l'un des derniers spécimens encore présents dans le golf de rosé, fut observé.
+00:00:34,989 --> 00:00:41,225
+présents dans
+le Golfe
+d'Orosei fut
+observé :
+il s'agissait
+d'une mère avec
+son petit. Ces
 
 8
-00:00:37,320 --> 00:00:40,120
-Il s'agissait d'une mer avec son petit.
+00:00:41,225 --> 00:00:47,114
+petites plages
+intérieures
+offraient
+un refuge idéal
+: un endroit
+abrité,
+silencieux,
 
 9
-00:00:40,120 --> 00:00:44,480
-C'est petite plage intérieure, au frait un refug idéal,
+00:00:47,114 --> 00:00:52,795
+à l'abri des
+tempêtes et
+— autrefois
+— aussi de
+la présence
+humaine.
+C'étaient des
 
 10
-00:00:44,480 --> 00:00:51,400
-un endroit abrité, silencieux, à l'abri des tempêtes et, autrefois,
+00:00:52,795 --> 00:00:58,754
+espaces parfaits
+pour le repos
+et l'allaitement
+des jeunes.
+Ce n'est pas
+seulement une
 
 11
-00:00:51,480 --> 00:00:53,600
-aussi de la présence humaine.
+00:00:58,754 --> 00:01:04,089
+salle de
+la grotte
+: c'est un lieu
+qui conserve
+l'un des
+derniers
+témoignages
 
 12
-00:00:53,600 --> 00:00:58,400
-C'était des espaces parfaits pour le repos et la lettre mandégelle.
+00:01:04,089 --> 00:01:09,840
+de la présence
+du moine de mer
+dans ces eaux.
+Cette salle,
+parmi celles
+du parcours
 
 13
-00:00:58,400 --> 00:01:01,040
-Ce n'est pas seulement une salle de la Grotte.
+00:01:09,840 --> 00:01:15,799
+touristique
+de la Grotte
+du Bue Marino,
+est celle qui
+change le plus
+d'année
+en année,
 
 14
-00:01:01,040 --> 00:01:07,120
-C'est un lieu qui conserve l'un des derniers témoignages de la présence du moine de mer dans ses aux.
+00:01:15,799 --> 00:01:21,896
+précisément
+en raison
+de l'activité
+du fleuve.
+Le sable que
+nous foulons
+ne provient pas
 
 15
-00:01:07,120 --> 00:01:12,040
-Cette salle, par misel du parcour touristique de la Grotte du Bueh-Marino,
+00:01:21,896 --> 00:01:27,508
+de la mer, mais
+de la rivière
+souterraine.
+En hiver, selon
+la quantité
+de pluies,
 
 16
-00:01:12,040 --> 00:01:18,040
-et celle qui change le plus d'année en année, précisément en raison de l'activité du fleuve.
+00:01:27,508 --> 00:01:33,605
+la rivière peut
+augmenter
+sensiblement son
+débit.
+À certaines
+périodes, elle
+arrive même
 
 17
-00:01:18,040 --> 00:01:23,400
-Le sable que nous foulons ne provient pas de la mer, mais de la rivière souterraine.
+00:01:33,605 --> 00:01:39,217
+à couvrir une
+grande partie
+du sol,
+transportant
+du nouveau sable
+ou en emportant
 
 18
-00:01:23,400 --> 00:01:29,400
-En hiver, selon la quantité de pluie, la rivière peut augmenter sensiblement son débit.
+00:01:39,217 --> 00:01:44,968
+une partie,
+et modifiant
+légèrement
+la morphologie
+de
+l'environneme-
+nt. Ce qui est
 
 19
-00:01:29,400 --> 00:01:34,440
-A certaines périodes, elle arrive même à couvrir une grande partie du sol,
+00:01:44,968 --> 00:01:50,719
+pour nous la fin
+du parcours
+touristique est
+en réalité aussi
+le début de
+la partie
 
 20
-00:01:34,440 --> 00:01:38,440
-transportant du nouveau sable ou en important une partie.
+00:01:50,719 --> 00:01:56,470
+spéléologique
+du système.
+À partir de
+ce point,
+la grotte
+se poursuit
+et se ramifie
 
 21
-00:01:38,440 --> 00:01:42,080
-Et modifiant légèrement la morphologie de l'environnement,
+00:01:56,470 --> 00:02:02,429
+sur des
+kilomètres,
+se connectant
+à la Grotte
+de Su Palu, à
+la Grotte de
+Su Molente et
 
 22
-00:01:42,200 --> 00:01:50,360
-ce qui est pour nous la fin du parcour touristique est en réalité aussi le début de la partie spéléologique du système.
+00:02:02,429 --> 00:02:08,388
+à la Grotte
+de Monte Longos,
+formant les
+quelque
+75 kilomètres
+de développement
+connus
 
 23
-00:01:50,360 --> 00:01:56,360
-À partir de ce point, la Grotte se poursuit et se ramifie sur des kilomètres,
+00:02:08,388 --> 00:02:14,624
+aujourd'hui.
+La partie
+spéléologique
+est constituée
+de grandes
+salles riches
+en eau douce,
 
 24
-00:01:56,360 --> 00:02:01,200
-se connectant à la Grotte de Superlou, à la Grotte de Sumo-Lentée,
+00:02:14,624 --> 00:02:20,444
+de larges plages
+intérieures,
+de concrétions
+imposantes et
+de nombreux
+siphons : des
 
 25
-00:02:01,200 --> 00:02:08,640
-et à la Grotte de Montélongos, formant les quelques 75 kilomètres de développement connus aujourd'hui.
+00:02:20,444 --> 00:02:26,195
+environnements
+complètement
+remplis d'eau,
+qui ne peuvent
+être franchis
+que par des
 
 26
-00:02:08,640 --> 00:02:13,680
-La partie spéléologique est constituée de grande salle riche dans nos douces,
+00:02:26,195 --> 00:02:32,361
+spéléologues
+expérimentés
+avec l'aide
+de bouteilles
+et d'équipement
+de plongée.
+La visite
 
 27
-00:02:13,680 --> 00:02:19,960
-de large plage intérieurs, de concretions imposantes et de nombreuses chiffons,
+00:02:32,361 --> 00:02:38,389
+se termine ici.
+Avant
+de commencer
+le retour, vous
+serez répartis
+selon votre
+prochaine
 
 28
-00:02:19,960 --> 00:02:26,040
-des environnements complètement remplidos qui ne peuvent être franchies que par des spéléologues
+00:02:38,389 --> 00:02:44,140
+destination
+: Cala Luna,
+la mini-croisière
+ou le port
+de Cala Gonone.
+Chaque groupe
 
 29
-00:02:26,040 --> 00:02:30,840
-expérimentées avec l'aide de bouteilles et d'équipements de plongées.
+00:02:44,140 --> 00:02:50,306
+aura un ordre
+de sortie
+spécifique,
+il est donc
+essentiel que
+vous écoutiez
+attentivement
 
 30
-00:02:30,840 --> 00:02:33,040
-La visite se termine ici.
+00:02:50,306 --> 00:02:56,542
+les indications
+des guides, afin
+de ne pas
+risquer
+de manquer votre
+embarcation.
+Nous vous
 
 31
-00:02:33,040 --> 00:02:38,680
-Avant de commencer le retour, vous se répartis selon votre prochaine destination,
+00:02:56,542 --> 00:03:02,016
+remercions
+d'avoir choisi
+de visiter
+la Grotte du Bue
+Marino. Nous
+espérons que
 
 32
-00:02:38,680 --> 00:02:43,600
-Kalaluna, la mini-croisière, ou le port de Kalagonon.
+00:03:02,016 --> 00:03:07,351
+ce parcours vous
+a émus et vous
+a permis
+de découvrir
+davantage
+ce territoire
 
 33
-00:02:43,600 --> 00:02:47,360
-Chaque groupe aura un ordre de sortis spécifique.
-
-34
-00:02:47,360 --> 00:02:53,240
-Il est donc essentiel que vous écoutiez attentivement les indications d'Eguid,
-
-35
-00:02:53,240 --> 00:02:56,640
-afin de ne pas risquer de manquer votre embarcation,
-
-36
-00:02:56,640 --> 00:03:01,200
-nous vous remercions d'avoir choisi de visiter la Grotte du Bue-Marino.
-
-37
-00:03:01,200 --> 00:03:06,600
-Nous espérons que ce parcours vous a aimue et vous a permis de découvrir davantage
-
-38
-00:03:06,600 --> 00:03:10,880
-ce territoire extraordinaire et le monde souterrain qu'il abrite.
-
+00:03:07,351 --> 00:03:10,880
+extraordinaire
+et le monde
+souterrain qu'il
+abrite.

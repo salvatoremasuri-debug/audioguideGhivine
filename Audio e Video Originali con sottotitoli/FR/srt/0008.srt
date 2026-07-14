@@ -1,124 +1,278 @@
 1
-00:00:00,000 --> 00:00:05,100
-Mais que savons-nous de la présence humaine à l'intérieur de la Grotte du Bue-Marino.
+00:00:00,000 --> 00:00:06,033
+Mais que
+savons-nous
+de la présence
+humaine
+à l'intérieur
+de la Grotte
+du Bue Marino
 
 2
-00:00:05,100 --> 00:00:09,300
-La Grotte n'est pas seulement un lieu d'une beauté naturelle extraordinaire,
+00:00:06,033 --> 00:00:11,563
+? La grotte
+n'est pas
+seulement
+un lieu d'une
+beauté naturelle
+extraordinaire
 
 3
-00:00:09,300 --> 00:00:13,000
-c'est aussi un site d'un grand intérêt archéologique.
+00:00:11,563 --> 00:00:17,237
+: c'est aussi
+un site d'un
+grand intérêt
+archéologique.
+Les preuves
+recueillies
 
 4
-00:00:13,000 --> 00:00:18,100
-Les preuves recueillis indiquent que la Grotte était fréquentée dès la préhistoire.
+00:00:17,237 --> 00:00:23,629
+indiquent que
+la grotte était
+fréquentée dès
+la préhistoire.
+En observant
+la paroi devant
 
 5
-00:00:18,100 --> 00:00:23,240
-En observant la parois de vends-vous, vous pouvez remarquer un enquadrement avec des graveurs
+00:00:23,629 --> 00:00:30,021
+vous, vous
+pouvez remarquer
+un encadrement
+avec des
+gravures
+rupestres
+particulièrem-
+ent
 
 6
-00:00:23,240 --> 00:00:26,300
-rupeurs particulièrement significatives.
+00:00:30,021 --> 00:00:35,695
+significatives
+: il s'agit
+d'une vingtaine
+de figures
+anthropomorph-
+es gravées
 
 7
-00:00:26,300 --> 00:00:30,900
-Il s'agit d'une vingtaine de figures entre au pômeur, graveux au Marto,
+00:00:35,695 --> 00:00:41,584
+au marteau,
+d'une cupule
+— une petite
+cavité
+circulaire
+creusée dans
+la roche — et
 
 8
-00:00:30,900 --> 00:00:35,700
-d'une cupule, une petite cavité circulaire creusée dans la roche,
+00:00:41,584 --> 00:00:47,976
+de deux cercles
+concentriques
+avec une autre
+cupule en leur
+centre. Selon
+les chercheurs,
 
 9
-00:00:35,700 --> 00:00:40,300
-et de deux cercles concentriques avec une autre cupule en leur centre.
+00:00:47,976 --> 00:00:53,793
+ces gravures
+pourraient
+remonter à
+la Culture
+d'Ozieri
+(4000–3500 av.
+J.-C.) ou à
 
 10
-00:00:40,300 --> 00:00:45,800
-Selon les chercheurs, ces graveurs pourraient remonter à la culture dosierie,
+00:00:53,793 --> 00:00:59,826
+la Culture
+de Filigosa
+(3000–2500 av.
+J.-C.),
+certainement
+à une époque
+où le niveau
 
 11
-00:00:45,800 --> 00:00:49,700
-quatre mille à trois mille cinq cents avant Jésus-Christ.
+00:00:59,826 --> 00:01:05,859
+de la mer était
+inférieur
+de quelques
+mètres par
+rapport
+à aujourd'hui
+et où l'accès
 
 12
-00:00:49,700 --> 00:00:55,900
-Ou à la culture de philigosat, trois mille à deux mille cinq cents avant Jésus-Christ.
+00:01:05,859 --> 00:01:12,251
+à la grotte
+se faisait
+probablement par
+voie terrestre.
+Si vous regardez
+en bas à droite,
 
 13
-00:00:55,900 --> 00:01:01,100
-Certainement à une époque où le niveau de la mère était inférieure de quelques mètres
+00:01:12,251 --> 00:01:18,140
+vous remarquerez
+une figure
+isolée avec une
+structure
+particulière
+en « candélabre
 
 14
-00:01:01,100 --> 00:01:07,100
-par rapport à aujourd'hui, et où l'accès à la Grotte, se faisait probablement par voie terrestre.
+00:01:18,140 --> 00:01:24,532
+», dotée
+de membres
+multiples. Juste
+au-dessus
+d'elle,
+on distingue
+deux figures
+avec des
 
 15
-00:01:07,100 --> 00:01:11,700
-Si vous regardez en bas à droite, vous remarquerez une figure isolée,
+00:01:24,532 --> 00:01:30,780
+appendices
+latéraux
+obliques. Plus
+haut encore
+apparaît une
+figure avec les
+bras et les
 
 16
-00:01:11,700 --> 00:01:17,900
-avec une structure particulière en quandes et l'abres, d'auté de membres multiples.
+00:01:30,780 --> 00:01:36,382
+jambes pliés
+dans la même
+direction.
+Toutes les
+figures
+présentent des
+membres
 
 17
-00:01:17,900 --> 00:01:24,100
-Juste au-dessus d'elle, on distingue deux figures avec des appendis latéraux oblique.
+00:01:36,382 --> 00:01:41,912
+allongés, arqués
+et inclinés,
+disposés
+de façon
+irrégulière
+autour des
+motifs
 
 18
-00:01:24,100 --> 00:01:30,500
-Plus, encore apparaît une figure avec les bras et les jambes pliés dans la même direction.
+00:01:41,912 --> 00:01:47,801
+concentriques.
+L'interprétat-
+ion la plus
+répandue suggère
+que la scène
+représente
 
 19
-00:01:30,500 --> 00:01:33,900
-Toutes les figures présentes des membres allongées,
+00:01:47,801 --> 00:01:53,977
+un groupe
+de figures
+en prière
+disposées autour
+d'un symbole
+circulaire,
+peut-être lié
 
 20
-00:01:33,900 --> 00:01:40,700
-arcées et inclinées, disposées de façon irrégulière autour des motifs concentriques.
+00:01:53,977 --> 00:01:59,507
+à des rituels
+religieux ou
+à des pratiques
+symboliques
+liées à
+la nature. Des
 
 21
-00:01:40,700 --> 00:01:50,700
-L'interprétation la plus répandue, suggère que la scène représente un groupe de figures en prière disposait autour d'un symbole circulaire.
+00:01:59,507 --> 00:02:05,468
+représentatio-
+ns
+anthropomorph-
+es stylisées
+similaires
+se trouvent
+également dans
 
 22
-00:01:50,700 --> 00:01:57,100
-Peut-être lié à des rituales religieux ou à des pratiques symboliques liés à la nature.
+00:02:05,468 --> 00:02:11,357
+d'autres sites
+italiens, comme
+le Parc National
+des Gravures
+Rupestres
+de Naquane,
 
 23
-00:01:57,100 --> 00:02:04,300
-Des représentations anthropomorphes stylisés similaires se trouvent également dans d'autres sites italien,
+00:02:11,357 --> 00:02:17,605
+le site de Sas
+Concas et
+la Grotte
+du Papa. Les
+analogies entre
+des lieux
+pourtant très
 
 24
-00:02:04,300 --> 00:02:11,900
-comme le parc national des gravures repästres de Naquan, le site de Saskongas et la Grotte du Papa.
+00:02:17,605 --> 00:02:23,997
+éloignés les uns
+des autres
+suggèrent
+l'existence,
+dans
+l'Antiquité,
+d'un réseau
+culturel
 
 25
-00:02:11,900 --> 00:02:16,900
-Les analogies entre des lieux pourtant très éloignées, les uns des autres,
+00:02:23,997 --> 00:02:30,101
+partagé, dans
+lequel symboles
+et pratiques
+rituelles
+se diffusaient
+entre
+différentes
 
 26
-00:02:16,900 --> 00:02:22,500
-suggèrent l'existence dans l'antiquité d'un réseau culturel partagé.
+00:02:30,101 --> 00:02:35,990
+communautés.
+Devant vous,
+vous n'observez
+pas seulement
+des gravures
+dans la roche
 
 27
-00:02:22,500 --> 00:02:29,100
-Dans lequel, symboles et pratiques rituales se diffusées entre différentes communautés.
+00:02:35,990 --> 00:02:41,664
+: vous observez
+un témoignage
+de
+la spiritualité
+préhistorique
+de la Sardaigne.
 
 28
-00:02:29,100 --> 00:02:33,700
-Devant vous, vous n'observez pas seulement des gravures dans la roche.
+00:02:41,664 --> 00:02:47,481
+En ce point
+précis,
+la nature et
+la présence
+humaine
+se rencontrent,
+laissant une
 
 29
-00:02:33,700 --> 00:02:40,700
-Vous observez un témoignage de la spiritualité préistorique de la Sardine.
-
-30
-00:02:40,900 --> 00:02:46,500
-En ce point précis, la nature et la présence humaine se rencontre.
-
-31
-00:02:46,500 --> 00:02:51,500
-Les sons d'une empreinte qui traversent des milliers d'année d'histoire.
-
+00:02:47,481 --> 00:02:51,500
+empreinte qui
+traverse des
+milliers
+d'années
+d'histoire.

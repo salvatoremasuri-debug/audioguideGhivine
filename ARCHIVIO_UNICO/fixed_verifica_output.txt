@@ -1,0 +1,17 @@
+IT/srt/0001.srt
+IT/srt/0003.srt
+IT/srt/0004.srt
+EN/srt/0001.srt
+EN/srt/0002.srt
+EN/srt/0003.srt
+EN/srt/0004.srt
+EN/srt/0005.srt
+EN/srt/0006.srt
+EN/srt/0007.srt
+FR/srt/0001.srt
+FR/srt/0002.srt
+FR/srt/0003.srt
+FR/srt/0004.srt
+FR/srt/0005.srt
+FR/srt/0006.srt
+FR/srt/0007.srt

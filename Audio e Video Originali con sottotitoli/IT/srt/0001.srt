@@ -1,156 +1,299 @@
 1
-00:00:00,000 --> 00:00:06,400
-Benvenuti alla grotta del Buo e Marino, uno dei luoghi più straordinari del Golfo di Orosei.
+00:00:00,000 --> 00:00:06,388
+Benvenuti alla
+Grotta del Bue
+Marino, uno dei
+luoghi più
+straordinari del
+Golfo di Orosei.
 
 2
-00:00:06,400 --> 00:00:12,960
-Prima di iniziare il percorso è fondamentale conoscere e rispettare le regole di visita.
+00:00:06,388 --> 00:00:12,705
+Prima
+di iniziare
+il percorso,
+è fondamentale
+conoscere
+e rispettare
+le regole
+di visita:
 
 3
-00:00:12,960 --> 00:00:18,480
-Servono a proteggere voi e questo ambiente unico, fragile e millenario.
+00:00:12,705 --> 00:00:18,951
+servono
+a proteggere voi
+e questo
+ambiente unico,
+fragile
+e millenario.
+La visita durerà
 
 4
-00:00:18,480 --> 00:00:21,360
-La visita durerà circa cinquanta minuti.
+00:00:18,951 --> 00:00:24,558
+circa 50 minuti.
+Il percorso
+si sviluppa
+lungo un'unica
+passerella,
+accessibile
 
 5
-00:00:21,360 --> 00:00:26,400
-Il percorso si sviluppa lungo un'unica passerella, accessibile a tutti,
+00:00:24,558 --> 00:00:30,378
+a tutti, per
+circa
+1 chilometro
+all'andata e
+1 chilometro
+al rientro.
+I passeggini
 
 6
-00:00:26,400 --> 00:00:31,280
-per circa un chilometro allandata e un chilometro al rientro.
+00:00:30,378 --> 00:00:36,766
+sono permessi
+e le carrozzine
+possono essere
+utilizzate per
+l'intero
+tragitto.
+Il percorso
 
 7
-00:00:31,280 --> 00:00:37,600
-I passegini sono permessi e le carruzine possono essere utilizzate per l'intero tragetto.
+00:00:36,766 --> 00:00:42,444
+è lineare e non
+presenta
+diramazioni
+aperte
+al pubblico.
+È però molto
+importante
 
 8
-00:00:37,600 --> 00:00:43,360
-Il percorso è lineare e non presenta di ramazioni aperte al pubblico.
+00:00:42,444 --> 00:00:48,477
+rispettare
+le tempistiche.
+Entro 50 minuti
+è necessario
+essere
+nuovamente
+all'esterno
 
 9
-00:00:43,360 --> 00:00:46,880
-E però molto importante rispettare le tempistiche.
+00:00:48,477 --> 00:00:54,084
+della grotta,
+per poter
+prendere
+l'imbarcazione
+che
+vi accompagnerà
+alla vostra
 
 10
-00:00:46,880 --> 00:00:52,720
-Entro cinquanta minuti è necessario essere nuovamente all'esterno della grotta.
+00:00:54,084 --> 00:01:00,188
+destinazione
+successiva. Per
+questo motivo
+è fondamentale
+seguire il passo
+della guida
 
 11
-00:00:52,720 --> 00:00:58,800
-Per poter prendere l'imbarcazione che vi accompagnera alla vostra destinazione successiva.
+00:01:00,188 --> 00:01:06,008
+e non rimanere
+troppo indietro.
+Fermarsi
+eccessivamente
+lungo
+il percorso
+potrebbe
 
 12
-00:00:58,800 --> 00:01:05,440
-Per questo motivo è fondamentale seguire il passo della guida e non rimanere troppo indietro.
+00:01:06,008 --> 00:01:12,112
+compromettere
+i tempi della
+visita
+e rischiare
+di farvi perdere
+la barca.
+Collaborando
 
 13
-00:01:05,440 --> 00:01:10,480
-Firmarsi eccessivamente lungo il percorso, potrebbe comprometere i tempi della visita
+00:01:12,112 --> 00:01:18,074
+e mantenendo
+un'andatura
+costante, tutti
+potranno vivere
+l'esperienza
+in modo sereno
 
 14
-00:01:10,480 --> 00:01:13,360
-e rischiare di farvi perdere la barca.
+00:01:18,074 --> 00:01:23,610
+e completo.
+La grotta è
+un ecosistema
+delicatissimo.
+Non toccate
+le stalattiti
 
 15
-00:01:13,360 --> 00:01:20,560
-Collaborando e mantenendo unandatura costante, tutti potranno vivere l'esperienza in modo sereno e completo.
+00:01:23,610 --> 00:01:29,856
+e le stalagmiti:
+anche
+un semplice
+contatto può
+interrompere
+un processo
+di crescita che
 
 16
-00:01:20,560 --> 00:01:23,760
-La grotta è un ecosistema delicatissimo.
+00:01:29,856 --> 00:01:36,244
+richiede
+migliaia
+di anni. Non
+raccogliete
+nulla e non
+lasciate
+rifiuti. Ogni
+elemento qui
 
 17
-00:01:23,760 --> 00:01:29,520
-Non toccate le stalattiti e le stalagmiti, anche un semplice contatto può interromper un processo
+00:01:36,244 --> 00:01:41,780
+ha un valore
+scientifico
+e naturalistico.
+Seguite
+esclusivamente
+le passerelle
 
 18
-00:01:29,520 --> 00:01:32,320
-di crescita che richiede migliaia di anni.
+00:01:41,780 --> 00:01:48,168
+e il percorso
+segnalato. Non
+è consentito
+uscire dalle
+aree
+autorizzate.
+Questo
+garantisce
 
 19
-00:01:32,320 --> 00:01:35,680
-Non raccogliete nulla e non lasciate rifiuti.
+00:01:48,168 --> 00:01:53,704
+la vostra
+sicurezza
+e tutela
+le formazioni
+calcaree.
+Mantenete
+un tono di voce
 
 20
-00:01:35,680 --> 00:01:42,080
-Ogni elemento qui ha un valore scientifico e naturalistico seguite esclusivamente le passerelle
+00:01:53,704 --> 00:01:59,808
+basso. La grotta
+amplifica
+i suoni e
+un ambiente
+silenzioso
+permette a tutti
+di vivere
 
 21
-00:01:42,080 --> 00:01:44,080
-e il percorso segnalato.
+00:01:59,808 --> 00:02:06,125
+un'esperienza
+suggestiva e
+il più possibile
+autentica. Non
+è consentito
+fumare.
+È vietato
 
 22
-00:01:44,080 --> 00:01:47,680
-Non è consentito uscire dalle aree autorizzate.
+00:02:06,125 --> 00:02:11,945
+accendere fiamme
+libere.
+È permesso fare
+fotografie
+ma l'uso del
+flash
+fotografico
 
 23
-00:01:47,680 --> 00:01:53,280
-Questo garantisce la vostra sicurezza e tutela le formazioni calcare.
+00:02:11,945 --> 00:02:18,262
+è vietato: oltre
+a poter
+interferire con
+l'equilibrio
+dell'ambiente
+sotterraneo,
+il flash
 
 24
-00:01:53,280 --> 00:01:58,880
-Mantenete un tono di voce basso, la grotta amplifica i suoni e un ambiente silenzioso
+00:02:18,262 --> 00:02:23,940
+compromette
+la qualità
+stessa della
+visita. In uno
+spazio
+naturalmente
+buio come
 
 25
-00:01:58,880 --> 00:02:04,640
-permette a tutti di vivere una esperienza suggestiva e il più possibile autentica.
+00:02:23,940 --> 00:02:30,186
+la grotta,
+la luce
+artificiale
+improvvisa
+altera
+l'atmosfera,
+crea un forte
+inquinamento
 
 26
-00:02:04,640 --> 00:02:06,800
-Non è consentito fumare.
+00:02:30,186 --> 00:02:36,432
+visivo
+e interrompe
+quella
+suggestione
+fatta di ombre,
+silenzi
+e riflessi
+sull'acqua che
 
 27
-00:02:06,800 --> 00:02:09,040
-È vietato a cendere fiame libere.
+00:02:36,432 --> 00:02:42,323
+rende unica
+l'esperienza.
+La guida
+è responsabile
+della vostra
+sicurezza.
+Ascoltate
 
 28
-00:02:09,040 --> 00:02:13,920
-È permesso fare fotografie, ma l'uso del flash fotografico è vietato.
+00:02:42,323 --> 00:02:48,214
+attentamente
+le istruzioni,
+soprattutto nei
+tratti più
+stretti o con
+pavimentazione
 
 29
-00:02:13,920 --> 00:02:18,880
-Oltre a poter interferire con le equilibrio dell'ambiente soterraneo, il flash compromette
+00:02:48,214 --> 00:02:53,608
+umida. La Grotta
+del Bue Marino
+è un patrimonio
+naturale
+prezioso:
+il vostro
 
 30
-00:02:18,880 --> 00:02:20,960
-la qualità stessa della visita.
+00:02:53,608 --> 00:02:58,931
+rispetto è parte
+integrante
+dell'esperien-
+za. Grazie per
+la
+collaborazione
 
 31
-00:02:20,960 --> 00:02:28,000
-In uno spazio naturalmente buio come la grotta, la luce artificiale improvvisa altera la atmosfera,
-
-32
-00:02:28,000 --> 00:02:34,560
-crea un forte in cui namento visivo e interrompe quella sugestione fatta di ombre, silenzi
-
-33
-00:02:34,560 --> 00:02:38,600
-e riflessi sull'acqua che rende unica l'esperienza.
-
-34
-00:02:38,600 --> 00:02:42,280
-La guida è responsabile della vostra sicurezza.
-
-35
-00:02:42,280 --> 00:02:48,240
-Ascoltate attentamente le instruzioni, soprattutto nei tratti più stretti o compavimentazione
-
-36
-00:02:48,240 --> 00:02:49,240
-humida.
-
-37
-00:02:49,240 --> 00:02:54,880
-La grotta del buo e marino è un patrimonio naturale prezioso, il vostro rispetto
-
-38
-00:02:54,880 --> 00:02:57,560
-è parte integrante delle esperienze.
-
-39
-00:02:57,560 --> 00:03:00,000
-Grazie per la collaborazione e buona visita.
-
+00:02:58,931 --> 00:03:00,000
+e buona visita.

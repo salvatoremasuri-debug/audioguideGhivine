@@ -1,64 +1,221 @@
 1
-00:00:00,000 --> 00:00:08,000
-Le nom Grotte du Bueh-Marino est lié à la présence, jusqu'à il y a quelques décennies, de la Monacuse Monacuse.
+00:00:00,000 --> 00:00:06,420
+Le nom Grotte
+du Bue Marino
+est lié à
+la présence,
+jusqu'à il y
+a quelques
+décennies, de
 
 2
-00:00:08,000 --> 00:00:13,200
-Le moins de mer, connu en sarde sous le nom de sous-Marino.
+00:00:06,420 --> 00:00:12,476
+la Monachus
+monachus,
+le moine de mer,
+connue en sarde
+sous le nom
+de Su Oe Marinu,
 
 3
-00:00:13,200 --> 00:00:22,000
-Le Bueh-Marin, ce surnom, provient de son aspect massif et décembreve qu'elle est mette à l'intérieur des cavités cotières.
+00:00:12,476 --> 00:00:18,678
+le « bœuf marin
+». Ce surnom
+provient de son
+aspect massif
+et des sons
+graves qu'elle
 
 4
-00:00:22,000 --> 00:00:28,000
-Un cri qui, amplifié par les parois de la Grotte, rappelait le meuglement d'un beuf.
+00:00:18,678 --> 00:00:24,807
+émettait
+à l'intérieur
+des cavités
+côtières :
+un cri qui,
+amplifié par les
+parois de
 
 5
-00:00:28,000 --> 00:00:36,000
-Le moins de mer méditerranais, est l'un des mammifères marins les plus rares au monde, et est une espèce en voie d'extinction.
+00:00:24,807 --> 00:00:31,227
+la grotte,
+rappelait
+le meuglement
+d'un bœuf.
+Le moine de mer
+méditerranéen
+est l'un des
 
 6
-00:00:36,000 --> 00:00:48,000
-On estime, qu'il n'en existe pas plus de 500 individus dans toute la mer méditerranais, concentré principalement dans quelques zones particulièrement isolées et protéger.
+00:00:31,227 --> 00:00:37,137
+mammifères
+marins les plus
+rares au monde
+et est une
+espèce en voie
+d'extinction.
 
 7
-00:00:48,000 --> 00:01:00,000
-Comme certains archipels de la Grèce et des tronçons des côtes d'Afrique d'une heure, sa présence est aujourd'hui fragmentée et précaire, lié à des endroits encore peu entreprise.
+00:00:37,137 --> 00:00:43,339
+On estime qu'il
+n'en existe pas
+plus de 500
+individus dans
+toute la mer
+Méditerranée,
 
 8
-00:01:00,000 --> 00:01:11,000
-Un spécimen adulte peut atteindre 2,5 m de longueur et un poids moyen compris entre 250 et 300 kg.
+00:00:43,339 --> 00:00:49,613
+concentrés
+principalement
+dans quelques
+zones
+particulièrem-
+ent isolées
+et protégées,
 
 9
-00:01:11,000 --> 00:01:17,000
-Le corps est robuste, le muzeau cour et arrondit, les yeux grands et sombres.
+00:00:49,613 --> 00:00:55,523
+comme certains
+archipels de
+la Grèce et des
+tronçons des
+côtes d'Afrique
+du Nord.
 
 10
-00:01:17,000 --> 00:01:33,000
-La robe varie du gré au brin français, jusqu'aux années 1980, le moins de mer vivait de façon stable dans le golf de rosé et utilisait ses grotes comme refusure pour se reposer et mettre bas.
+00:00:55,523 --> 00:01:01,214
+Sa présence est
+aujourd'hui
+fragmentée
+et précaire,
+liée à des
+endroits encore
 
 11
-00:01:33,000 --> 00:01:45,000
-Avec l'augmentation du tourisme, du trafic maritime et de la présence humaine le long de la côte, l'espèce a progressivement déserté la zone jusqu'à disparaître.
+00:01:01,214 --> 00:01:07,416
+peu anthropisés.
+Un spécimen
+adulte peut
+atteindre 2,5
+mètres
+de longueur
+et un poids
 
 12
-00:01:45,000 --> 00:01:50,000
-Ce n'était se pendant pas un animal particulièrement apprécié des pêcheurs locaux.
+00:01:07,416 --> 00:01:13,326
+moyen compris
+entre 250 et 300
+kilogrammes.
+Le corps est
+robuste,
+le museau court
 
 13
-00:01:50,000 --> 00:01:59,000
-A tirer par le poids sont piégés dans les filles, elle les déchirait et se nourrissait facilement des prises causant des dommages économiques.
+00:01:13,326 --> 00:01:19,600
+et arrondi, les
+yeux grands
+et sombres.
+La robe varie
+du gris au brun
+foncé. Jusqu'aux
 
 14
-00:01:59,000 --> 00:02:05,000
-Ce conflit avec l'homme a contribué au fil du temps à sa persecution.
+00:01:19,600 --> 00:01:24,999
+années 1980,
+le moine de mer
+vivait de façon
+stable dans
+le Golfe
+d'Orosei
 
 15
-00:02:05,000 --> 00:02:09,000
-Aujourd'hui, son souvenir survie dans le nom de cette grotte.
+00:01:24,999 --> 00:01:30,617
+et utilisait ces
+grottes comme
+refuge sûr pour
+se reposer
+et mettre bas.
+Avec
 
 16
-00:02:09,000 --> 00:02:23,000
-En marchant ici, entre silence et au cristaline, nous pouvons imaginer les poques où ce lieu était le refuge de l'un des animaux les plus fascinants, les plus rares et les plus vulnérables de la méditerranée.
+00:01:30,617 --> 00:01:36,454
+l'augmentation
+du tourisme,
+du trafic
+maritime et
+de la présence
+humaine le long
 
+17
+00:01:36,454 --> 00:01:42,947
+de la côte,
+l'espèce
+a progressiveme-
+nt déserté
+la zone, jusqu'à
+disparaître.
+Ce n'était
+
+18
+00:01:42,947 --> 00:01:49,076
+cependant pas
+un animal
+particulièrem-
+ent apprécié des
+pêcheurs locaux.
+Attirée par
+
+19
+00:01:49,076 --> 00:01:55,278
+le poisson piégé
+dans les filets,
+elle les
+déchirait et
+se nourrissait
+facilement des
+
+20
+00:01:55,278 --> 00:02:00,969
+prises, causant
+des dommages
+économiques.
+Ce conflit avec
+l'homme
+a contribué,
+
+21
+00:02:00,969 --> 00:02:06,733
+au fil du temps,
+à
+sa persécution.
+Aujourd'hui, son
+souvenir survit
+dans le nom
+
+22
+00:02:06,733 --> 00:02:13,226
+de cette grotte.
+En marchant ici,
+entre silence
+et eau
+cristalline,
+nous pouvons
+imaginer
+
+23
+00:02:13,226 --> 00:02:19,063
+l'époque où
+ce lieu était
+le refuge
+de l'un des
+animaux les plus
+fascinants, les
+
+24
+00:02:19,063 --> 00:02:23,000
+plus rares
+et les plus
+vulnérables
+de
+la Méditerranée.

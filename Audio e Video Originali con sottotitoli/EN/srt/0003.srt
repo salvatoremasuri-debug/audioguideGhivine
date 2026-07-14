@@ -1,212 +1,367 @@
 1
-00:00:00,000 --> 00:00:06,720
-Welcome to the evocative hall of Candelabras, so named because the Spilio Thames found in
+00:00:00,000 --> 00:00:05,673
+Welcome to the
+evocative Hall
+of Candelabras,
+so named because
+the speleothems
 
 2
-00:00:06,720 --> 00:00:11,160
-this section of the route, resemble, in shape and color.
+00:00:05,673 --> 00:00:12,073
+found in this
+section of the
+route resemble,
+in shape and
+colour, elegant
+nineteenth-ce-
 
 3
-00:00:11,160 --> 00:00:18,560
-Elegan 19th century Candelabras, with wax seemingly dripping slowly from the candles.
+00:00:12,073 --> 00:00:17,746
+ntury
+candelabras,
+with wax
+seemingly
+dripping slowly
+from the
+candles. We are
 
 4
-00:00:18,560 --> 00:00:23,520
-We are now in the first of the four halls we will visit along a route of approximately
+00:00:17,746 --> 00:00:23,492
+now in the first
+of the four
+halls we will
+visit along
+a route
+of approximately
 
 5
-00:00:23,520 --> 00:00:25,120
-one kilometer.
+00:00:23,492 --> 00:00:29,747
+one kilometre.
+In reality,
+however, the
+Grotta del Bue
+Marino is part
+of a much larger
 
 6
-00:00:25,120 --> 00:00:31,480
-In reality, however, the Grotta del Boe-Marino is part of a much larger car's system.
+00:00:29,747 --> 00:00:36,002
+karst system.
+The cave you are
+visiting today
+connects,
+through
+underground
+galleries,
 
 7
-00:00:31,480 --> 00:00:37,440
-The cave you are visiting today connects through underground galleries to three other cavities,
+00:00:36,002 --> 00:00:42,402
+to three other
+cavities: the
+Grotta di
+Su Palu, the
+Grotta di
+Su Molente, and
+the Grotta
 
 8
-00:00:37,440 --> 00:00:43,360
-the Grotta de Supalu, the Grotta de Sumo-Lente, and the Grotta de Montelongos.
+00:00:42,402 --> 00:00:48,584
+di Monte Longos.
+There are
+therefore four
+external
+entrances
+leading to
+a single vast
 
 9
-00:00:43,360 --> 00:00:49,080
-There are therefore four external entrances leading to a single vast underground system,
+00:00:48,584 --> 00:00:54,766
+underground
+system, with
+approximately
+75 kilometres
+explored so far.
+It is important
 
 10
-00:00:49,080 --> 00:00:53,280
-with approximately 75 kilometers explored so far.
+00:00:54,766 --> 00:01:01,094
+to stress this:
+the system
+is still being
+explored. We
+do not yet know
+its true extent.
 
 11
-00:00:53,280 --> 00:00:55,560
-It is important to stress this.
+00:01:01,094 --> 00:01:07,131
+With its
+75 kilometres
+already
+documented,
+it is currently
+the second
+longest karst
 
 12
-00:00:55,560 --> 00:00:58,120
-The system is still being explored.
+00:01:07,131 --> 00:01:13,240
+system in Italy.
+The Grotta del
+Bue Marino
+is the only part
+of the system
+accessible
 
 13
-00:00:58,120 --> 00:01:05,000
-We do not yet know its true extent, with its 75 kilometers already documented, it is currently
+00:01:13,240 --> 00:01:19,349
+to the public
+and is divided
+into three
+branches: the
+northern branch,
+approximately
 
 14
-00:01:05,000 --> 00:01:09,200
-the second longest car's system in Italy.
+00:01:19,349 --> 00:01:25,822
+9 km long,
+currently closed
+to the public;
+the central
+branch, 5
+km long,
+accessible only
 
 15
-00:01:09,200 --> 00:01:14,840
-The Grotta del Boe-Marino is the only part of the system accessible to the public and is
+00:01:25,822 --> 00:01:32,150
+to cave divers;
+the southern
+branch, 8
+km long, the one
+we are visiting
+today, of which
 
 16
-00:01:14,840 --> 00:01:17,600
-divided into three branches.
+00:01:32,150 --> 00:01:37,823
+only the first
+kilometre has
+been open
+to visitors
+since 1983, the
+year of its
 
 17
-00:01:17,640 --> 00:01:24,200
-The Northern Branch, approximately 9 kilometers long, currently closed to the public.
+00:01:37,823 --> 00:01:44,369
+first public
+opening. The
+southern branch
+is still active.
+Along the route
+you will notice
 
 18
-00:01:24,200 --> 00:01:29,680
-The central branch, 5 kilometers long, accessible only to cave divers.
+00:01:44,369 --> 00:01:50,187
+dripping water,
+a sign that the
+formations are
+still slowly
+developing: the
+cave
 
 19
-00:01:29,680 --> 00:01:32,760
-The Southern Branch, 8 kilometers long.
+00:01:50,187 --> 00:01:55,715
+is constantly
+changing, even
+if imperceptibly
+to our eyes. But
+the cave also
 
 20
-00:01:32,760 --> 00:01:38,120
-The one we are visiting today, of which only the first kilometer has been open to visitors
+00:01:55,715 --> 00:02:01,970
+changes through
+another, far
+more powerful
+force: the
+erosive action
+of
+an underground
 
 21
-00:01:38,120 --> 00:01:42,440
-since 1983, the year of its first public opening.
+00:02:01,970 --> 00:02:08,298
+river that still
+flows today and
+continues
+to carve out
+these galleries.
+For almost the
 
 22
-00:01:42,440 --> 00:01:45,000
-The Southern Branch is still active.
+00:02:08,298 --> 00:02:14,698
+entire length
+of our route,
+there
+is seawater
+beneath our
+feet. At the end
+of the route,
 
 23
-00:01:45,000 --> 00:01:50,120
-Along the route you will notice dripping water, a sign that the formations are still slowly
+00:02:14,698 --> 00:02:20,735
+we will instead
+encounter
+an underground
+river: ahead
+of us will flow
+fresh, clear,
 
 24
-00:01:50,120 --> 00:01:51,600
-developing.
+00:02:20,735 --> 00:02:27,208
+and silent
+water. It
+is precisely
+this watercourse
+that is the
+principal
+architect of the
 
 25
-00:01:51,600 --> 00:01:57,120
-The cave is constantly changing, even if imperceptibly, to our eyes.
+00:02:27,208 --> 00:02:33,463
+entire karst
+system. Through
+its erosive
+force, exerted
+over millions
+of years, it has
 
 26
-00:01:57,120 --> 00:02:02,840
-But the cave also changes through another far more powerful force, the erosive action
+00:02:33,463 --> 00:02:39,572
+carved through
+the limestone,
+shaping
+galleries,
+widening
+cavities, and
+contributing
 
 27
-00:02:02,840 --> 00:02:09,320
-of an underground river that still flows today and continues to carve out these galleries.
+00:02:39,572 --> 00:02:45,609
+to the formation
+of most of the
+75 kilometres
+explored
+to date. As you
+walk through
 
 28
-00:02:09,320 --> 00:02:13,960
-For almost the entire length of our route, there is sea water beneath our feet.
-
-29
-00:02:13,960 --> 00:02:18,360
-At the end of the route, we will instead encounter an underground river.
-
-30
-00:02:18,360 --> 00:02:22,840
-A head of us will flow fresh, clear and silent water.
-
-31
-00:02:22,840 --> 00:02:27,720
-It is precisely this water course that is the principle architect of the entire car's
-
-32
-00:02:27,720 --> 00:02:29,000
-system.
-
-33
-00:02:29,000 --> 00:02:35,200
-Through its erosive force exerted over millions of years, it has carved through the limestone,
-
-34
-00:02:35,200 --> 00:02:41,000
-shaping galleries, widening cavities, and contributing to the formation of most of the
-
-35
-00:02:41,000 --> 00:02:44,960
-75 kilometers explored to date.
-
-36
-00:02:44,960 --> 00:02:50,800
-As you walk through these halls, try to imagine a time when the spaces you see were completely
-
-37
-00:02:50,800 --> 00:02:53,120
+00:02:45,609 --> 00:02:51,791
+these halls, try
+to imagine
+a time when the
+spaces you see
+were completely
 submerged.
 
+29
+00:02:51,791 --> 00:02:57,464
+During the early
+stages of its
+formation, the
+cave was filled
+with fresh water
+
+30
+00:02:57,464 --> 00:03:03,573
+right up to the
+ceiling. The
+mighty
+underground
+river occupied
+every space,
+exerting
+
+31
+00:03:03,573 --> 00:03:09,828
+a continuous
+erosive action
+on the rock
+in its slow and
+ceaseless
+journey
+in search of
+
+32
+00:03:09,828 --> 00:03:16,083
+a natural
+outlet. That
+outlet was found
+at the sea: the
+current entrance
+to the Grotta
+
+33
+00:03:16,083 --> 00:03:21,756
+del Bue Marino
+coincides
+in fact with the
+mouth of that
+underground
+river, the
+
+34
+00:03:21,756 --> 00:03:27,574
+terminal stretch
+of a vast system
+shaped by water
+over geological
+time. When the
+
+35
+00:03:27,574 --> 00:03:34,120
+river opened its
+outlet to the
+sea, the water
+level inside the
+cave gradually
+dropped. The
+
+36
+00:03:34,120 --> 00:03:40,302
+halls emptied
+and the sea
+became part
+of the
+underground
+environment.
+Only then, drop
+
+37
+00:03:40,302 --> 00:03:45,830
+by drop,
+in silence and
+darkness, did
+all the
+formations you
+see today begin
+
 38
-00:02:53,120 --> 00:02:58,640
-During the early stages of its formation, the cave was filled with fresh water right up to
+00:03:45,830 --> 00:03:52,303
+to slowly grow
+and take shape.
+What we are
+observing is not
+simply a cave,
+but the result
 
 39
-00:02:58,640 --> 00:03:00,360
-the ceiling.
+00:03:52,303 --> 00:03:58,849
+of a long and
+uninterrupted
+dialogue between
+water and stone:
+a natural work
+of art shaped
 
 40
-00:03:00,360 --> 00:03:06,400
-The mighty underground river occupied every space, exerting a continuous erosive action
-
-41
-00:03:06,400 --> 00:03:13,120
-on the rock in its slow and ceaseless journey in search of a natural outlet.
-
-42
-00:03:13,120 --> 00:03:16,200
-That outlet was found at the sea.
-
-43
-00:03:16,200 --> 00:03:21,600
-The current entrance to the Grata del Boe marino coincides in fact with the mouth of that
-
-44
-00:03:21,600 --> 00:03:27,840
-underground river, the terminal stretch of a vast system shaped by water over geological
-
-45
-00:03:27,840 --> 00:03:29,320
-time.
-
-46
-00:03:29,320 --> 00:03:34,480
-When the river opened its outlet to the sea, the water level inside the cave gradually
-
-47
-00:03:34,480 --> 00:03:35,800
-dropped.
-
-48
-00:03:35,800 --> 00:03:40,520
-The halls emptied and the sea became part of the underground environment.
-
-49
-00:03:40,520 --> 00:03:47,040
-Only then dropped by drop in silence and darkness did all the formations you see today
-
-50
-00:03:47,040 --> 00:03:50,080
-begin to slowly grow and take shape.
-
-51
-00:03:50,080 --> 00:03:55,440
-What we are observing is not simply a cave, but the result of a long and uninterrupted
-
-52
-00:03:55,440 --> 00:03:58,280
-dialogue between water and stone.
-
-53
-00:03:58,280 --> 00:04:03,720
-Natural work of art shaped by the silent force of a river hidden in the heart of the mountain.
-
+00:03:58,849 --> 00:04:03,720
+by the silent
+force of a river
+hidden in the
+heart of the
+mountain.

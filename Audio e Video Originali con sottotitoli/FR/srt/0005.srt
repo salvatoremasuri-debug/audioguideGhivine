@@ -1,148 +1,244 @@
 1
-00:00:00,000 --> 00:00:03,480
-Nous nous trouvons à l'intérieur de la salle des tuyaux d'orgues,
+00:00:00,000 --> 00:00:06,193
+Nous nous
+trouvons
+à l'intérieur
+de la Salle des
+Tuyaux d'Orgue,
+l'un des
+environnements
 
 2
-00:00:03,480 --> 00:00:09,360
-l'un des environnements les plus spectaculaires de l'ensemble du parcours de la Grotte du Boe-Marino.
+00:00:06,193 --> 00:00:11,611
+les plus
+spectaculaires
+de l'ensemble
+du parcours
+de la Grotte
+du Bue Marino.
 
 3
-00:00:09,360 --> 00:00:16,520
-C'est ici que ce concentre la plus grande partie des conchrèsions les plus imposantes et les plus suggestives.
+00:00:11,611 --> 00:00:17,522
+C'est ici que
+se concentre
+la plus grande
+partie des
+concrétions les
+plus imposantes
 
 4
-00:00:16,520 --> 00:00:20,720
-La salle est caractérisée principalement par quatre grandes colonnes,
+00:00:17,522 --> 00:00:23,433
+et les plus
+suggestives.
+La salle est
+caractérisée
+principalement
+par quatre
+grandes
 
 5
-00:00:20,720 --> 00:00:25,840
-parmi les formations les plus anciennes visibles sur le parcours touristique.
+00:00:23,433 --> 00:00:29,485
+colonnes, parmi
+les formations
+les plus
+anciennes
+visibles sur
+le parcours
+touristique
 
 6
-00:00:25,840 --> 00:00:29,400
-Le rage est estimé à environ 500 000 ans.
+00:00:29,485 --> 00:00:35,748
+: leur âge est
+estimé à environ
+500 000 ans.
+Mais comment ces
+structures
+se forment-elles
 
 7
-00:00:29,400 --> 00:00:32,200
-Mais comment ces structures se forment tels ?
+00:00:35,748 --> 00:00:41,307
+? Tout commence
+en surface, avec
+la pluie. L'eau
+de pluie,
+en s'infiltrant
+dans
 
 8
-00:00:32,200 --> 00:00:35,280
-Tout commence en surface avec la pluie.
+00:00:41,307 --> 00:00:46,866
+la montagne,
+traverse le sol
+et s'enrichit
+en dioxyde
+de carbone.
+Lorsque l'eau
 
 9
-00:00:35,280 --> 00:00:43,040
-L'eau de pluie, en s'infiltrant dans la montagne, traverse le sol et s'en richie en dieoxide de carbone.
+00:00:46,866 --> 00:00:53,129
+et le dioxyde
+de carbone
+se combinent,
+il se forme une
+solution
+légèrement
+acide, capable
 
 10
-00:00:43,040 --> 00:00:46,360
-Lorsque l'eau est le dieoxide de carbone se combine,
+00:00:53,129 --> 00:00:59,392
+d'éroder
+la roche
+calcaire. Au fur
+et à mesure que
+l'eau se fraie
+un chemin
+à l'intérieur
 
 11
-00:00:46,360 --> 00:00:51,840
-il se forme une solution légèrement asside capable d'éroder la roche calcère.
+00:00:59,392 --> 00:01:05,444
+de la montagne,
+elle dissout
+le carbonate
+de calcium,
+élément
+constitutif
+de la roche,
 
 12
-00:00:51,840 --> 00:00:56,160
-Au fur et à mesure que l'eau se frère un chemin à l'intérieur de la montagne,
+00:01:05,444 --> 00:01:11,074
+le transformant
+en bicarbonate
+de calcium, une
+forme soluble
+qui est
+transportée
 
 13
-00:00:56,160 --> 00:01:01,280
-elle dit sous le carbone à de calcium et les manconstitutifs de la roche,
+00:01:11,074 --> 00:01:16,844
+en solution.
+Lorsque cette
+eau riche
+en minéraux
+atteint les
+cavités
+souterraines,
 
 14
-00:01:01,280 --> 00:01:04,400
-le transformant en bicarbonade de calcium,
+00:01:16,844 --> 00:01:22,896
+comme cette
+salle,
+le processus
+change. Si une
+goutte reste
+suspendue
+au plafond, elle
 
 15
-00:01:04,400 --> 00:01:08,240
-une forme solible qui est transportée en solution.
+00:01:22,896 --> 00:01:29,229
+perd du dioxyde
+de carbone
+et dépose
+lentement
+le carbonate
+de calcium, qui
+se cristallise
 
 16
-00:01:08,240 --> 00:01:14,080
-Lorsque cet origen minéraux atteint les cavités sous terrain, comme cette salle,
+00:01:29,229 --> 00:01:35,140
+et se solidifie
+pour former une
+stalactite. Si,
+en revanche,
+la goutte tombe
+au sol,
 
 17
-00:01:14,080 --> 00:01:15,920
-le processus change.
+00:01:35,140 --> 00:01:41,121
+le minéral
+se dépose sur
+le plancher pour
+donner naissance
+à une
+stalagmite.
+Lorsque,
 
 18
-00:01:15,920 --> 00:01:18,920
-Si une goûte reste suspendue au plafond,
+00:01:41,121 --> 00:01:47,102
+au cours
+de milliers
+d'années,
+stalactite
+et stalagmite
+se rencontrent
+et s'unissent,
 
 19
-00:01:18,920 --> 00:01:24,680
-elle perdue du dieoxide de carbone et dépose lentement le carbone à de calcium,
+00:01:47,102 --> 00:01:53,083
+elles forment
+une colonne,
+comme celles que
+nous observons
+ici. Ce sont des
+processus
 
 20
-00:01:24,680 --> 00:01:29,640
-qui se cristalise et se solidifie pour former une stalactite.
+00:01:53,083 --> 00:01:59,135
+extrêmement
+lents. Il peut
+falloir environ
+100 ans pour
+former un seul
+centimètre cube
 
 21
-00:01:29,640 --> 00:01:32,880
-Si en revanche la goûte tombe au sol,
+00:01:59,135 --> 00:02:05,468
+de concrétion.
+Cela signifie
+que chaque
+structure que
+nous voyons est
+le résultat
+de temps
 
 22
-00:01:32,880 --> 00:01:38,280
-le minéral se dépose sur le plancher pour donner naissance à une stalagmite.
+00:02:05,468 --> 00:02:11,520
+géologiques très
+longs, d'un
+équilibre
+constant entre
+l'eau, la roche
+et l'atmosphère.
 
 23
-00:01:38,280 --> 00:01:40,760
-Lorsque au cours de milliers d'années,
+00:02:11,520 --> 00:02:17,713
+Dans cette
+salle, nous
+pouvons lire,
+presque comme
+dans une archive
+naturelle,
+le chemin
 
 24
-00:01:40,760 --> 00:01:44,840
-stalactite est à l'agmite se rencontre tes suignis,
+00:02:17,713 --> 00:02:23,272
+invisible
+de l'eau
+à l'intérieur
+de la montagne.
+Chaque
+concrétion est
+la trace
 
 25
-00:01:44,840 --> 00:01:49,240
-elle forme d'une colonne, comme celle que nous observons ici.
+00:02:23,272 --> 00:02:29,042
+concrète de
+ce voyage
+silencieux,
+répété goutte
+après goutte
+pendant des
+centaines
 
 26
-00:01:49,240 --> 00:01:52,280
-Ce sont des processus extrêmement lents.
-
-27
-00:01:52,280 --> 00:01:58,240
-Il peut falloir environ 100 ans pour former un seul centimètre cube de concrétion.
-
-28
-00:01:58,240 --> 00:02:01,800
-Cela signifie que chaque structure que nous voyons,
-
-29
-00:02:01,800 --> 00:02:05,040
-est le résultat de tanger au logique très long
-
-30
-00:02:05,040 --> 00:02:10,200
-d'un équilibre constant entre l'eau, la roche et l'atmosphère.
-
-31
-00:02:10,200 --> 00:02:12,840
-Dans cette salle, nous pouvons lire,
-
-32
-00:02:12,840 --> 00:02:15,400
-presque comme dans une archives naturelle,
-
-33
-00:02:15,400 --> 00:02:20,200
-le chemin invisible de l'eau à l'intérieur de la montagne.
-
-34
-00:02:20,280 --> 00:02:23,720
-Chaque concrétion est la trace concrète
-
-35
-00:02:23,720 --> 00:02:25,880
-de ce voyage silencieux,
-
-36
-00:02:25,880 --> 00:02:28,040
-répétez Goot après Goot,
-
-37
-00:02:28,040 --> 00:02:30,520
-pendant des centaines de milliers d'années.
-
+00:02:29,042 --> 00:02:30,520
+de milliers
+d'années.

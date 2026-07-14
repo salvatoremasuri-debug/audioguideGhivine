@@ -41,7 +41,7 @@ for lang_dir in "$ROOT"/*/; do
       "$tmp/${lang}_${base}_out.mp3"
     mv "$tmp/${lang}_${base}_out.mp3" "$audio"
 
-    echo "OK NUOVO/$lang/$base"
+    echo "OK $lang/$base"
   done
 done
 

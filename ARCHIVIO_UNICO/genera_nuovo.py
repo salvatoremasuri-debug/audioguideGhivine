@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-"""Genera SRT e media nella sottocartella NUOVO (senza toccare gli originali)."""
+"""Genera SRT e media in NUOVO_v2 (senza toccare gli originali)."""
 
 from __future__ import annotations
 
-import difflib
-import re
 import shutil
 import subprocess
 import sys
@@ -13,7 +11,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 ARCHIVIO = ROOT / "ARCHIVIO_UNICO"
 SOURCE = ROOT / "Audio e Video Originali con sottotitoli"
-OUTPUT = SOURCE / "NUOVO"
+OUTPUT = SOURCE / "NUOVO_v2"
+SKIP_DIRS = {"NUOVO", "NUOVO_v2", "file"}
 
 PREMERGE_MAP = {
     ("IT", "0002"): "IT_ORIGINALI/srt/0002.pre_merge_20260424_165438.srt",
@@ -23,11 +22,11 @@ PREMERGE_MAP = {
     ("SP", "0008"): "SP_ORIGINALI/srt/0008.pre_merge_20260424_165438.srt",
 }
 
-# Max 3 righe x 16 caratteri: evita overflow su schermo 240x320
-MAX_CHARS = 45
-MAX_LINE_CHARS = 16
-MAX_WORD_CHARS = 14
-MAX_LINES = 3
+# Schermo 240x320: fino a 7 righe, ~28 caratteri per riga
+MAX_LINES = 7
+MAX_LINE_CHARS = 28
+MAX_CHARS = MAX_LINES * MAX_LINE_CHARS
+MAX_WORD_CHARS = 20
 
 
 def strip_intro_audio(src: Path, dst: Path, stem: str) -> None:
@@ -54,7 +53,7 @@ def strip_intro_audio(src: Path, dst: Path, stem: str) -> None:
 
 def prepare_audio() -> None:
     for lang_dir in sorted(SOURCE.iterdir()):
-        if not lang_dir.is_dir() or lang_dir.name in {"NUOVO", "file"}:
+        if not lang_dir.is_dir() or lang_dir.name in SKIP_DIRS:
             continue
         lang = lang_dir.name
         out_lang = OUTPUT / lang
@@ -67,7 +66,7 @@ def prepare_audio() -> None:
 def seed_srt_from_source() -> None:
     """Copia gli SRT sorgente come base tempi (poi vengono riscritti)."""
     for lang_dir in sorted(SOURCE.iterdir()):
-        if not lang_dir.is_dir() or lang_dir.name in {"NUOVO", "file"}:
+        if not lang_dir.is_dir() or lang_dir.name in SKIP_DIRS:
             continue
         src_srt = lang_dir / "srt"
         if not src_srt.exists():
@@ -90,6 +89,10 @@ def run_premerge() -> None:
         str(OUTPUT),
         "--max-chars",
         str(MAX_CHARS),
+        "--max-line-chars",
+        str(MAX_LINE_CHARS),
+        "--max-word-chars",
+        str(MAX_WORD_CHARS),
         "--max-lines",
         str(MAX_LINES),
     ]
@@ -125,21 +128,9 @@ def patch_srt() -> None:
             if not cues:
                 continue
 
-            srt_text = " ".join(t for _, _, t in cues)
-            ratio = difflib.SequenceMatcher(None, vec.normalize(orig_text), vec.normalize(srt_text)).ratio()
-            too_long = any(vec.cue_too_long(t, MAX_CHARS, MAX_LINE_CHARS, MAX_LINES) for _, _, t in cues)
-            if ratio >= 0.995 and not too_long:
-                continue
-
-            aligned = vec.align_words_to_timed_cues(
+            wrapped = vec.rebuild_from_original(
                 cues,
                 orig_text,
-                MAX_LINE_CHARS,
-                MAX_WORD_CHARS,
-                weights=[len(re.sub(r"\s+", " ", t).split()) for _, _, t in cues],
-            )
-            wrapped = vec.enforce_cue_splits(
-                aligned,
                 MAX_CHARS,
                 MAX_LINE_CHARS,
                 MAX_LINES,
@@ -161,7 +152,7 @@ def copy_assets() -> None:
 def main() -> None:
     sys.path.insert(0, str(ARCHIVIO))
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    print("=== 1. Prepara audio (senza intro) in NUOVO/ ===")
+    print(f"=== 1. Prepara audio (senza intro) in {OUTPUT.name}/ ===")
     prepare_audio()
     print("=== 2. Seed SRT ===")
     seed_srt_from_source()

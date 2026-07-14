@@ -94,10 +94,10 @@ def main() -> None:
     ap.add_argument("--archivio", default="ARCHIVIO_UNICO")
     ap.add_argument("--output-root", default="Audio e Video Originali con sottotitoli")
     ap.add_argument("--timing", action="append", default=[], metavar="LANG:NUM:PATH")
-    ap.add_argument("--max-chars", type=int, default=50)
+    ap.add_argument("--max-chars", type=int, default=45)
     ap.add_argument("--max-line-chars", type=int, default=16)
     ap.add_argument("--max-word-chars", type=int, default=14)
-    ap.add_argument("--max-lines", type=int, default=4)
+    ap.add_argument("--max-lines", type=int, default=3)
     args = ap.parse_args()
 
     archivio = Path(args.archivio)

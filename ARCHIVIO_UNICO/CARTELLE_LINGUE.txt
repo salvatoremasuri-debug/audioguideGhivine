@@ -1,0 +1,14 @@
+Cartelle nella root del progetto (nomi in minuscolo, una parola per lingua):
+
+  italiano   (ex IT)
+  english    (ex EN)
+  french     (ex FR)
+  spanish    (ex SP)
+  german     (ex DE)
+
+Gli script in questa cartella (rigenera_intro_*, verifica_e_correggi_srt.py) sono
+allineati a questi nomi. Le cartelle archivio *_ORIGINALI restano con codice
+(IT_ORIGINALI, EN_ORIGINALI, …).
+
+Liste per rigenera_intro -OnlyFromList: usare il nome cartella, es.:
+  italiano\run\0001.mp3

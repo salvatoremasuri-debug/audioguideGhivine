@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Video 240x320: mantiene le righe SRT (fino a 7), font e margini bilanciati
+# Video 240x320 da SRT: durata dall'ultimo cue, senza audio sorgente
 set -euo pipefail
 
 ROOT="${1:-Audio e Video Originali con sottotitoli/NUOVO_v2}"
@@ -35,28 +35,42 @@ Path(dst).write_text("\n".join(out).rstrip() + "\n", encoding="utf-8-sig")
 PY
 }
 
-while IFS= read -r -d '' audio; do
-  dir=$(dirname "$audio")
-  base=$(basename "$audio")
-  stem="${base%.*}"
-  srt_dir="$dir/srt"
-  srt="$srt_dir/${stem}.srt"
-  [[ -f "$srt" ]] || { echo "Salto $base: SRT mancante"; continue; }
-  styled="$srt_dir/${stem}__styled_tmp.srt"
+srt_duration() {
+  python3 - "$1" <<'PY'
+import re, sys
+from pathlib import Path
+
+raw = Path(sys.argv[1]).read_text(encoding="utf-8", errors="replace")
+ends = []
+for m in re.finditer(r"-->\s*(\d{2}):(\d{2}):(\d{2}),(\d{3})", raw):
+    h, mi, s, ms = map(int, m.groups())
+    ends.append((h * 3600 + mi * 60 + s) * 1000 + ms)
+print(f"{max(ends) / 1000:.3f}" if ends else "0")
+PY
+}
+
+while IFS= read -r -d '' srt; do
+  [[ "$srt" == *__styled_tmp* ]] && continue
+  stem=$(basename "$srt" .srt)
+  [[ "$stem" =~ ^[0-9]{4}$ ]] || continue
+
+  lang_dir=$(dirname "$(dirname "$srt")")
+  styled="$(dirname "$srt")/${stem}__styled_tmp.srt"
   make_styled_srt "$srt" "$styled"
-  dur=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$audio" | tr -d '\r')
-  echo "Genero $dir/${stem}.mp4"
+  dur=$(srt_duration "$srt")
+  [[ "$dur" != "0" && "$dur" != "0.000" ]] || { echo "Salto $stem: durata SRT zero"; rm -f "$styled"; continue; }
+
+  echo "Genero $lang_dir/${stem}.mp4 (${dur}s)"
   (
-    cd "$dir"
+    cd "$lang_dir"
     ffmpeg -nostdin -y -hide_banner -loglevel error \
       -f lavfi -i "color=c=black:s=${WIDTH}x${HEIGHT}:r=${FPS}" \
-      -i "$base" \
       -t "$dur" \
       -vf "subtitles=srt/${stem}__styled_tmp.srt:charenc=UTF-8:force_style='FontName=Arial,FontSize=${FONT_SIZE},PrimaryColour=&HFFFFFF&,OutlineColour=&H000000&,BorderStyle=1,Outline=2,Shadow=0,Alignment=5,WrapStyle=0,MarginL=4,MarginR=4,MarginV=${MARGIN_V}'" \
       -c:v libx264 -pix_fmt yuv420p -profile:v baseline -level 3.0 -r "$FPS" -an \
       "${stem}.mp4"
   )
   rm -f "$styled"
-done < <(find "$ROOT" -type f \( -iname '*.mp3' -o -iname '*.wav' \) -print0)
+done < <(find "$ROOT" -path '*/srt/*.srt' -print0)
 
-echo "Completato genera_video NUOVO."
+echo "Completato genera_video."

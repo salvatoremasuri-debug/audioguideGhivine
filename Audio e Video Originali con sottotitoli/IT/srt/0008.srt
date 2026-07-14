@@ -1,255 +1,382 @@
 1
-00:00:00,189 --> 00:00:06,690
+00:00:00,189 --> 00:00:03,841
 Ma cosa sappiamo
 della presenza
 umana
 all'interno
+
+2
+00:00:03,841 --> 00:00:07,567
 della Grotta del
 Bue Marino?
 La grotta
-
-2
-00:00:06,690 --> 00:00:12,822
 infatti non
+
+3
+00:00:07,567 --> 00:00:10,921
 è soltanto
 un luogo
 di straordinaria
 bellezza
+
+4
+00:00:10,921 --> 00:00:14,273
 naturale:
 è anche un sito
-
-3
-00:00:12,822 --> 00:00:18,954
 di grande
 interesse
+
+5
+00:00:14,273 --> 00:00:17,777
 archeologico.
 Le evidenze
 raccolte
 indicano che
-la grotta fosse
 
-4
-00:00:18,954 --> 00:00:25,382
-frequentata già
-in epoca
+6
+00:00:17,777 --> 00:00:19,752
+la grotta fosse
+frequentata
+
+7
+00:00:19,752 --> 00:00:21,727
+già in epoca
 preistorica.
+
+8
+00:00:21,727 --> 00:00:25,378
 Osservando
 la parete
 davanti a voi,
 potete notare
 
-5
-00:00:25,382 --> 00:00:31,514
+9
+00:00:25,378 --> 00:00:27,427
 una cornice con
-delle incisioni
+delle
+
+10
+00:00:27,427 --> 00:00:29,477
+incisioni
 rupestri
 particolarmen-
 te
+
+11
+00:00:29,477 --> 00:00:32,607
 significative:
 si tratta
-
-6
-00:00:31,514 --> 00:00:37,572
 di circa venti
 figure
+
+12
+00:00:32,607 --> 00:00:35,588
 antropomorfe
 incise
 a martellina,
-una coppella
-— una piccola
+una
 
-7
-00:00:37,572 --> 00:00:44,221
+13
+00:00:35,588 --> 00:00:37,712
+coppella —
+una piccola
+
+14
+00:00:37,712 --> 00:00:39,836
 cavità circolare
 scavata nella
-roccia — e due
-cerchi
+roccia
+
+15
+00:00:39,836 --> 00:00:41,699
+— e due cerchi
+
+16
+00:00:41,699 --> 00:00:43,562
 concentrici con
 un'ulteriore
 coppella
 
-8
-00:00:44,221 --> 00:00:50,279
+17
+00:00:43,562 --> 00:00:47,138
 al centro.
 Secondo gli
 studiosi, queste
 incisioni
+
+18
+00:00:47,138 --> 00:00:50,268
 potrebbero
 risalire alla
-Cultura
+Cultura di
 
-9
-00:00:50,279 --> 00:00:56,780
-di Ozieri
+19
+00:00:50,268 --> 00:00:53,697
+Ozieri
 (4000–3500 a.C.)
 oppure alla
-Cultura
-di Filigosa
+Cultura di
+
+20
+00:00:53,697 --> 00:00:56,753
+Filigosa
 (3000–2500
 a.C.),
-sicuramente
+sicuramente in
 
-10
-00:00:56,780 --> 00:01:03,134
-in un momento
-in cui
-il livello del
-mare era più
-basso di alcuni
-metri rispetto
-a oggi
+21
+00:00:56,753 --> 00:00:58,541
+un momento
+in cui il
 
-11
-00:01:03,134 --> 00:01:09,562
-e l'accesso alla
-grotta avveniva
+22
+00:00:58,541 --> 00:01:00,329
+livello del mare
+era più basso
+
+23
+00:01:00,329 --> 00:01:02,341
+di alcuni metri
+rispetto a
+
+24
+00:01:02,341 --> 00:01:04,353
+oggi e l'accesso
+alla grotta
+
+25
+00:01:04,353 --> 00:01:08,153
+avveniva
 probabilmente
 da terra.
-Se guardate
-in basso
-a destra,
+Se guardate in
 
-12
-00:01:09,562 --> 00:01:16,063
+26
+00:01:08,153 --> 00:01:10,986
+basso a destra,
 noterete
 una figura
-isolata con
+isolata
+
+27
+00:01:10,986 --> 00:01:12,961
+con
 una particolare
+
+28
+00:01:12,961 --> 00:01:14,937
 struttura
 "a candelabro",
-dotata di arti
+dotata
 
-13
-00:01:16,063 --> 00:01:22,712
+29
+00:01:14,937 --> 00:01:17,097
+di arti
 multipli. Poco
-sopra di essa
+sopra
+
+30
+00:01:17,097 --> 00:01:19,258
+di essa
 si distinguono
-due figure con
+due
+
+31
+00:01:19,258 --> 00:01:22,687
+figure con
 appendici
 laterali
-oblique. Più
+oblique. Più in
 
-14
-00:01:22,712 --> 00:01:28,179
-in alto ancora
+32
+00:01:22,687 --> 00:01:24,662
+alto ancora
 compare
-una figura con
-braccia e gambe
-piegate nella
-stessa
+una figura
 
-15
-00:01:28,179 --> 00:01:33,646
+33
+00:01:24,662 --> 00:01:26,637
+con braccia
+e gambe piegate
+
+34
+00:01:26,637 --> 00:01:30,139
+nella stessa
 direzione. Tutte
 le figure
-presentano arti
-allungati,
+presentano
+
+35
+00:01:30,139 --> 00:01:33,643
+arti allungati,
 arcuati
 e inclinati,
+disposti
 
-16
-00:01:33,646 --> 00:01:39,704
-disposti in modo
+36
+00:01:33,643 --> 00:01:35,319
+in modo
 irregolare
+
+37
+00:01:35,319 --> 00:01:36,995
 attorno
 ai motivi
 concentrici.
+
+38
+00:01:36,995 --> 00:01:40,424
 L'interpretaz-
 ione più
-
-17
-00:01:39,704 --> 00:01:46,279
 condivisa
 suggerisce che
+
+39
+00:01:40,424 --> 00:01:43,778
 la scena
 rappresenti
 un gruppo
-di figure oranti
-disposte attorno
+di figure
 
-18
-00:01:46,279 --> 00:01:52,189
-a un simbolo
+40
+00:01:43,778 --> 00:01:46,125
+oranti disposte
+attorno a un
+
+41
+00:01:46,125 --> 00:01:48,472
+simbolo
 circolare, forse
-legato a rituali
-religiosi o
-a pratiche
-simboliche
+legato a
 
-19
-00:01:52,189 --> 00:01:58,690
+42
+00:01:48,472 --> 00:01:50,335
+rituali
+religiosi o a
+
+43
+00:01:50,335 --> 00:01:52,198
+pratiche
+simboliche
 connesse alla
+
+44
+00:01:52,198 --> 00:01:54,173
 natura.
 Rappresentazi-
-oni antropomorfe
-stilizzate
-simili
-si trovano anche
+oni
 
-20
-00:01:58,690 --> 00:02:04,896
+45
+00:01:54,173 --> 00:01:56,148
+antropomorfe
+stilizzate
+simili si
+
+46
+00:01:56,148 --> 00:01:59,726
+trovano anche
 in altri siti
 italiani, come
-il Parco
-Nazionale delle
+il
+
+47
+00:01:59,726 --> 00:02:01,551
+Parco Nazionale
+delle
+
+48
+00:02:01,551 --> 00:02:03,377
 Incisioni
 Rupestri
 di Naquane,
 
-21
-00:02:04,896 --> 00:02:11,397
+49
+00:02:03,377 --> 00:02:06,731
 il sito di Sas
 Concas, e
 la Grotta del
+
+50
+00:02:06,731 --> 00:02:08,519
 Papa.
 Le analogie tra
+
+51
+00:02:08,519 --> 00:02:10,307
 luoghi anche
 molto distanti
+tra
 
-22
-00:02:11,397 --> 00:02:17,677
-tra loro
+52
+00:02:10,307 --> 00:02:12,132
+loro
 suggeriscono
 l'esistenza,
-nell'antichit-
-à, di una rete
-culturale
-condivisa,
 
-23
-00:02:17,677 --> 00:02:23,957
-in cui simboli
-e pratiche
-rituali
+53
+00:02:12,132 --> 00:02:13,958
+nell'antichit-
+à, di una
+
+54
+00:02:13,958 --> 00:02:17,686
+rete culturale
+condivisa,
+in cui simboli e
+
+55
+00:02:17,686 --> 00:02:19,511
+pratiche rituali
 si diffondevano
+
+56
+00:02:19,511 --> 00:02:21,337
 tra diverse
 comunità.
-Davanti a voi
+Davanti
 
-24
-00:02:23,957 --> 00:02:30,311
-non osservate
+57
+00:02:21,337 --> 00:02:24,988
+a voi non
+osservate
 soltanto delle
 incisioni nella
-roccia:
-osservate
-una testimonianza
-della
 
-25
-00:02:30,311 --> 00:02:36,886
+58
+00:02:24,988 --> 00:02:26,777
+roccia:
+osservate una
+
+59
+00:02:26,777 --> 00:02:28,566
+testimonianza
+della
 spiritualità
+
+60
+00:02:28,566 --> 00:02:32,142
 preistorica
 della Sardegna.
-In questo punto
-preciso, natura
-e presenza umana
+In questo
 
-26
-00:02:36,886 --> 00:02:42,504
+61
+00:02:32,142 --> 00:02:34,526
+punto preciso,
+natura
+e presenza
+
+62
+00:02:34,526 --> 00:02:36,911
+umana
 si incontrano,
-lasciando
-un segno che
+lasciando un
+
+63
+00:02:36,911 --> 00:02:39,670
+segno che
 attraversa
 migliaia di anni
+
+64
+00:02:39,670 --> 00:02:42,504
 di storia.

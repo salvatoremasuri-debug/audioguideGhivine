@@ -1,169 +1,371 @@
 1
-00:00:00,000 --> 00:00:05,787
+00:00:00,000 --> 00:00:01,446
 Nous nous
 trouvons
-au point exact
-de rencontre
-entre la mer
-et la rivière,
-l'un des
 
 2
-00:00:05,787 --> 00:00:11,295
-passages les
-plus
-significatifs
-de l'ensemble
-du parcours dans
-la Grotte du Bue
+00:00:01,446 --> 00:00:02,893
+au point exact
+de
 
 3
-00:00:11,295 --> 00:00:16,942
-Marino. Si vous
-regardez sous
-vos pieds, vous
-remarquerez
-un léger
-dénivelé : une
+00:00:02,893 --> 00:00:04,340
+rencontre entre
+la
 
 4
-00:00:16,942 --> 00:00:23,007
-marche naturelle
-de roche haute
-de quelques
-centimètres
-seulement, mais
-suffisante pour
+00:00:04,340 --> 00:00:05,787
+mer et
+la rivière,
 
 5
-00:00:23,007 --> 00:00:28,863
-séparer deux
-mondes
-différents. Dans
-le niveau
-le plus bas
-se trouve
-de l'eau salée,
+00:00:05,787 --> 00:00:07,164
+l'un des
+passages
 
 6
-00:00:28,863 --> 00:00:34,789
-provenant de
-la mer. Dans
-le niveau
-légèrement plus
-haut est
-présente
-de l'eau douce,
+00:00:07,164 --> 00:00:08,541
+les plus
+significatifs
 
 7
-00:00:34,789 --> 00:00:40,924
-alimentée par
-la rivière
-souterraine.
-Pendant les mois
-d'été, lorsque
-les
-précipitations
+00:00:08,541 --> 00:00:09,918
+de l'ensemble du
 
 8
-00:00:40,924 --> 00:00:46,641
-sont rares,
-la rivière
-réduit
-considérablem-
-ent son débit
-et tend
-à stagner. Dans
+00:00:09,918 --> 00:00:11,295
+parcours dans
+la Grotte
 
 9
-00:00:46,641 --> 00:00:52,846
-ces conditions,
-les deux eaux
+00:00:11,295 --> 00:00:12,706
+du Bue Marino.
+
+10
+00:00:12,706 --> 00:00:14,118
+Si vous regardez
+sous
+
+11
+00:00:14,118 --> 00:00:15,530
+vos pieds, vous
+
+12
+00:00:15,530 --> 00:00:16,942
+remarquerez
+un léger
+dénivelé
+
+13
+00:00:16,942 --> 00:00:18,458
+: une marche
+
+14
+00:00:18,458 --> 00:00:19,974
+naturelle
+de roche haute
+
+15
+00:00:19,974 --> 00:00:20,732
+de
+
+16
+00:00:20,732 --> 00:00:21,490
+quelques
+centimètres
+
+17
+00:00:21,490 --> 00:00:22,248
+seulement, mais
+
+18
+00:00:22,248 --> 00:00:23,007
+suffisante pour
+
+19
+00:00:23,007 --> 00:00:24,471
+séparer deux
+mondes
+
+20
+00:00:24,471 --> 00:00:25,935
+différents. Dans
+le niveau
+
+21
+00:00:25,935 --> 00:00:27,399
+le plus bas
+
+22
+00:00:27,399 --> 00:00:28,863
+se trouve
+de l'eau
+
+23
+00:00:28,863 --> 00:00:30,344
+salée, provenant
+de
+
+24
+00:00:30,344 --> 00:00:31,826
+la mer. Dans le
+
+25
+00:00:31,826 --> 00:00:33,307
+niveau
+légèrement plus
+
+26
+00:00:33,307 --> 00:00:34,789
+haut est
+présente de
+
+27
+00:00:34,789 --> 00:00:36,322
+l'eau douce,
+alimentée
+
+28
+00:00:36,322 --> 00:00:37,856
+par la rivière
+souterraine.
+
+29
+00:00:37,856 --> 00:00:38,623
+Pendant les
+
+30
+00:00:38,623 --> 00:00:39,390
+mois d'été,
+
+31
+00:00:39,390 --> 00:00:40,157
+lorsque les
+
+32
+00:00:40,157 --> 00:00:40,924
+précipitations
+sont
+
+33
+00:00:40,924 --> 00:00:41,638
+rares,
+
+34
+00:00:41,638 --> 00:00:42,353
+la rivière
+
+35
+00:00:42,353 --> 00:00:43,067
+réduit
+considérablem-
+ent
+
+36
+00:00:43,067 --> 00:00:43,782
+son débit
+
+37
+00:00:43,782 --> 00:00:45,211
+et tend
+à stagner.
+
+38
+00:00:45,211 --> 00:00:46,641
+Dans ces
+conditions, les
+
+39
+00:00:46,641 --> 00:00:48,192
+deux eaux
 restent
+
+40
+00:00:48,192 --> 00:00:49,743
 séparées,
 maintenant
 un équilibre
+
+41
+00:00:49,743 --> 00:00:50,518
 presque
 immobile.
 
-10
-00:00:52,846 --> 00:00:59,051
-Pendant les mois
-d'hiver,
+42
+00:00:50,518 --> 00:00:51,294
+Pendant les
+
+43
+00:00:51,294 --> 00:00:52,070
+mois d'hiver,
+
+44
+00:00:52,070 --> 00:00:52,846
 en revanche,
+
+45
+00:00:52,846 --> 00:00:54,397
 la rivière est
+
+46
+00:00:54,397 --> 00:00:55,948
 à nouveau
 alimentée par
-les pluies.
 
-11
-00:00:59,051 --> 00:01:04,907
+47
+00:00:55,948 --> 00:00:57,499
+les pluies.
 Le débit
+
+48
+00:00:57,499 --> 00:00:59,051
 augmente et, dès
-la basse saison,
-si l'on a de
-la chance, c'est
+la
+
+49
+00:00:59,051 --> 00:01:00,515
+basse saison, si
+
+50
+00:01:00,515 --> 00:01:01,979
+l'on a de la
+
+51
+00:01:01,979 --> 00:01:03,443
+chance, c'est
 précisément
 
-12
-00:01:04,907 --> 00:01:10,833
+52
+00:01:03,443 --> 00:01:04,907
 en ce point que
+
+53
+00:01:04,907 --> 00:01:06,388
 l'on peut
-observer une
-petite cascade
-d'eau douce qui
-se déverse vers
+observer
 
-13
-00:01:10,833 --> 00:01:16,480
-le niveau de
-la mer. C'est
-un moment
+54
+00:01:06,388 --> 00:01:07,870
+une petite
+cascade d'eau
+
+55
+00:01:07,870 --> 00:01:09,351
+douce qui se
+
+56
+00:01:09,351 --> 00:01:10,833
+déverse vers
+le niveau
+
+57
+00:01:10,833 --> 00:01:12,244
+de la mer.
+
+58
+00:01:12,244 --> 00:01:13,656
+C'est un moment
 particulièrem-
-ent évocateur
-: sous nos yeux
+ent
 
-14
-00:01:16,480 --> 00:01:22,615
+59
+00:01:13,656 --> 00:01:15,068
+évocateur : sous
+
+60
+00:01:15,068 --> 00:01:16,480
+nos yeux
 se manifeste
+
+61
+00:01:16,480 --> 00:01:18,013
 de façon
 évidente
+
+62
+00:01:18,013 --> 00:01:19,547
 le processus
-qui, au cours
-des millénaires,
-a contribué à
+qui, au
 
-15
-00:01:22,615 --> 00:01:28,123
+63
+00:01:19,547 --> 00:01:21,081
+cours des
+millénaires, a
+
+64
+00:01:21,081 --> 00:01:22,615
+contribué à
 la formation
-de ces cavités.
-Ici, nous
-n'assistons pas
-seulement à
-la rencontre
 
-16
-00:01:28,123 --> 00:01:34,258
-de deux eaux,
-mais à
+65
+00:01:22,615 --> 00:01:23,992
+de ces cavités.
+
+66
+00:01:23,992 --> 00:01:25,369
+Ici, nous
+n'assistons
+
+67
+00:01:25,369 --> 00:01:26,746
+pas seulement à
+
+68
+00:01:26,746 --> 00:01:28,123
 la rencontre
-de deux forces
-: celle marine
+de deux
+
+69
+00:01:28,123 --> 00:01:29,656
+eaux, mais à
+
+70
+00:01:29,656 --> 00:01:31,190
+la rencontre
+de deux
+
+71
+00:01:31,190 --> 00:01:32,724
+forces : celle
+marine
+
+72
+00:01:32,724 --> 00:01:34,258
 et celle
 fluviale. C'est
 
-17
-00:01:34,258 --> 00:01:40,323
+73
+00:01:34,258 --> 00:01:35,774
 un équilibre
-dynamique, qui
-varie avec les
-saisons et qui
-continue, encore
-aujourd'hui,
+dynamique,
 
-18
-00:01:40,323 --> 00:01:43,600
-à modeler
+74
+00:01:35,774 --> 00:01:37,290
+qui varie avec
+les
+
+75
+00:01:37,290 --> 00:01:38,806
+saisons et qui
+
+76
+00:01:38,806 --> 00:01:40,323
+continue, encore
+aujourd'hui, à
+
+77
+00:01:40,323 --> 00:01:41,142
+modeler
 lentement
-l'intérieur
-de la montagne.
+
+78
+00:01:41,142 --> 00:01:41,961
+l'intérieur de
+
+79
+00:01:41,961 --> 00:01:42,780
+la
+
+80
+00:01:42,780 --> 00:01:43,600
+montagne.

@@ -1,154 +1,341 @@
 1
-00:00:00,000 --> 00:00:05,677
-We are now
-at the exact
-point where the
-sea meets the
-river, one
-of the most
-significant
+00:00:00,000 --> 00:00:01,419
+We are now at
 
 2
-00:00:05,677 --> 00:00:10,774
-moments on the
-entire route
-through the
-Grotta del Bue
-Marino. If you
-look down
+00:00:01,419 --> 00:00:02,838
+the exact point
+where
 
 3
-00:00:10,774 --> 00:00:16,516
-beneath you, you
-will notice
-a small
-difference
-in level:
-a natural rocky
-step just a few
+00:00:02,838 --> 00:00:04,257
+the sea meets
+the
 
 4
-00:00:16,516 --> 00:00:21,742
-centimetres
-high, but enough
-to separate two
-different
-worlds. In the
-lower level
+00:00:04,257 --> 00:00:05,677
+river, one
+of the
 
 5
-00:00:21,742 --> 00:00:27,161
-is salt water,
-coming from the
-sea. In the
-slightly higher
-level is fresh
-water, fed
+00:00:05,677 --> 00:00:06,951
+most significant
+moments
 
 6
-00:00:27,161 --> 00:00:32,709
-by the
-underground
-river. During
-the summer
-months, when
-rainfall
-is scarce, the
-river
+00:00:06,951 --> 00:00:08,225
+on the entire
+route
 
 7
-00:00:32,709 --> 00:00:38,386
-significantly
-reduces its flow
-and tends
-to stagnate.
-In these
-conditions the
-two bodies
+00:00:08,225 --> 00:00:09,499
+through the
+Grotta
 
 8
-00:00:38,386 --> 00:00:43,676
-of water remain
-separate,
-maintaining
-an almost
-motionless
-equilibrium.
-During the
+00:00:09,499 --> 00:00:10,774
+del Bue Marino.
+If
 
 9
-00:00:43,676 --> 00:00:48,773
-winter months,
-on the other
-hand, the river
-is fed once
-again by rain.
-The flow
+00:00:10,774 --> 00:00:12,209
+you look down
+beneath
 
 10
-00:00:48,773 --> 00:00:54,515
-increases and,
-already in the
-low season,
-if you are
-lucky, it
-is right here
-at this spot
+00:00:12,209 --> 00:00:13,645
+you, you will
+notice
 
 11
-00:00:54,515 --> 00:00:59,805
-that you may
-observe a small
-waterfall
-of fresh water
-pouring down
-towards the sea
+00:00:13,645 --> 00:00:15,080
+a small
+difference in
 
 12
-00:00:59,805 --> 00:01:05,224
-level. It is
-a particularly
-evocative
-moment: before
-our very eyes,
-the process that
+00:00:15,080 --> 00:00:16,516
+level: a natural
+rocky
 
 13
-00:01:05,224 --> 00:01:11,030
-over millennia
-has contributed
-to the formation
-of these
-cavities is made
-clearly visible.
+00:00:16,516 --> 00:00:17,822
+step just a
 
 14
-00:01:11,030 --> 00:01:16,514
-Here we are not
-merely
-witnessing the
-meeting of two
-bodies of water,
-but the meeting
+00:00:17,822 --> 00:00:19,129
+few centimetres
+high, but
 
 15
-00:01:16,514 --> 00:01:21,933
+00:00:19,129 --> 00:00:20,435
+enough
+to separate
+
+16
+00:00:20,435 --> 00:00:21,742
+two different
+worlds. In
+
+17
+00:00:21,742 --> 00:00:23,096
+the lower level
+
+18
+00:00:23,096 --> 00:00:24,451
+is salt water,
+coming
+
+19
+00:00:24,451 --> 00:00:25,806
+from the sea. In
+
+20
+00:00:25,806 --> 00:00:27,161
+the slightly
+higher level
+
+21
+00:00:27,161 --> 00:00:28,548
+is fresh water,
+
+22
+00:00:28,548 --> 00:00:29,935
+fed by the
+underground
+
+23
+00:00:29,935 --> 00:00:31,322
+river. During
+the summer
+
+24
+00:00:31,322 --> 00:00:32,709
+months, when
+rainfall is
+
+25
+00:00:32,709 --> 00:00:33,418
+scarce, the
+
+26
+00:00:33,418 --> 00:00:34,128
+river
+significantly
+
+27
+00:00:34,128 --> 00:00:34,837
+reduces its
+
+28
+00:00:34,837 --> 00:00:35,547
+flow and
+
+29
+00:00:35,547 --> 00:00:36,256
+tends to
+
+30
+00:00:36,256 --> 00:00:36,966
+stagnate. In
+
+31
+00:00:36,966 --> 00:00:37,676
+these conditions
+
+32
+00:00:37,676 --> 00:00:38,386
+the two
+
+33
+00:00:38,386 --> 00:00:39,708
+bodies of water
+
+34
+00:00:39,708 --> 00:00:41,031
+remain separate,
+maintaining an
+
+35
+00:00:41,031 --> 00:00:41,692
+almost
+motionless
+
+36
+00:00:41,692 --> 00:00:42,353
+equilibrium.
+During
+
+37
+00:00:42,353 --> 00:00:43,014
+the winter
+
+38
+00:00:43,014 --> 00:00:43,676
+months, on
+
+39
+00:00:43,676 --> 00:00:44,950
+the other hand,
+
+40
+00:00:44,950 --> 00:00:46,224
+the river is fed
+
+41
+00:00:46,224 --> 00:00:47,498
+once again by
+
+42
+00:00:47,498 --> 00:00:48,773
+rain. The flow
+increases
+
+43
+00:00:48,773 --> 00:00:50,208
+and, already
+in the
+
+44
+00:00:50,208 --> 00:00:51,644
+low season,
+if you
+
+45
+00:00:51,644 --> 00:00:53,079
+are lucky, it is
+
+46
+00:00:53,079 --> 00:00:54,515
+right here
+at this
+
+47
+00:00:54,515 --> 00:00:55,837
+spot that you
+
+48
+00:00:55,837 --> 00:00:57,160
+may observe
+a small
+
+49
+00:00:57,160 --> 00:00:58,482
+waterfall
+of fresh
+
+50
+00:00:58,482 --> 00:00:59,805
+water pouring
+down towards
+
+51
+00:00:59,805 --> 00:01:01,159
+the sea level.
+
+52
+00:01:01,159 --> 00:01:02,514
+It is
+a particularly
+
+53
+00:01:02,514 --> 00:01:03,191
+evocative
+moment:
+
+54
+00:01:03,191 --> 00:01:03,869
+before our
+
+55
+00:01:03,869 --> 00:01:04,546
+very eyes,
+
+56
+00:01:04,546 --> 00:01:05,224
+the process
+
+57
+00:01:05,224 --> 00:01:05,949
+that over
+
+58
+00:01:05,949 --> 00:01:06,675
+millennia has
+
+59
+00:01:06,675 --> 00:01:07,401
+contributed to
+
+60
+00:01:07,401 --> 00:01:08,127
+the formation
+
+61
+00:01:08,127 --> 00:01:09,578
+of these
+cavities is
+
+62
+00:01:09,578 --> 00:01:11,030
+made clearly
+visible. Here
+
+63
+00:01:11,030 --> 00:01:12,401
+we are not
+
+64
+00:01:12,401 --> 00:01:13,772
+merely
+witnessing the
+meeting
+
+65
+00:01:13,772 --> 00:01:15,143
+of two bodies of
+
+66
+00:01:15,143 --> 00:01:16,514
+water, but the
+meeting
+
+67
+00:01:16,514 --> 00:01:17,868
 of two forces:
+
+68
+00:01:17,868 --> 00:01:19,223
 the marine and
-the fluvial.
-It is a dynamic
+the
+
+69
+00:01:19,223 --> 00:01:20,578
+fluvial. It is a
+
+70
+00:01:20,578 --> 00:01:21,933
+dynamic
 equilibrium,
 which varies
 
-16
-00:01:21,933 --> 00:01:27,417
+71
+00:01:21,933 --> 00:01:23,304
 with the seasons
+
+72
+00:01:23,304 --> 00:01:24,675
 and which
 continues, even
-today, to slowly
-shape the
-interior of the
 
-17
+73
+00:01:24,675 --> 00:01:26,046
+today, to slowly
+
+74
+00:01:26,046 --> 00:01:27,417
+shape the
+interior of
+
+75
 00:01:27,417 --> 00:01:28,000
-mountain.
+the mountain.

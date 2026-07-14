@@ -1,315 +1,691 @@
 1
-00:00:00,000 --> 00:00:05,681
+00:00:00,000 --> 00:00:01,420
 Bienvenue dans
-la Salle
-du Phoque,
-connue également
-sous le nom
-de Plage
-du Phoque
+la
 
 2
-00:00:05,681 --> 00:00:11,709
-ou Salle des
-Deux Plages.
-C'est
-la dernière
-partie
-du parcours
-touristique
-de la Grotte
+00:00:01,420 --> 00:00:02,840
+Salle du Phoque,
+connue
 
 3
-00:00:11,709 --> 00:00:17,598
-du Bue Marino.
-Le nom vient
-de la présence
-du sable : comme
-vous pouvez
-le constater,
+00:00:02,840 --> 00:00:04,260
+également sous
+le
 
 4
-00:00:17,598 --> 00:00:23,141
-nous ne marchons
-plus sur une
-passerelle
-artificielle,
-mais sur
-le véritable sol
+00:00:04,260 --> 00:00:05,681
+nom de Plage du
 
 5
-00:00:23,141 --> 00:00:29,238
-de la grotte.
-La salle est
-dédiée à
-la Monachus
-monachus,
-le moine de mer
-méditerranéen.
+00:00:05,681 --> 00:00:07,188
+Phoque ou Salle
 
 6
-00:00:29,238 --> 00:00:34,989
+00:00:07,188 --> 00:00:08,695
+des Deux Plages.
 C'est
-précisément ici
-que, dans les
-années 1970,
-l'un des
-derniers
-spécimens encore
 
 7
-00:00:34,989 --> 00:00:41,225
-présents dans
-le Golfe
-d'Orosei fut
-observé :
-il s'agissait
-d'une mère avec
-son petit. Ces
+00:00:08,695 --> 00:00:09,448
+la dernière
 
 8
-00:00:41,225 --> 00:00:47,114
-petites plages
-intérieures
-offraient
-un refuge idéal
-: un endroit
-abrité,
-silencieux,
+00:00:09,448 --> 00:00:10,202
+partie du
 
 9
-00:00:47,114 --> 00:00:52,795
-à l'abri des
-tempêtes et
-— autrefois
-— aussi de
-la présence
-humaine.
-C'étaient des
+00:00:10,202 --> 00:00:10,955
+parcours
+touristique
 
 10
-00:00:52,795 --> 00:00:58,754
-espaces parfaits
-pour le repos
-et l'allaitement
-des jeunes.
-Ce n'est pas
-seulement une
+00:00:10,955 --> 00:00:11,709
+de la
 
 11
-00:00:58,754 --> 00:01:04,089
-salle de
-la grotte
-: c'est un lieu
-qui conserve
-l'un des
-derniers
-témoignages
+00:00:11,709 --> 00:00:13,181
+Grotte du Bue
 
 12
-00:01:04,089 --> 00:01:09,840
-de la présence
-du moine de mer
-dans ces eaux.
-Cette salle,
-parmi celles
-du parcours
+00:00:13,181 --> 00:00:14,653
+Marino. Le nom
+vient
 
 13
-00:01:09,840 --> 00:01:15,799
-touristique
-de la Grotte
-du Bue Marino,
-est celle qui
-change le plus
-d'année
-en année,
+00:00:14,653 --> 00:00:16,125
+de la présence
 
 14
-00:01:15,799 --> 00:01:21,896
-précisément
-en raison
-de l'activité
-du fleuve.
-Le sable que
-nous foulons
-ne provient pas
+00:00:16,125 --> 00:00:17,598
+du sable : comme
 
 15
-00:01:21,896 --> 00:01:27,508
-de la mer, mais
-de la rivière
-souterraine.
-En hiver, selon
-la quantité
-de pluies,
+00:00:17,598 --> 00:00:18,983
+vous pouvez le
 
 16
-00:01:27,508 --> 00:01:33,605
-la rivière peut
-augmenter
-sensiblement son
-débit.
-À certaines
-périodes, elle
-arrive même
+00:00:18,983 --> 00:00:20,369
+constater, nous
+ne
 
 17
-00:01:33,605 --> 00:01:39,217
-à couvrir une
-grande partie
-du sol,
-transportant
-du nouveau sable
-ou en emportant
+00:00:20,369 --> 00:00:21,062
+marchons
 
 18
-00:01:39,217 --> 00:01:44,968
-une partie,
-et modifiant
-légèrement
-la morphologie
-de
-l'environneme-
-nt. Ce qui est
+00:00:21,062 --> 00:00:21,755
+plus sur
 
 19
-00:01:44,968 --> 00:01:50,719
-pour nous la fin
-du parcours
-touristique est
-en réalité aussi
-le début de
-la partie
+00:00:21,755 --> 00:00:22,448
+une passerelle
 
 20
-00:01:50,719 --> 00:01:56,470
-spéléologique
-du système.
-À partir de
-ce point,
-la grotte
-se poursuit
-et se ramifie
+00:00:22,448 --> 00:00:23,141
+artificielle,
+mais
 
 21
-00:01:56,470 --> 00:02:02,429
-sur des
-kilomètres,
-se connectant
-à la Grotte
-de Su Palu, à
-la Grotte de
-Su Molente et
+00:00:23,141 --> 00:00:24,665
+sur le véritable
 
 22
-00:02:02,429 --> 00:02:08,388
-à la Grotte
-de Monte Longos,
-formant les
-quelque
-75 kilomètres
-de développement
-connus
+00:00:24,665 --> 00:00:26,189
+sol de
+la grotte.
 
 23
-00:02:08,388 --> 00:02:14,624
-aujourd'hui.
-La partie
-spéléologique
-est constituée
-de grandes
-salles riches
-en eau douce,
+00:00:26,189 --> 00:00:27,713
+La salle est
+dédiée
 
 24
-00:02:14,624 --> 00:02:20,444
-de larges plages
-intérieures,
-de concrétions
-imposantes et
-de nombreux
-siphons : des
+00:00:27,713 --> 00:00:29,238
+à la Monachus
+monachus,
 
 25
-00:02:20,444 --> 00:02:26,195
-environnements
-complètement
-remplis d'eau,
-qui ne peuvent
-être franchis
-que par des
+00:00:29,238 --> 00:00:30,675
+le moine de
 
 26
-00:02:26,195 --> 00:02:32,361
-spéléologues
-expérimentés
-avec l'aide
-de bouteilles
-et d'équipement
-de plongée.
-La visite
+00:00:30,675 --> 00:00:32,113
+mer
+méditerranéen.
+C'est
+précisément
 
 27
-00:02:32,361 --> 00:02:38,389
-se termine ici.
-Avant
-de commencer
-le retour, vous
-serez répartis
-selon votre
-prochaine
+00:00:32,113 --> 00:00:33,551
+ici que, dans
 
 28
-00:02:38,389 --> 00:02:44,140
-destination
-: Cala Luna,
-la mini-croisière
-ou le port
-de Cala Gonone.
-Chaque groupe
+00:00:33,551 --> 00:00:34,989
+les années 1970,
+l'un
 
 29
-00:02:44,140 --> 00:02:50,306
-aura un ordre
-de sortie
-spécifique,
-il est donc
-essentiel que
-vous écoutiez
-attentivement
+00:00:34,989 --> 00:00:36,548
+des derniers
+spécimens
 
 30
-00:02:50,306 --> 00:02:56,542
+00:00:36,548 --> 00:00:38,107
+encore présents
+dans le
+
+31
+00:00:38,107 --> 00:00:39,666
+Golfe d'Orosei
+fut observé
+
+32
+00:00:39,666 --> 00:00:41,225
+: il s'agissait
+d'une
+
+33
+00:00:41,225 --> 00:00:42,697
+mère avec son
+
+34
+00:00:42,697 --> 00:00:44,169
+petit. Ces
+petites plages
+
+35
+00:00:44,169 --> 00:00:45,641
+intérieures
+offraient un
+
+36
+00:00:45,641 --> 00:00:47,114
+refuge idéal
+: un
+
+37
+00:00:47,114 --> 00:00:48,534
+endroit abrité,
+silencieux,
+
+38
+00:00:48,534 --> 00:00:49,954
+à l'abri des
+tempêtes
+
+39
+00:00:49,954 --> 00:00:51,374
+et — autrefois
+
+40
+00:00:51,374 --> 00:00:52,795
+— aussi de la
+
+41
+00:00:52,795 --> 00:00:53,539
+présence
+
+42
+00:00:53,539 --> 00:00:54,284
+humaine.
+C'étaient
+
+43
+00:00:54,284 --> 00:00:55,029
+des espaces
+
+44
+00:00:55,029 --> 00:00:55,774
+parfaits pour
+
+45
+00:00:55,774 --> 00:00:57,264
+le repos
+et l'allaitement
+
+46
+00:00:57,264 --> 00:00:58,754
+des jeunes.
+Ce n'est
+
+47
+00:00:58,754 --> 00:01:00,087
+pas seulement
+une
+
+48
+00:01:00,087 --> 00:01:01,421
+salle de la
+
+49
+00:01:01,421 --> 00:01:02,755
+grotte : c'est
+
+50
+00:01:02,755 --> 00:01:04,089
+un lieu qui
+conserve
+
+51
+00:01:04,089 --> 00:01:05,526
+l'un des
+derniers
+
+52
+00:01:05,526 --> 00:01:06,964
+témoignages
+de la présence
+
+53
+00:01:06,964 --> 00:01:08,402
+du moine de
+
+54
+00:01:08,402 --> 00:01:09,840
+mer dans ces
+eaux.
+
+55
+00:01:09,840 --> 00:01:11,329
+Cette salle,
+parmi
+
+56
+00:01:11,329 --> 00:01:12,819
+celles
+du parcours
+touristique
+
+57
+00:01:12,819 --> 00:01:14,309
+de la Grotte du
+
+58
+00:01:14,309 --> 00:01:15,799
+Bue Marino, est
+celle
+
+59
+00:01:15,799 --> 00:01:17,323
+qui change le
+
+60
+00:01:17,323 --> 00:01:18,847
+plus d'année
+en année,
+
+61
+00:01:18,847 --> 00:01:20,371
+précisément
+en raison de
+
+62
+00:01:20,371 --> 00:01:21,896
+l'activité
+du fleuve. Le
+
+63
+00:01:21,896 --> 00:01:23,299
+sable que nous
+
+64
+00:01:23,299 --> 00:01:24,702
+foulons
+ne provient pas
+
+65
+00:01:24,702 --> 00:01:26,105
+de la mer,
+
+66
+00:01:26,105 --> 00:01:27,508
+mais de
+la rivière
+
+67
+00:01:27,508 --> 00:01:29,032
+souterraine.
+En hiver,
+
+68
+00:01:29,032 --> 00:01:30,556
+selon
+la quantité de
+
+69
+00:01:30,556 --> 00:01:31,318
+pluies, la
+
+70
+00:01:31,318 --> 00:01:32,080
+rivière peut
+
+71
+00:01:32,080 --> 00:01:32,842
+augmenter
+sensiblement
+
+72
+00:01:32,842 --> 00:01:33,605
+son débit.
+
+73
+00:01:33,605 --> 00:01:35,008
+À certaines
+périodes,
+
+74
+00:01:35,008 --> 00:01:36,411
+elle arrive même
+à
+
+75
+00:01:36,411 --> 00:01:37,814
+couvrir une
+grande
+
+76
+00:01:37,814 --> 00:01:39,217
+partie du sol,
+transportant
+
+77
+00:01:39,217 --> 00:01:40,654
+du nouveau sable
+
+78
+00:01:40,654 --> 00:01:42,092
+ou en emportant
+une
+
+79
+00:01:42,092 --> 00:01:42,811
+partie,
+
+80
+00:01:42,811 --> 00:01:43,530
+et modifiant
+
+81
+00:01:43,530 --> 00:01:44,249
+légèrement la
+
+82
+00:01:44,249 --> 00:01:44,968
+morphologie de
+
+83
+00:01:44,968 --> 00:01:46,405
+l'environneme-
+nt. Ce qui
+
+84
+00:01:46,405 --> 00:01:47,843
+est pour nous la
+
+85
+00:01:47,843 --> 00:01:49,281
+fin du parcours
+touristique
+
+86
+00:01:49,281 --> 00:01:50,719
+est en réalité
+aussi
+
+87
+00:01:50,719 --> 00:01:52,156
+le début de
+
+88
+00:01:52,156 --> 00:01:53,594
+la partie
+spéléologique du
+
+89
+00:01:53,594 --> 00:01:55,032
+système.
+À partir
+
+90
+00:01:55,032 --> 00:01:56,470
+de ce point, la
+
+91
+00:01:56,470 --> 00:01:57,959
+grotte
+se poursuit
+
+92
+00:01:57,959 --> 00:01:59,449
+et se ramifie
+sur
+
+93
+00:01:59,449 --> 00:02:00,939
+des kilomètres,
+se
+
+94
+00:02:00,939 --> 00:02:02,429
+connectant à
+la Grotte
+
+95
+00:02:02,429 --> 00:02:03,918
+de Su Palu,
+
+96
+00:02:03,918 --> 00:02:05,408
+à la Grotte de
+
+97
+00:02:05,408 --> 00:02:06,898
+Su Molente et
+
+98
+00:02:06,898 --> 00:02:08,388
+à la Grotte de
+
+99
+00:02:08,388 --> 00:02:09,947
+Monte Longos,
+formant
+
+100
+00:02:09,947 --> 00:02:11,506
+les quelque
+75 kilomètres
+
+101
+00:02:11,506 --> 00:02:12,285
+de développement
+
+102
+00:02:12,285 --> 00:02:13,065
+connus
+aujourd'hui.
+
+103
+00:02:13,065 --> 00:02:13,844
+La partie
+
+104
+00:02:13,844 --> 00:02:14,624
+spéléologique
+est
+
+105
+00:02:14,624 --> 00:02:16,079
+constituée
+de grandes
+
+106
+00:02:16,079 --> 00:02:17,534
+salles riches
+en eau
+
+107
+00:02:17,534 --> 00:02:18,989
+douce, de larges
+
+108
+00:02:18,989 --> 00:02:20,444
+plages
+intérieures,
+de concrétions
+
+109
+00:02:20,444 --> 00:02:21,881
+imposantes et de
+
+110
+00:02:21,881 --> 00:02:23,319
+nombreux siphons
+: des
+
+111
+00:02:23,319 --> 00:02:24,038
+environnements
+
+112
+00:02:24,038 --> 00:02:24,757
+complètement
+remplis
+
+113
+00:02:24,757 --> 00:02:25,476
+d'eau, qui
+
+114
+00:02:25,476 --> 00:02:26,195
+ne peuvent
+
+115
+00:02:26,195 --> 00:02:27,736
+être franchis
+que
+
+116
+00:02:27,736 --> 00:02:29,278
+par des
+spéléologues
+expérimentés
+
+117
+00:02:29,278 --> 00:02:30,048
+avec l'aide
+
+118
+00:02:30,048 --> 00:02:30,819
+de bouteilles
+
+119
+00:02:30,819 --> 00:02:31,590
+et d'équipement
+
+120
+00:02:31,590 --> 00:02:32,361
+de plongée.
+
+121
+00:02:32,361 --> 00:02:33,868
+La visite se
+
+122
+00:02:33,868 --> 00:02:35,375
+termine ici.
+Avant de
+
+123
+00:02:35,375 --> 00:02:36,882
+commencer
+le retour, vous
+
+124
+00:02:36,882 --> 00:02:38,389
+serez répartis
+selon votre
+
+125
+00:02:38,389 --> 00:02:39,826
+prochaine
+destination :
+
+126
+00:02:39,826 --> 00:02:40,545
+Cala Luna,
+
+127
+00:02:40,545 --> 00:02:41,264
+la
+mini-croisière
+
+128
+00:02:41,264 --> 00:02:42,702
+ou le port
+
+129
+00:02:42,702 --> 00:02:44,140
+de Cala Gonone.
+Chaque
+
+130
+00:02:44,140 --> 00:02:45,681
+groupe aura un
+
+131
+00:02:45,681 --> 00:02:47,223
+ordre de sortie
+spécifique,
+
+132
+00:02:47,223 --> 00:02:47,993
+il est
+
+133
+00:02:47,993 --> 00:02:48,764
+donc essentiel
+
+134
+00:02:48,764 --> 00:02:49,535
+que vous
+
+135
+00:02:49,535 --> 00:02:50,306
+écoutiez
+attentivement
+
+136
+00:02:50,306 --> 00:02:51,865
 les indications
-des guides, afin
-de ne pas
-risquer
-de manquer votre
+des
+
+137
+00:02:51,865 --> 00:02:53,424
+guides, afin
+de ne
+
+138
+00:02:53,424 --> 00:02:54,983
+pas risquer
+de manquer
+
+139
+00:02:54,983 --> 00:02:56,542
+votre
 embarcation.
 Nous vous
 
-31
-00:02:56,542 --> 00:03:02,016
+140
+00:02:56,542 --> 00:02:57,910
 remercions
 d'avoir choisi
-de visiter
-la Grotte du Bue
+
+141
+00:02:57,910 --> 00:02:59,279
+de visiter la
+
+142
+00:02:59,279 --> 00:03:00,647
+Grotte du Bue
+
+143
+00:03:00,647 --> 00:03:02,016
 Marino. Nous
 espérons que
 
-32
-00:03:02,016 --> 00:03:07,351
+144
+00:03:02,016 --> 00:03:03,349
 ce parcours vous
-a émus et vous
-a permis
-de découvrir
-davantage
-ce territoire
 
-33
-00:03:07,351 --> 00:03:10,880
+145
+00:03:03,349 --> 00:03:04,683
+a émus et
+
+146
+00:03:04,683 --> 00:03:06,017
+vous a permis
+
+147
+00:03:06,017 --> 00:03:07,351
+de découvrir
+davantage ce
+
+148
+00:03:07,351 --> 00:03:08,233
+territoire
 extraordinaire
-et le monde
-souterrain qu'il
-abrite.
+
+149
+00:03:08,233 --> 00:03:09,115
+et le
+
+150
+00:03:09,115 --> 00:03:09,997
+monde souterrain
+
+151
+00:03:09,997 --> 00:03:10,880
+qu'il abrite.

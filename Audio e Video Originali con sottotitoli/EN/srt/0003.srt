@@ -1,367 +1,821 @@
 1
-00:00:00,000 --> 00:00:05,673
+00:00:00,000 --> 00:00:01,418
 Welcome to the
-evocative Hall
-of Candelabras,
-so named because
-the speleothems
 
 2
-00:00:05,673 --> 00:00:12,073
-found in this
-section of the
-route resemble,
-in shape and
-colour, elegant
-nineteenth-ce-
+00:00:01,418 --> 00:00:02,836
+evocative Hall
+of Candelabras,
 
 3
-00:00:12,073 --> 00:00:17,746
-ntury
-candelabras,
-with wax
-seemingly
-dripping slowly
-from the
-candles. We are
+00:00:02,836 --> 00:00:04,254
+so named because
 
 4
-00:00:17,746 --> 00:00:23,492
-now in the first
-of the four
-halls we will
-visit along
-a route
-of approximately
+00:00:04,254 --> 00:00:05,673
+the speleothems
+found in
 
 5
-00:00:23,492 --> 00:00:29,747
-one kilometre.
-In reality,
-however, the
-Grotta del Bue
-Marino is part
-of a much larger
+00:00:05,673 --> 00:00:07,273
+this section
+of the
 
 6
-00:00:29,747 --> 00:00:36,002
-karst system.
-The cave you are
+00:00:07,273 --> 00:00:08,873
+route resemble,
+in shape
+
+7
+00:00:08,873 --> 00:00:09,673
+and colour,
+
+8
+00:00:09,673 --> 00:00:10,473
+elegant
+nineteenth-ce-
+ntury
+
+9
+00:00:10,473 --> 00:00:11,273
+candelabras,
+with
+
+10
+00:00:11,273 --> 00:00:12,073
+wax seemingly
+
+11
+00:00:12,073 --> 00:00:13,491
+dripping slowly
+from
+
+12
+00:00:13,491 --> 00:00:14,909
+the candles. We
+
+13
+00:00:14,909 --> 00:00:16,327
+are now in
+
+14
+00:00:16,327 --> 00:00:17,746
+the first of the
+
+15
+00:00:17,746 --> 00:00:19,182
+four halls we
+
+16
+00:00:19,182 --> 00:00:20,619
+will visit along
+a
+
+17
+00:00:20,619 --> 00:00:22,055
+route
+of approximately
+
+18
+00:00:22,055 --> 00:00:23,492
+one kilometre.
+In reality,
+
+19
+00:00:23,492 --> 00:00:25,055
+however, the
+Grotta
+
+20
+00:00:25,055 --> 00:00:26,619
+del Bue Marino
+is
+
+21
+00:00:26,619 --> 00:00:28,183
+part of a much
+
+22
+00:00:28,183 --> 00:00:29,747
+larger karst
+system. The
+
+23
+00:00:29,747 --> 00:00:31,310
+cave you are
+
+24
+00:00:31,310 --> 00:00:32,874
 visiting today
 connects,
 through
+
+25
+00:00:32,874 --> 00:00:33,656
 underground
 galleries,
 
-7
-00:00:36,002 --> 00:00:42,402
-to three other
-cavities: the
-Grotta di
-Su Palu, the
-Grotta di
-Su Molente, and
+26
+00:00:33,656 --> 00:00:34,438
+to three
+
+27
+00:00:34,438 --> 00:00:35,220
+other cavities:
+
+28
+00:00:35,220 --> 00:00:36,002
 the Grotta
 
-8
-00:00:42,402 --> 00:00:48,584
+29
+00:00:36,002 --> 00:00:37,602
+di Su Palu,
+
+30
+00:00:37,602 --> 00:00:39,202
+the Grotta di Su
+
+31
+00:00:39,202 --> 00:00:40,802
+Molente, and the
+Grotta
+
+32
+00:00:40,802 --> 00:00:42,402
 di Monte Longos.
-There are
+There
+
+33
+00:00:42,402 --> 00:00:43,174
+are
+
+34
+00:00:43,174 --> 00:00:43,947
 therefore four
+
+35
+00:00:43,947 --> 00:00:44,720
 external
 entrances
+
+36
+00:00:44,720 --> 00:00:45,493
 leading to
+
+37
+00:00:45,493 --> 00:00:47,038
 a single vast
-
-9
-00:00:48,584 --> 00:00:54,766
 underground
+
+38
+00:00:47,038 --> 00:00:47,811
 system, with
-approximately
-75 kilometres
-explored so far.
-It is important
 
-10
-00:00:54,766 --> 00:01:01,094
+39
+00:00:47,811 --> 00:00:48,584
+approximately 75
+
+40
+00:00:48,584 --> 00:00:50,129
+kilometres
+explored so
+
+41
+00:00:50,129 --> 00:00:51,675
+far. It
+is important
+
+42
+00:00:51,675 --> 00:00:53,220
 to stress this:
-the system
-is still being
-explored. We
-do not yet know
-its true extent.
+the
 
-11
-00:01:01,094 --> 00:01:07,131
+43
+00:00:53,220 --> 00:00:54,766
+system is still
+being
+
+44
+00:00:54,766 --> 00:00:56,348
+explored. We do
+
+45
+00:00:56,348 --> 00:00:57,930
+not yet know its
+
+46
+00:00:57,930 --> 00:00:59,512
+true extent.
 With its
+
+47
+00:00:59,512 --> 00:01:01,094
 75 kilometres
 already
 documented,
+
+48
+00:01:01,094 --> 00:01:02,603
 it is currently
+
+49
+00:01:02,603 --> 00:01:04,112
 the second
 longest karst
 
-12
-00:01:07,131 --> 00:01:13,240
+50
+00:01:04,112 --> 00:01:05,621
 system in Italy.
-The Grotta del
-Bue Marino
-is the only part
-of the system
-accessible
 
-13
-00:01:13,240 --> 00:01:19,349
-to the public
-and is divided
+51
+00:01:05,621 --> 00:01:07,131
+The Grotta del
+Bue
+
+52
+00:01:07,131 --> 00:01:08,658
+Marino is the
+
+53
+00:01:08,658 --> 00:01:10,185
+only part of the
+
+54
+00:01:10,185 --> 00:01:11,712
+system
+accessible
+to the
+
+55
+00:01:11,712 --> 00:01:13,240
+public and
+is divided
+
+56
+00:01:13,240 --> 00:01:14,767
 into three
-branches: the
-northern branch,
+branches:
+
+57
+00:01:14,767 --> 00:01:16,294
+the northern
+branch,
 approximately
 
-14
-00:01:19,349 --> 00:01:25,822
+58
+00:01:16,294 --> 00:01:17,821
 9 km long,
-currently closed
-to the public;
+currently
+
+59
+00:01:17,821 --> 00:01:19,349
+closed to the
+public;
+
+60
+00:01:19,349 --> 00:01:20,967
 the central
-branch, 5
-km long,
-accessible only
+branch,
 
-15
-00:01:25,822 --> 00:01:32,150
-to cave divers;
+61
+00:01:20,967 --> 00:01:22,585
+5 km long,
+accessible
+
+62
+00:01:22,585 --> 00:01:23,394
+only to
+
+63
+00:01:23,394 --> 00:01:24,203
+cave divers;
+
+64
+00:01:24,203 --> 00:01:25,012
 the southern
+
+65
+00:01:25,012 --> 00:01:25,822
 branch, 8
-km long, the one
-we are visiting
+
+66
+00:01:25,822 --> 00:01:27,404
+km long, the
+
+67
+00:01:27,404 --> 00:01:28,986
+one we are
+visiting
+
+68
+00:01:28,986 --> 00:01:30,568
 today, of which
+only
 
-16
-00:01:32,150 --> 00:01:37,823
-only the first
+69
+00:01:30,568 --> 00:01:32,150
+the first
 kilometre has
-been open
-to visitors
-since 1983, the
-year of its
 
-17
-00:01:37,823 --> 00:01:44,369
-first public
-opening. The
-southern branch
-is still active.
-Along the route
-you will notice
+70
+00:01:32,150 --> 00:01:33,568
+been open to
 
-18
-00:01:44,369 --> 00:01:50,187
+71
+00:01:33,568 --> 00:01:34,986
+visitors since
+1983,
+
+72
+00:01:34,986 --> 00:01:36,404
+the year of
+
+73
+00:01:36,404 --> 00:01:37,823
+its first public
+opening.
+
+74
+00:01:37,823 --> 00:01:38,641
+The southern
+
+75
+00:01:38,641 --> 00:01:39,459
+branch is
+
+76
+00:01:39,459 --> 00:01:40,277
+still active.
+
+77
+00:01:40,277 --> 00:01:41,096
+Along the
+
+78
+00:01:41,096 --> 00:01:42,732
+route you will
+notice
+
+79
+00:01:42,732 --> 00:01:44,369
 dripping water,
-a sign that the
-formations are
-still slowly
-developing: the
-cave
+a sign
 
-19
-00:01:50,187 --> 00:01:55,715
-is constantly
+80
+00:01:44,369 --> 00:01:45,823
+that the
+formations
+
+81
+00:01:45,823 --> 00:01:47,278
+are still slowly
+developing:
+
+82
+00:01:47,278 --> 00:01:48,732
+the cave is
+
+83
+00:01:48,732 --> 00:01:50,187
+constantly
 changing, even
-if imperceptibly
-to our eyes. But
-the cave also
+if
 
-20
-00:01:55,715 --> 00:02:01,970
-changes through
-another, far
-more powerful
-force: the
+84
+00:01:50,187 --> 00:01:51,569
+imperceptibly
+to our
+
+85
+00:01:51,569 --> 00:01:52,951
+eyes. But the
+
+86
+00:01:52,951 --> 00:01:54,333
+cave also
+changes
+
+87
+00:01:54,333 --> 00:01:55,715
+through another,
+far more
+
+88
+00:01:55,715 --> 00:01:57,278
+powerful force:
+the
+
+89
+00:01:57,278 --> 00:01:58,842
 erosive action
-of
-an underground
+of an
 
-21
-00:02:01,970 --> 00:02:08,298
+90
+00:01:58,842 --> 00:02:00,406
+underground
 river that still
+
+91
+00:02:00,406 --> 00:02:01,970
 flows today and
 continues
+
+92
+00:02:01,970 --> 00:02:03,552
 to carve out
+
+93
+00:02:03,552 --> 00:02:05,134
 these galleries.
-For almost the
+For almost
 
-22
-00:02:08,298 --> 00:02:14,698
-entire length
-of our route,
-there
-is seawater
-beneath our
+94
+00:02:05,134 --> 00:02:06,716
+the entire
+length of
+
+95
+00:02:06,716 --> 00:02:08,298
+our route, there
+is
+
+96
+00:02:08,298 --> 00:02:09,898
+seawater beneath
+our
+
+97
+00:02:09,898 --> 00:02:11,498
 feet. At the end
-of the route,
 
-23
-00:02:14,698 --> 00:02:20,735
-we will instead
-encounter
-an underground
+98
+00:02:11,498 --> 00:02:13,098
+of the route, we
+
+99
+00:02:13,098 --> 00:02:14,698
+will instead
+encounter an
+
+100
+00:02:14,698 --> 00:02:16,207
+underground
 river: ahead
-of us will flow
-fresh, clear,
 
-24
-00:02:20,735 --> 00:02:27,208
-and silent
-water. It
-is precisely
-this watercourse
+101
+00:02:16,207 --> 00:02:17,716
+of us will flow
+
+102
+00:02:17,716 --> 00:02:19,225
+fresh, clear,
+and
+
+103
+00:02:19,225 --> 00:02:20,735
+silent water.
+It is
+
+104
+00:02:20,735 --> 00:02:22,353
+precisely this
+watercourse
+
+105
+00:02:22,353 --> 00:02:23,971
 that is the
 principal
-architect of the
 
-25
-00:02:27,208 --> 00:02:33,463
-entire karst
-system. Through
-its erosive
-force, exerted
+106
+00:02:23,971 --> 00:02:24,780
+architect of
+
+107
+00:02:24,780 --> 00:02:25,589
+the entire
+
+108
+00:02:25,589 --> 00:02:26,398
+karst system.
+
+109
+00:02:26,398 --> 00:02:27,208
+Through its
+
+110
+00:02:27,208 --> 00:02:28,771
+erosive force,
+exerted
+
+111
+00:02:28,771 --> 00:02:30,335
 over millions
-of years, it has
+of years,
 
-26
-00:02:33,463 --> 00:02:39,572
+112
+00:02:30,335 --> 00:02:31,117
+it has
+
+113
+00:02:31,117 --> 00:02:31,899
 carved through
+
+114
+00:02:31,899 --> 00:02:32,681
 the limestone,
+
+115
+00:02:32,681 --> 00:02:33,463
 shaping
 galleries,
+
+116
+00:02:33,463 --> 00:02:34,226
 widening
+
+117
+00:02:34,226 --> 00:02:34,990
 cavities, and
-contributing
 
-27
-00:02:39,572 --> 00:02:45,609
-to the formation
+118
+00:02:34,990 --> 00:02:35,753
+contributing to
+
+119
+00:02:35,753 --> 00:02:36,517
+the formation
+
+120
+00:02:36,517 --> 00:02:38,044
 of most of the
-75 kilometres
-explored
-to date. As you
-walk through
 
-28
-00:02:45,609 --> 00:02:51,791
-these halls, try
-to imagine
+121
+00:02:38,044 --> 00:02:39,572
+75 kilometres
+explored to
+
+122
+00:02:39,572 --> 00:02:41,081
+date. As you
+
+123
+00:02:41,081 --> 00:02:42,590
+walk through
+these halls,
+
+124
+00:02:42,590 --> 00:02:44,099
+try to imagine
+
+125
+00:02:44,099 --> 00:02:45,609
 a time when the
+
+126
+00:02:45,609 --> 00:02:47,154
 spaces you see
+
+127
+00:02:47,154 --> 00:02:48,700
 were completely
 submerged.
+During
 
-29
-00:02:51,791 --> 00:02:57,464
-During the early
-stages of its
-formation, the
-cave was filled
-with fresh water
+128
+00:02:48,700 --> 00:02:50,245
+the early stages
+of
 
-30
-00:02:57,464 --> 00:03:03,573
-right up to the
+129
+00:02:50,245 --> 00:02:51,791
+its formation,
+the cave
+
+130
+00:02:51,791 --> 00:02:53,209
+was filled with
+
+131
+00:02:53,209 --> 00:02:54,627
+fresh water
+right
+
+132
+00:02:54,627 --> 00:02:56,045
+up to the
+
+133
+00:02:56,045 --> 00:02:57,464
 ceiling. The
 mighty
 underground
+
+134
+00:02:57,464 --> 00:02:58,991
 river occupied
-every space,
-exerting
+every
 
-31
-00:03:03,573 --> 00:03:09,828
+135
+00:02:58,991 --> 00:03:00,518
+space, exerting
 a continuous
+
+136
+00:03:00,518 --> 00:03:02,045
 erosive action
-on the rock
-in its slow and
-ceaseless
+on the
+
+137
+00:03:02,045 --> 00:03:03,573
+rock in its slow
+
+138
+00:03:03,573 --> 00:03:05,136
+and ceaseless
 journey
-in search of
 
-32
-00:03:09,828 --> 00:03:16,083
-a natural
-outlet. That
-outlet was found
-at the sea: the
-current entrance
-to the Grotta
+139
+00:03:05,136 --> 00:03:06,700
+in search of a
 
-33
-00:03:16,083 --> 00:03:21,756
+140
+00:03:06,700 --> 00:03:08,264
+natural outlet.
+That outlet
+
+141
+00:03:08,264 --> 00:03:09,828
+was found at the
+
+142
+00:03:09,828 --> 00:03:11,391
+sea: the current
+
+143
+00:03:11,391 --> 00:03:12,955
+entrance to the
+Grotta
+
+144
+00:03:12,955 --> 00:03:14,519
 del Bue Marino
 coincides
+
+145
+00:03:14,519 --> 00:03:16,083
 in fact with the
+
+146
+00:03:16,083 --> 00:03:17,501
 mouth of that
+
+147
+00:03:17,501 --> 00:03:18,919
 underground
 river, the
 
-34
-00:03:21,756 --> 00:03:27,574
+148
+00:03:18,919 --> 00:03:20,337
 terminal stretch
-of a vast system
-shaped by water
-over geological
-time. When the
+of
 
-35
-00:03:27,574 --> 00:03:34,120
+149
+00:03:20,337 --> 00:03:21,756
+a vast system
+shaped
+
+150
+00:03:21,756 --> 00:03:23,210
+by water over
+
+151
+00:03:23,210 --> 00:03:24,665
+geological time.
+When the
+
+152
+00:03:24,665 --> 00:03:26,119
 river opened its
-outlet to the
-sea, the water
-level inside the
-cave gradually
-dropped. The
 
-36
-00:03:34,120 --> 00:03:40,302
-halls emptied
-and the sea
-became part
+153
+00:03:26,119 --> 00:03:27,574
+outlet to the
+sea,
+
+154
+00:03:27,574 --> 00:03:29,210
+the water level
+inside
+
+155
+00:03:29,210 --> 00:03:30,847
+the cave
+gradually
+dropped.
+
+156
+00:03:30,847 --> 00:03:32,483
+The halls
+emptied and
+
+157
+00:03:32,483 --> 00:03:34,120
+the sea became
+part
+
+158
+00:03:34,120 --> 00:03:35,665
 of the
 underground
+
+159
+00:03:35,665 --> 00:03:37,211
 environment.
 Only then, drop
 
-37
-00:03:40,302 --> 00:03:45,830
+160
+00:03:37,211 --> 00:03:38,756
 by drop,
-in silence and
-darkness, did
-all the
-formations you
+in silence
+
+161
+00:03:38,756 --> 00:03:40,302
+and darkness,
+did all
+
+162
+00:03:40,302 --> 00:03:41,684
+the formations
+you
+
+163
+00:03:41,684 --> 00:03:43,066
 see today begin
 
-38
-00:03:45,830 --> 00:03:52,303
+164
+00:03:43,066 --> 00:03:44,448
 to slowly grow
+
+165
+00:03:44,448 --> 00:03:45,830
 and take shape.
-What we are
-observing is not
-simply a cave,
-but the result
+What
 
-39
-00:03:52,303 --> 00:03:58,849
+166
+00:03:45,830 --> 00:03:47,448
+we are observing
+
+167
+00:03:47,448 --> 00:03:49,066
+is not simply a
+
+168
+00:03:49,066 --> 00:03:50,684
+cave, but the
+result
+
+169
+00:03:50,684 --> 00:03:52,303
 of a long and
-uninterrupted
-dialogue between
-water and stone:
-a natural work
-of art shaped
 
-40
-00:03:58,849 --> 00:04:03,720
-by the silent
-force of a river
-hidden in the
-heart of the
-mountain.
+170
+00:03:52,303 --> 00:03:53,121
+uninterrupted
+
+171
+00:03:53,121 --> 00:03:53,939
+dialogue between
+
+172
+00:03:53,939 --> 00:03:54,757
+water and
+
+173
+00:03:54,757 --> 00:03:55,576
+stone: a
+
+174
+00:03:55,576 --> 00:03:57,212
+natural work
+of art
+
+175
+00:03:57,212 --> 00:03:58,849
+shaped by the
+silent
+
+176
+00:03:58,849 --> 00:04:00,066
+force of a
+
+177
+00:04:00,066 --> 00:04:01,284
+river hidden in
+
+178
+00:04:01,284 --> 00:04:02,502
+the heart of
+
+179
+00:04:02,502 --> 00:04:03,720
+the mountain.

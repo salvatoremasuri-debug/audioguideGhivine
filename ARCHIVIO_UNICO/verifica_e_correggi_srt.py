@@ -171,6 +171,135 @@ def build_balanced_screens(lines, max_lines):
     return ["\n".join(s) for s in screens if s]
 
 
+def format_cue_text(flat_text: str, max_line_chars: int, max_word_chars: int) -> str:
+    cleaned = re.sub(r"\s+", " ", flat_text).strip()
+    if not cleaned:
+        return ""
+    return "\n".join(build_lines(cleaned, max_line_chars, max_word_chars))
+
+
+def cue_too_long(text: str, max_chars: int, max_line_chars: int, max_lines: int) -> bool:
+    lines = [ln for ln in re.split(r"\r?\n", text) if ln.strip()]
+    flat = re.sub(r"\s+", " ", text).strip()
+    return (
+        len(flat) > max_chars
+        or len(lines) > max_lines
+        or any(len(ln) > max_line_chars for ln in lines)
+    )
+
+
+def split_cue_halve(
+    start: str,
+    end: str,
+    text: str,
+    max_line_chars: int,
+    max_word_chars: int,
+) -> list[tuple[str, str, str]]:
+    start_ms = to_ms(start)
+    end_ms = to_ms(end)
+    if end_ms - start_ms < 40:
+        return [(start, end, text)]
+
+    mid_ms = start_ms + (end_ms - start_ms) // 2
+    flat = re.sub(r"\s+", " ", text.replace("\n", " ")).strip()
+    words = flat.split()
+    if len(words) < 2:
+        return [(start, end, text)]
+
+    mid = len(words) // 2
+    first = format_cue_text(" ".join(words[:mid]), max_line_chars, max_word_chars)
+    second = format_cue_text(" ".join(words[mid:]), max_line_chars, max_word_chars)
+    return [
+        (start, from_ms(mid_ms), first),
+        (from_ms(mid_ms), end, second),
+    ]
+
+
+def enforce_cue_splits(
+    cues: list[tuple[str, str, str]],
+    max_chars: int,
+    max_line_chars: int,
+    max_lines: int,
+    max_word_chars: int,
+) -> list[tuple[str, str, str]]:
+    out: list[tuple[str, str, str]] = []
+    pending = list(cues)
+    while pending:
+        start, end, text = pending.pop(0)
+        if cue_too_long(text, max_chars, max_line_chars, max_lines):
+            parts = split_cue_halve(start, end, text, max_line_chars, max_word_chars)
+            if len(parts) == 1 and parts[0][2] == text:
+                out.append((start, end, text))
+            else:
+                pending = parts + pending
+        else:
+            out.append((start, end, text))
+    return out
+
+
+def align_words_to_timed_cues(
+    timed_cues: list[tuple[str, str, str]],
+    original_text: str,
+    max_line_chars: int,
+    max_word_chars: int,
+    weights: list[int] | None = None,
+) -> list[tuple[str, str, str]]:
+    if not timed_cues:
+        return []
+
+    body = strip_leading_titles(original_text)
+    words = re.sub(r"\s+", " ", body).strip().split()
+    if not words:
+        return timed_cues
+
+    if weights is None:
+        weights = [max(1, len(re.sub(r"\s+", " ", old).split())) for _, _, old in timed_cues]
+    else:
+        weights = [max(1, w) for w in weights]
+
+    total_weight = sum(weights)
+    if total_weight <= 0:
+        weights = [1] * len(timed_cues)
+        total_weight = len(timed_cues)
+
+    target_counts = []
+    assigned = 0
+    for i, w in enumerate(weights):
+        if i == len(weights) - 1:
+            target_counts.append(len(words) - assigned)
+        else:
+            n = max(1, round(len(words) * w / total_weight))
+            remaining_cues = len(weights) - i
+            remaining_words = len(words) - assigned
+            n = min(n, max(1, remaining_words - (remaining_cues - 1)))
+            target_counts.append(n)
+            assigned += n
+
+    out: list[tuple[str, str, str]] = []
+    idx = 0
+    for i, (start, end, _) in enumerate(timed_cues):
+        take = target_counts[i] if i < len(target_counts) else 0
+        if take <= 0 and idx < len(words):
+            take = 1
+        chunk = words[idx : idx + take]
+        idx += len(chunk)
+        if not chunk:
+            continue
+        text = format_cue_text(" ".join(chunk), max_line_chars, max_word_chars)
+        out.append((start, end, text))
+
+    if idx < len(words) and out:
+        start, end, text = out[-1]
+        extra = format_cue_text(
+            re.sub(r"\s+", " ", text.replace("\n", " ") + " " + " ".join(words[idx:])),
+            max_line_chars,
+            max_word_chars,
+        )
+        out[-1] = (start, end, extra)
+
+    return out
+
+
 def pack_screens_greedy(all_lines, max_lines: int, max_chars: int):
     """Raggruppa le righe in schermate: max N righe e max M caratteri (testo con spazi)."""
     if not all_lines:
@@ -236,10 +365,10 @@ def file_number(stem: str) -> str:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", required=True)
-    ap.add_argument("--max-chars", type=int, default=90)
+    ap.add_argument("--max-chars", type=int, default=50)
     ap.add_argument("--max-line-chars", type=int, default=16)
     ap.add_argument("--max-word-chars", type=int, default=14)
-    ap.add_argument("--max-lines", type=int, default=9)
+    ap.add_argument("--max-lines", type=int, default=4)
     ap.add_argument("--ratio-threshold", type=float, default=0.995)
     ap.add_argument("--out-fixed", required=True)
     args = ap.parse_args()
@@ -288,9 +417,15 @@ def main():
         if ratio >= args.ratio_threshold and not too_long:
             continue
 
-        wrapped = rebuild_from_original(
+        aligned = align_words_to_timed_cues(
             cues,
             orig_text,
+            args.max_line_chars,
+            args.max_word_chars,
+            weights=[len(re.sub(r"\s+", " ", t).split()) for _, _, t in cues],
+        )
+        wrapped = enforce_cue_splits(
+            aligned,
             args.max_chars,
             args.max_line_chars,
             args.max_lines,

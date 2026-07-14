@@ -1,244 +1,514 @@
 1
-00:00:00,000 --> 00:00:06,193
+00:00:00,000 --> 00:00:01,548
 Nous nous
 trouvons
-à l'intérieur
-de la Salle des
-Tuyaux d'Orgue,
-l'un des
-environnements
 
 2
-00:00:06,193 --> 00:00:11,611
-les plus
-spectaculaires
-de l'ensemble
-du parcours
-de la Grotte
-du Bue Marino.
+00:00:01,548 --> 00:00:03,096
+à l'intérieur
+de la
 
 3
-00:00:11,611 --> 00:00:17,522
-C'est ici que
-se concentre
-la plus grande
-partie des
-concrétions les
-plus imposantes
+00:00:03,096 --> 00:00:04,644
+Salle des Tuyaux
 
 4
-00:00:17,522 --> 00:00:23,433
-et les plus
-suggestives.
-La salle est
-caractérisée
-principalement
-par quatre
-grandes
+00:00:04,644 --> 00:00:06,193
+d'Orgue, l'un
+des
+environnements
 
 5
-00:00:23,433 --> 00:00:29,485
-colonnes, parmi
-les formations
+00:00:06,193 --> 00:00:07,547
 les plus
-anciennes
-visibles sur
-le parcours
-touristique
+spectaculaires
 
 6
-00:00:29,485 --> 00:00:35,748
-: leur âge est
-estimé à environ
-500 000 ans.
-Mais comment ces
-structures
-se forment-elles
+00:00:07,547 --> 00:00:08,902
+de l'ensemble du
 
 7
-00:00:35,748 --> 00:00:41,307
-? Tout commence
-en surface, avec
-la pluie. L'eau
-de pluie,
+00:00:08,902 --> 00:00:10,256
+parcours de la
+
+8
+00:00:10,256 --> 00:00:11,611
+Grotte du Bue
+
+9
+00:00:11,611 --> 00:00:13,088
+Marino. C'est
+ici
+
+10
+00:00:13,088 --> 00:00:14,566
+que se concentre
+la
+
+11
+00:00:14,566 --> 00:00:16,044
+plus grande
+partie
+
+12
+00:00:16,044 --> 00:00:17,522
+des concrétions
+les plus
+
+13
+00:00:17,522 --> 00:00:18,999
+imposantes
+et les
+
+14
+00:00:18,999 --> 00:00:20,477
+plus
+suggestives.
+La salle
+
+15
+00:00:20,477 --> 00:00:21,216
+est
+
+16
+00:00:21,216 --> 00:00:21,955
+caractérisée
+principalement
+
+17
+00:00:21,955 --> 00:00:22,694
+par quatre
+
+18
+00:00:22,694 --> 00:00:23,433
+grandes
+colonnes,
+
+19
+00:00:23,433 --> 00:00:24,946
+parmi les
+formations
+
+20
+00:00:24,946 --> 00:00:26,459
+les plus
+anciennes
+visibles
+
+21
+00:00:26,459 --> 00:00:27,972
+sur le parcours
+
+22
+00:00:27,972 --> 00:00:29,485
+touristique
+: leur âge
+
+23
+00:00:29,485 --> 00:00:31,050
+est estimé à
+
+24
+00:00:31,050 --> 00:00:32,616
+environ 500 000
+ans.
+
+25
+00:00:32,616 --> 00:00:34,182
+Mais comment ces
+
+26
+00:00:34,182 --> 00:00:35,748
+structures
+se forment-elles
+?
+
+27
+00:00:35,748 --> 00:00:37,137
+Tout commence en
+
+28
+00:00:37,137 --> 00:00:38,527
+surface, avec la
+
+29
+00:00:38,527 --> 00:00:39,917
+pluie. L'eau de
+
+30
+00:00:39,917 --> 00:00:41,307
+pluie,
 en s'infiltrant
 dans
 
-8
-00:00:41,307 --> 00:00:46,866
+31
+00:00:41,307 --> 00:00:42,696
 la montagne,
-traverse le sol
-et s'enrichit
+traverse
+
+32
+00:00:42,696 --> 00:00:44,086
+le sol et
+
+33
+00:00:44,086 --> 00:00:45,476
+s'enrichit
 en dioxyde
+
+34
+00:00:45,476 --> 00:00:46,866
 de carbone.
 Lorsque l'eau
 
-9
-00:00:46,866 --> 00:00:53,129
+35
+00:00:46,866 --> 00:00:48,431
 et le dioxyde
+
+36
+00:00:48,431 --> 00:00:49,997
 de carbone
 se combinent,
-il se forme une
-solution
+
+37
+00:00:49,997 --> 00:00:51,563
+il se forme
+
+38
+00:00:51,563 --> 00:00:53,129
+une solution
 légèrement
-acide, capable
+acide,
 
-10
-00:00:53,129 --> 00:00:59,392
-d'éroder
-la roche
-calcaire. Au fur
-et à mesure que
-l'eau se fraie
-un chemin
-à l'intérieur
+39
+00:00:53,129 --> 00:00:54,694
+capable d'éroder
+la
 
-11
-00:00:59,392 --> 00:01:05,444
+40
+00:00:54,694 --> 00:00:56,260
+roche calcaire.
+Au fur
+
+41
+00:00:56,260 --> 00:00:57,826
+et à mesure
+
+42
+00:00:57,826 --> 00:00:59,392
+que l'eau
+se fraie
+
+43
+00:00:59,392 --> 00:01:00,905
+un chemin à
+
+44
+00:01:00,905 --> 00:01:02,418
+l'intérieur
 de la montagne,
-elle dissout
-le carbonate
+
+45
+00:01:02,418 --> 00:01:03,931
+elle dissout le
+
+46
+00:01:03,931 --> 00:01:05,444
+carbonate
 de calcium,
 élément
-constitutif
-de la roche,
 
-12
-00:01:05,444 --> 00:01:11,074
+47
+00:01:05,444 --> 00:01:06,851
+constitutif
+de la
+
+48
+00:01:06,851 --> 00:01:08,259
+roche,
 le transformant
+
+49
+00:01:08,259 --> 00:01:09,666
 en bicarbonate
-de calcium, une
+de
+
+50
+00:01:09,666 --> 00:01:11,074
+calcium, une
 forme soluble
+
+51
+00:01:11,074 --> 00:01:12,516
 qui est
 transportée
 
-13
-00:01:11,074 --> 00:01:16,844
+52
+00:01:12,516 --> 00:01:13,959
 en solution.
-Lorsque cette
-eau riche
+Lorsque
+
+53
+00:01:13,959 --> 00:01:15,401
+cette eau riche
+
+54
+00:01:15,401 --> 00:01:16,844
 en minéraux
 atteint les
+
+55
+00:01:16,844 --> 00:01:17,600
 cavités
+
+56
+00:01:17,600 --> 00:01:18,357
 souterraines,
+comme
 
-14
-00:01:16,844 --> 00:01:22,896
-comme cette
-salle,
+57
+00:01:18,357 --> 00:01:19,113
+cette salle,
+
+58
+00:01:19,113 --> 00:01:19,870
 le processus
+
+59
+00:01:19,870 --> 00:01:21,383
 change. Si une
+
+60
+00:01:21,383 --> 00:01:22,896
 goutte reste
-suspendue
-au plafond, elle
+suspendue au
 
-15
-00:01:22,896 --> 00:01:29,229
-perd du dioxyde
+61
+00:01:22,896 --> 00:01:24,479
+plafond, elle
+perd
+
+62
+00:01:24,479 --> 00:01:26,062
+du dioxyde
 de carbone
+
+63
+00:01:26,062 --> 00:01:27,645
 et dépose
-lentement
-le carbonate
+lentement le
+
+64
+00:01:27,645 --> 00:01:29,229
+carbonate
 de calcium, qui
+
+65
+00:01:29,229 --> 00:01:30,706
 se cristallise
+et
 
-16
-00:01:29,229 --> 00:01:35,140
-et se solidifie
-pour former une
-stalactite. Si,
+66
+00:01:30,706 --> 00:01:32,184
+se solidifie
+pour former
+
+67
+00:01:32,184 --> 00:01:33,662
+une stalactite.
+Si,
+
+68
+00:01:33,662 --> 00:01:35,140
 en revanche,
-la goutte tombe
-au sol,
+la goutte
 
-17
-00:01:35,140 --> 00:01:41,121
+69
+00:01:35,140 --> 00:01:36,635
+tombe au sol,
+
+70
+00:01:36,635 --> 00:01:38,130
 le minéral
-se dépose sur
-le plancher pour
-donner naissance
-à une
-stalagmite.
+se dépose
+
+71
+00:01:38,130 --> 00:01:39,625
+sur le plancher
+
+72
+00:01:39,625 --> 00:01:41,121
+pour donner
+naissance à
+
+73
+00:01:41,121 --> 00:01:42,616
+une stalagmite.
 Lorsque,
 
-18
-00:01:41,121 --> 00:01:47,102
+74
+00:01:42,616 --> 00:01:44,111
 au cours
 de milliers
+
+75
+00:01:44,111 --> 00:01:44,858
 d'années,
-stalactite
-et stalagmite
-se rencontrent
-et s'unissent,
 
-19
-00:01:47,102 --> 00:01:53,083
+76
+00:01:44,858 --> 00:01:45,606
+stalactite et
+
+77
+00:01:45,606 --> 00:01:46,354
+stalagmite se
+
+78
+00:01:46,354 --> 00:01:47,102
+rencontrent et
+
+79
+00:01:47,102 --> 00:01:48,597
+s'unissent,
 elles forment
+
+80
+00:01:48,597 --> 00:01:50,092
 une colonne,
-comme celles que
-nous observons
-ici. Ce sont des
-processus
+comme
 
-20
-00:01:53,083 --> 00:01:59,135
+81
+00:01:50,092 --> 00:01:51,587
+celles que nous
+
+82
+00:01:51,587 --> 00:01:53,083
+observons ici.
+Ce sont
+
+83
+00:01:53,083 --> 00:01:54,596
+des processus
 extrêmement
-lents. Il peut
-falloir environ
-100 ans pour
-former un seul
-centimètre cube
 
-21
-00:01:59,135 --> 00:02:05,468
-de concrétion.
-Cela signifie
-que chaque
-structure que
+84
+00:01:54,596 --> 00:01:56,109
+lents. Il peut
+falloir
+
+85
+00:01:56,109 --> 00:01:57,622
+environ 100 ans
+
+86
+00:01:57,622 --> 00:01:59,135
+pour former
+un seul
+
+87
+00:01:59,135 --> 00:02:00,718
+centimètre cube
+de
+
+88
+00:02:00,718 --> 00:02:02,301
+concrétion. Cela
+signifie que
+
+89
+00:02:02,301 --> 00:02:03,884
+chaque structure
+que
+
+90
+00:02:03,884 --> 00:02:05,468
 nous voyons est
-le résultat
+le
+
+91
+00:02:05,468 --> 00:02:06,981
+résultat
 de temps
 
-22
-00:02:05,468 --> 00:02:11,520
+92
+00:02:06,981 --> 00:02:08,494
 géologiques très
 longs, d'un
+
+93
+00:02:08,494 --> 00:02:10,007
 équilibre
 constant entre
-l'eau, la roche
-et l'atmosphère.
 
-23
-00:02:11,520 --> 00:02:17,713
+94
+00:02:10,007 --> 00:02:11,520
+l'eau, la roche
+et
+
+95
+00:02:11,520 --> 00:02:13,068
+l'atmosphère.
 Dans cette
+
+96
+00:02:13,068 --> 00:02:14,616
 salle, nous
 pouvons lire,
-presque comme
-dans une archive
-naturelle,
-le chemin
 
-24
-00:02:17,713 --> 00:02:23,272
-invisible
-de l'eau
+97
+00:02:14,616 --> 00:02:16,164
+presque comme
+dans
+
+98
+00:02:16,164 --> 00:02:17,713
+une archive
+naturelle, le
+
+99
+00:02:17,713 --> 00:02:19,102
+chemin invisible
+de
+
+100
+00:02:19,102 --> 00:02:20,492
+l'eau
 à l'intérieur
+
+101
+00:02:20,492 --> 00:02:21,882
 de la montagne.
+
+102
+00:02:21,882 --> 00:02:23,272
 Chaque
 concrétion est
-la trace
+la
 
-25
-00:02:23,272 --> 00:02:29,042
-concrète de
+103
+00:02:23,272 --> 00:02:24,714
+trace concrète
+de
+
+104
+00:02:24,714 --> 00:02:26,157
 ce voyage
 silencieux,
-répété goutte
-après goutte
-pendant des
-centaines
 
-26
-00:02:29,042 --> 00:02:30,520
-de milliers
+105
+00:02:26,157 --> 00:02:27,599
+répété goutte
+après
+
+106
+00:02:27,599 --> 00:02:29,042
+goutte pendant
+des centaines
+
+107
+00:02:29,042 --> 00:02:29,781
+de
+
+108
+00:02:29,781 --> 00:02:30,520
+milliers
 d'années.

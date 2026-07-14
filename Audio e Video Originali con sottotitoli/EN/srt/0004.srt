@@ -1,318 +1,709 @@
 1
-00:00:00,000 --> 00:00:05,792
+00:00:00,000 --> 00:00:01,448
 We are now
-in the
-magnificent Hall
-of Mirrors, one
-of the most
-evocative places
 
 2
-00:00:05,792 --> 00:00:11,878
-on the entire
-tourist route
-through the
-Grotta del Bue
-Marino. In this
-section, the
+00:00:01,448 --> 00:00:02,896
+in the
+magnificent
 
 3
-00:00:11,878 --> 00:00:18,037
-water is usually
-so still and
-flat that
-it becomes
-a perfect
-reflecting
-surface. The
+00:00:02,896 --> 00:00:04,344
+Hall of Mirrors,
 
 4
-00:00:18,037 --> 00:00:24,342
-walls and
-formations
-mirror
-themselves,
-creating
-an upside-down
-image
-of extraordinary
+00:00:04,344 --> 00:00:05,792
+one of the most
 
 5
-00:00:24,342 --> 00:00:30,794
-clarity, giving
-the illusion
-of a depth far
-greater than
-it actually is.
-It is, however,
+00:00:05,792 --> 00:00:07,313
+evocative places
+on
 
 6
-00:00:30,794 --> 00:00:37,246
-only an optical
-illusion: at the
-deepest point
-accessible
-to the public,
-the water never
+00:00:07,313 --> 00:00:08,835
+the entire
+tourist route
 
 7
-00:00:37,246 --> 00:00:43,698
-exceeds two
-metres. The
-formation
-of these
-"mirrors"
-depends greatly
-on external
-weather
+00:00:08,835 --> 00:00:10,356
+through the
+Grotta
 
 8
-00:00:43,698 --> 00:00:49,637
-conditions. When
-a dry wind blows
-outside, such
-as the
-maestrale, the
-air remains
+00:00:10,356 --> 00:00:11,878
+del Bue Marino.
+In
 
 9
-00:00:49,637 --> 00:00:55,723
-stable and the
-surface of the
-water stays
-perfectly still,
-allowing the
-reflections
+00:00:11,878 --> 00:00:13,417
+this section,
+the
 
 10
-00:00:55,723 --> 00:01:01,662
-to appear in all
-their
-perfection. If,
-on the other
-hand, a humid
-wind is blowing
+00:00:13,417 --> 00:00:14,957
+water is usually
+so
 
 11
-00:01:01,662 --> 00:01:07,748
-outside, such
-as the scirocco,
-the moisture
-penetrates into
-the cave. Here
-it meets
+00:00:14,957 --> 00:00:16,497
+still and flat
 
 12
-00:01:07,748 --> 00:01:14,347
-a naturally
-cooler
-environment and
-a condensation
-effect occurs:
-the warm, humid
-air, upon
+00:00:16,497 --> 00:00:18,037
+that it becomes
+a
 
 13
-00:01:14,347 --> 00:01:19,919
-contact with the
-cooler walls,
-produces tiny
-water droplets.
-In these cases,
+00:00:18,037 --> 00:00:18,825
+perfect
 
 14
-00:01:19,919 --> 00:01:26,005
-inside the Hall
-of Mirrors
+00:00:18,825 --> 00:00:19,613
+reflecting
+surface.
+
+15
+00:00:19,613 --> 00:00:20,401
+The walls
+
+16
+00:00:20,401 --> 00:00:21,189
+and formations
+
+17
+00:00:21,189 --> 00:00:21,977
+mirror
+themselves,
+
+18
+00:00:21,977 --> 00:00:22,765
+creating an
+
+19
+00:00:22,765 --> 00:00:23,553
+upside-down
+image
+
+20
+00:00:23,553 --> 00:00:24,342
+of extraordinary
+
+21
+00:00:24,342 --> 00:00:25,955
+clarity, giving
+the
+
+22
+00:00:25,955 --> 00:00:27,568
+illusion of
+a depth
+
+23
+00:00:27,568 --> 00:00:29,181
+far greater than
+it
+
+24
+00:00:29,181 --> 00:00:30,794
+actually is.
+It is,
+
+25
+00:00:30,794 --> 00:00:32,407
+however, only an
+
+26
+00:00:32,407 --> 00:00:34,020
+optical
+illusion: at the
+
+27
+00:00:34,020 --> 00:00:35,633
+deepest point
+accessible to
+
+28
+00:00:35,633 --> 00:00:37,246
+the public, the
+water
+
+29
+00:00:37,246 --> 00:00:38,859
+never exceeds
+two
+
+30
+00:00:38,859 --> 00:00:40,472
+metres. The
+formation of
+
+31
+00:00:40,472 --> 00:00:41,278
+these "mirrors"
+
+32
+00:00:41,278 --> 00:00:42,085
+depends greatly
+
+33
+00:00:42,085 --> 00:00:42,891
+on external
+
+34
+00:00:42,891 --> 00:00:43,698
+weather
+conditions.
+
+35
+00:00:43,698 --> 00:00:45,182
+When a dry
+
+36
+00:00:45,182 --> 00:00:46,667
+wind blows
+outside, such
+
+37
+00:00:46,667 --> 00:00:48,152
+as the
+maestrale,
+
+38
+00:00:48,152 --> 00:00:49,637
+the air remains
+stable
+
+39
+00:00:49,637 --> 00:00:51,158
+and the surface
+
+40
+00:00:51,158 --> 00:00:52,680
+of the water
+stays
+
+41
+00:00:52,680 --> 00:00:53,440
+perfectly
+
+42
+00:00:53,440 --> 00:00:54,201
+still, allowing
+
+43
+00:00:54,201 --> 00:00:54,962
+the reflections
+
+44
+00:00:54,962 --> 00:00:55,723
+to appear
+
+45
+00:00:55,723 --> 00:00:57,207
+in all their
+
+46
+00:00:57,207 --> 00:00:58,692
+perfection. If,
+on the
+
+47
+00:00:58,692 --> 00:01:00,177
+other hand, a
+
+48
+00:01:00,177 --> 00:01:01,662
+humid wind
+is blowing
+
+49
+00:01:01,662 --> 00:01:03,183
+outside, such as
+
+50
+00:01:03,183 --> 00:01:04,705
+the scirocco,
+the moisture
+
+51
+00:01:04,705 --> 00:01:06,226
+penetrates into
+the
+
+52
+00:01:06,226 --> 00:01:07,748
+cave. Here
+it meets
+
+53
+00:01:07,748 --> 00:01:09,397
+a naturally
+cooler
+
+54
+00:01:09,397 --> 00:01:11,047
+environment and
+a condensation
+
+55
+00:01:11,047 --> 00:01:12,697
+effect occurs:
+the warm,
+
+56
+00:01:12,697 --> 00:01:14,347
+humid air, upon
+contact
+
+57
+00:01:14,347 --> 00:01:15,740
+with the cooler
+
+58
+00:01:15,740 --> 00:01:17,133
+walls, produces
+tiny
+
+59
+00:01:17,133 --> 00:01:18,526
+water droplets.
+In
+
+60
+00:01:18,526 --> 00:01:19,919
+these cases,
+inside the
+
+61
+00:01:19,919 --> 00:01:21,440
+Hall of Mirrors
+
+62
+00:01:21,440 --> 00:01:22,962
 a kind of very
+
+63
+00:01:22,962 --> 00:01:24,483
 fine drizzle can
+
+64
+00:01:24,483 --> 00:01:26,005
 begin, which
 ripples the
 
-15
-00:01:26,005 --> 00:01:31,504
+65
+00:01:26,005 --> 00:01:27,379
 surface of the
-water and makes
-the mirror
-effect
-disappear. The
-temperature
 
-16
-00:01:31,504 --> 00:01:38,103
-inside the cave
-is in fact
-constant
-throughout the
-year, ranging
-between 16 and
+66
+00:01:27,379 --> 00:01:28,754
+water and makes
+
+67
+00:01:28,754 --> 00:01:29,441
+the
+
+68
+00:01:29,441 --> 00:01:30,129
+mirror effect
+
+69
+00:01:30,129 --> 00:01:30,816
+disappear. The
+
+70
+00:01:30,816 --> 00:01:31,504
+temperature
+inside
+
+71
+00:01:31,504 --> 00:01:33,153
+the cave is
+
+72
+00:01:33,153 --> 00:01:34,803
+in fact constant
+throughout
+
+73
+00:01:34,803 --> 00:01:36,453
+the year,
+ranging between
+
+74
+00:01:36,453 --> 00:01:38,103
+16 and
 18 degrees
 
-17
-00:01:38,103 --> 00:01:43,822
+75
+00:01:38,103 --> 00:01:39,532
 Celsius. The
 relative
+
+76
+00:01:39,532 --> 00:01:40,962
 humidity is very
+
+77
+00:01:40,962 --> 00:01:42,392
 high and can
-reach 99%. It
-is precisely
 
-18
-00:01:43,822 --> 00:01:49,761
+78
+00:01:42,392 --> 00:01:43,822
+reach 99%. It is
+
+79
+00:01:43,822 --> 00:01:44,564
+precisely
+
+80
+00:01:44,564 --> 00:01:45,306
 this delicate
+
+81
+00:01:45,306 --> 00:01:46,048
 balance between
+
+82
+00:01:46,048 --> 00:01:46,791
 temperature,
-humidity, and
-external
-conditions that
+humidity,
 
-19
-00:01:49,761 --> 00:01:56,286
-determines the
-magic — or the
+83
+00:01:46,791 --> 00:01:48,276
+and external
+conditions
+
+84
+00:01:48,276 --> 00:01:49,761
+that determines
+the magic
+
+85
+00:01:49,761 --> 00:01:51,392
+— or the
+
+86
+00:01:51,392 --> 00:01:53,023
 absence — of the
-mirrors. This
-hall is also one
-of the best
 
-20
-00:01:56,286 --> 00:02:01,932
-places
-to observe the
-colours of the
-cave. White
-is the natural
+87
+00:01:53,023 --> 00:01:54,654
+mirrors. This
+hall is
+
+88
+00:01:54,654 --> 00:01:56,286
+also one of the
+
+89
+00:01:56,286 --> 00:01:57,697
+best places to
+
+90
+00:01:57,697 --> 00:01:59,109
+observe the
+colours
+
+91
+00:01:59,109 --> 00:02:00,520
+of the cave.
+
+92
+00:02:00,520 --> 00:02:01,932
+White is the
+natural
+
+93
+00:02:01,932 --> 00:02:03,545
 colour of the
 
-21
-00:02:01,932 --> 00:02:08,384
+94
+00:02:03,545 --> 00:02:05,158
 limestone, the
 sedimentary rock
+
+95
+00:02:05,158 --> 00:02:06,771
 of which the
-entire mountain
+entire
+
+96
+00:02:06,771 --> 00:02:08,384
+mountain
 is composed. The
+
+97
+00:02:08,384 --> 00:02:09,795
 red-orange
+is due
 
-22
-00:02:08,384 --> 00:02:14,030
-is due to the
-presence of iron
-oxide, a common
-element in karst
+98
+00:02:09,795 --> 00:02:11,207
+to the presence
+
+99
+00:02:11,207 --> 00:02:12,618
+of iron oxide,
+
+100
+00:02:12,618 --> 00:02:14,030
+a common element
+in
+
+101
+00:02:14,030 --> 00:02:15,588
+karst
 environments.
+The
 
-23
-00:02:14,030 --> 00:02:20,262
-The brown tones
-are linked
+102
+00:02:15,588 --> 00:02:17,146
+brown tones are
+linked
+
+103
+00:02:17,146 --> 00:02:17,925
 to detrital
+
+104
+00:02:17,925 --> 00:02:18,704
 deposits: mud,
+
+105
+00:02:18,704 --> 00:02:19,483
 soil, and
+
+106
+00:02:19,483 --> 00:02:20,262
 materials
 transported
 
-24
-00:02:20,262 --> 00:02:26,787
+107
+00:02:20,262 --> 00:02:21,893
 by water over
-time. Also
-visible on the
-walls is a thin
-horizontal brown
-line, which runs
 
-25
-00:02:26,787 --> 00:02:33,166
-from the Hall
+108
+00:02:21,893 --> 00:02:23,524
+time. Also
+visible on
+
+109
+00:02:23,524 --> 00:02:25,155
+the walls is a
+
+110
+00:02:25,155 --> 00:02:26,787
+thin horizontal
+brown line,
+
+111
+00:02:26,787 --> 00:02:28,381
+which runs from
+
+112
+00:02:28,381 --> 00:02:29,976
+the Hall
 of Candelabras
+
+113
+00:02:29,976 --> 00:02:31,571
 to approximately
 the halfway
+
+114
+00:02:31,571 --> 00:02:33,166
 point of the
-route. On closer
+route.
 
-26
-00:02:33,166 --> 00:02:39,252
+115
+00:02:33,166 --> 00:02:34,687
+On closer
 inspection,
-it turns out
-to be composed
-of oyster
-fossils dating
-back
+
+116
+00:02:34,687 --> 00:02:36,209
+it turns out to
+
+117
+00:02:36,209 --> 00:02:37,730
+be composed of
+
+118
+00:02:37,730 --> 00:02:39,252
+oyster fossils
+dating back
+
+119
+00:02:39,252 --> 00:02:40,736
 approximately
+120,000 to
 
-27
-00:02:39,252 --> 00:02:45,191
-120,000
-to 125,000
-years. This line
-is evidence
-of an ancient
-sea level,
+120
+00:02:40,736 --> 00:02:42,221
+125,000 years.
+This line
+
+121
+00:02:42,221 --> 00:02:43,706
+is evidence of
+
+122
+00:02:43,706 --> 00:02:45,191
+an ancient sea
+level,
+
+123
+00:02:45,191 --> 00:02:46,675
 probably
+following a
 
-28
-00:02:45,191 --> 00:02:51,130
-following
-a glacial
-period. With the
+124
+00:02:46,675 --> 00:02:48,160
+glacial period.
+With the
+
+125
+00:02:48,160 --> 00:02:49,645
 melting of the
-ice, the sea
-rose to a height
 
-29
-00:02:51,130 --> 00:02:57,582
+126
+00:02:49,645 --> 00:02:51,130
+ice, the sea
+rose
+
+127
+00:02:51,130 --> 00:02:52,743
+to a height
+
+128
+00:02:52,743 --> 00:02:54,356
 greater than
 today, allowing
+
+129
+00:02:54,356 --> 00:02:55,969
 oysters
 to settle along
+
+130
+00:02:55,969 --> 00:02:57,582
 the cave walls.
-With the
-subsequent
+With
 
-30
-00:02:57,582 --> 00:03:03,228
-lowering of the
-sea level, these
-organisms became
+131
+00:02:57,582 --> 00:02:58,993
+the subsequent
+lowering
+
+132
+00:02:58,993 --> 00:03:00,405
+of the sea
+
+133
+00:03:00,405 --> 00:03:01,110
+level,
+
+134
+00:03:01,110 --> 00:03:01,816
+these organisms
+
+135
+00:03:01,816 --> 00:03:02,522
+became
 fossilised,
-leaving a trace
 
-31
-00:03:03,228 --> 00:03:08,874
-that is still
-perfectly
+136
+00:03:02,522 --> 00:03:03,228
+leaving a
+
+137
+00:03:03,228 --> 00:03:04,639
+trace that is
+
+138
+00:03:04,639 --> 00:03:06,051
+still perfectly
 visible today.
+
+139
+00:03:06,051 --> 00:03:07,462
 The same line
+
+140
+00:03:07,462 --> 00:03:08,874
 marking that
 ancient sea
 
-32
-00:03:08,874 --> 00:03:15,179
+141
+00:03:08,874 --> 00:03:10,450
 level can also
+
+142
+00:03:10,450 --> 00:03:12,026
 be observed
-along the coasts
-of the Gulf
+along the
+
+143
+00:03:12,026 --> 00:03:13,602
+coasts of the
+Gulf
+
+144
+00:03:13,602 --> 00:03:15,179
 of Orosei, where
-it appears as
+it
 
-33
-00:03:15,179 --> 00:03:21,411
-a clear wave-cut
+145
+00:03:15,179 --> 00:03:16,737
+appears as a
+
+146
+00:03:16,737 --> 00:03:18,295
+clear wave-cut
 notch carved
-into the rock.
-Here, in the
-Hall of Mirrors,
-we are not
 
-34
-00:03:21,411 --> 00:03:27,570
-merely observing
+147
+00:03:18,295 --> 00:03:19,853
+into the rock.
+Here,
+
+148
+00:03:19,853 --> 00:03:21,411
+in the Hall of
+
+149
+00:03:21,411 --> 00:03:22,950
+Mirrors, we are
+
+150
+00:03:22,950 --> 00:03:24,490
+not merely
+observing
 reflections:
-we are observing
-time, climate,
-and geological
+
+151
+00:03:24,490 --> 00:03:25,260
+we are
+
+152
+00:03:25,260 --> 00:03:26,030
+observing time,
+
+153
+00:03:26,030 --> 00:03:26,800
+climate, and
+
+154
+00:03:26,800 --> 00:03:27,570
+geological
 history
 
-35
-00:03:27,570 --> 00:03:28,960
+155
+00:03:27,570 --> 00:03:28,265
 imprinted
+
+156
+00:03:28,265 --> 00:03:28,960
 in stone.

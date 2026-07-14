@@ -1,299 +1,652 @@
 1
-00:00:00,000 --> 00:00:06,388
+00:00:00,000 --> 00:00:01,597
 Benvenuti alla
-Grotta del Bue
-Marino, uno dei
-luoghi più
-straordinari del
-Golfo di Orosei.
+Grotta
 
 2
-00:00:06,388 --> 00:00:12,705
-Prima
-di iniziare
-il percorso,
-è fondamentale
-conoscere
-e rispettare
-le regole
-di visita:
+00:00:01,597 --> 00:00:03,194
+del Bue Marino,
 
 3
-00:00:12,705 --> 00:00:18,951
-servono
-a proteggere voi
-e questo
-ambiente unico,
-fragile
-e millenario.
-La visita durerà
+00:00:03,194 --> 00:00:04,791
+uno dei luoghi
 
 4
-00:00:18,951 --> 00:00:24,558
-circa 50 minuti.
+00:00:04,791 --> 00:00:06,388
+più straordinari
+del Golfo
+
+5
+00:00:06,388 --> 00:00:07,967
+di Orosei. Prima
+
+6
+00:00:07,967 --> 00:00:09,546
+di iniziare il
+
+7
+00:00:09,546 --> 00:00:11,125
+percorso,
+è fondamentale
+
+8
+00:00:11,125 --> 00:00:12,705
+conoscere
+e rispettare le
+
+9
+00:00:12,705 --> 00:00:14,266
+regole
+di visita:
+
+10
+00:00:14,266 --> 00:00:15,828
+servono
+a proteggere
+
+11
+00:00:15,828 --> 00:00:17,389
+voi e questo
+
+12
+00:00:17,389 --> 00:00:18,951
+ambiente unico,
+fragile e
+
+13
+00:00:18,951 --> 00:00:20,352
+millenario.
+La visita
+
+14
+00:00:20,352 --> 00:00:21,754
+durerà circa 50
+
+15
+00:00:21,754 --> 00:00:23,156
+minuti.
 Il percorso
+
+16
+00:00:23,156 --> 00:00:24,558
 si sviluppa
-lungo un'unica
+lungo
+
+17
+00:00:24,558 --> 00:00:26,013
+un'unica
 passerella,
 accessibile
 
-5
-00:00:24,558 --> 00:00:30,378
+18
+00:00:26,013 --> 00:00:27,468
 a tutti, per
+
+19
+00:00:27,468 --> 00:00:28,923
 circa
 1 chilometro
-all'andata e
-1 chilometro
+
+20
+00:00:28,923 --> 00:00:30,378
+all'andata e 1
+
+21
+00:00:30,378 --> 00:00:31,975
+chilometro
 al rientro.
+
+22
+00:00:31,975 --> 00:00:33,572
 I passeggini
+sono
 
-6
-00:00:30,378 --> 00:00:36,766
-sono permessi
-e le carrozzine
+23
+00:00:33,572 --> 00:00:35,169
+permessi e le
+
+24
+00:00:35,169 --> 00:00:36,766
+carrozzine
 possono essere
-utilizzate per
-l'intero
-tragitto.
-Il percorso
+utilizzate
 
-7
-00:00:36,766 --> 00:00:42,444
-è lineare e non
+25
+00:00:36,766 --> 00:00:38,185
+per l'intero
+tragitto.
+
+26
+00:00:38,185 --> 00:00:39,605
+Il percorso è
+
+27
+00:00:39,605 --> 00:00:41,024
+lineare e non
+
+28
+00:00:41,024 --> 00:00:42,444
 presenta
 diramazioni
 aperte
-al pubblico.
-È però molto
+
+29
+00:00:42,444 --> 00:00:43,952
+al pubblico. È
+
+30
+00:00:43,952 --> 00:00:45,460
+però molto
 importante
 
-8
-00:00:42,444 --> 00:00:48,477
+31
+00:00:45,460 --> 00:00:46,968
 rispettare
 le tempistiche.
+
+32
+00:00:46,968 --> 00:00:48,477
 Entro 50 minuti
-è necessario
+è
+
+33
+00:00:48,477 --> 00:00:49,177
+necessario
+
+34
+00:00:49,177 --> 00:00:49,878
 essere
 nuovamente
+
+35
+00:00:49,878 --> 00:00:50,579
 all'esterno
 
-9
-00:00:48,477 --> 00:00:54,084
+36
+00:00:50,579 --> 00:00:51,280
 della grotta,
+
+37
+00:00:51,280 --> 00:00:52,682
 per poter
 prendere
+
+38
+00:00:52,682 --> 00:00:54,084
 l'imbarcazione
-che
-vi accompagnerà
+che vi
+
+39
+00:00:54,084 --> 00:00:54,847
+accompagnerà
+
+40
+00:00:54,847 --> 00:00:55,610
 alla vostra
 
-10
-00:00:54,084 --> 00:01:00,188
+41
+00:00:55,610 --> 00:00:56,373
 destinazione
-successiva. Per
-questo motivo
-è fondamentale
-seguire il passo
-della guida
 
-11
-00:01:00,188 --> 00:01:06,008
-e non rimanere
-troppo indietro.
+42
+00:00:56,373 --> 00:00:57,136
+successiva. Per
+
+43
+00:00:57,136 --> 00:00:58,662
+questo motivo è
+
+44
+00:00:58,662 --> 00:01:00,188
+fondamentale
+seguire il passo
+
+45
+00:01:00,188 --> 00:01:01,643
+della guida e
+
+46
+00:01:01,643 --> 00:01:03,098
+non rimanere
+troppo
+
+47
+00:01:03,098 --> 00:01:03,825
+indietro.
+
+48
+00:01:03,825 --> 00:01:04,553
 Fermarsi
 eccessivamente
-lungo
-il percorso
-potrebbe
 
-12
-00:01:06,008 --> 00:01:12,112
-compromettere
-i tempi della
+49
+00:01:04,553 --> 00:01:05,280
+lungo
+
+50
+00:01:05,280 --> 00:01:06,008
+il percorso
+
+51
+00:01:06,008 --> 00:01:07,534
+potrebbe
+compromettere i
+
+52
+00:01:07,534 --> 00:01:09,060
+tempi della
 visita
-e rischiare
-di farvi perdere
+
+53
+00:01:09,060 --> 00:01:10,586
+e rischiare di
+
+54
+00:01:10,586 --> 00:01:12,112
+farvi perdere
 la barca.
+
+55
+00:01:12,112 --> 00:01:12,857
 Collaborando
 
-13
-00:01:12,112 --> 00:01:18,074
+56
+00:01:12,857 --> 00:01:13,602
 e mantenendo
+
+57
+00:01:13,602 --> 00:01:14,347
 un'andatura
+
+58
+00:01:14,347 --> 00:01:15,093
 costante, tutti
+
+59
+00:01:15,093 --> 00:01:16,583
 potranno vivere
 l'esperienza
+
+60
+00:01:16,583 --> 00:01:18,074
 in modo sereno
 
-14
-00:01:18,074 --> 00:01:23,610
-e completo.
-La grotta è
-un ecosistema
+61
+00:01:18,074 --> 00:01:19,458
+e completo. La
+
+62
+00:01:19,458 --> 00:01:20,842
+grotta è un
+
+63
+00:01:20,842 --> 00:01:21,534
+ecosistema
+
+64
+00:01:21,534 --> 00:01:22,226
 delicatissimo.
-Non toccate
+Non
+
+65
+00:01:22,226 --> 00:01:22,918
+toccate
+
+66
+00:01:22,918 --> 00:01:23,610
 le stalattiti
 
-15
-00:01:23,610 --> 00:01:29,856
+67
+00:01:23,610 --> 00:01:25,171
 e le stalagmiti:
+
+68
+00:01:25,171 --> 00:01:26,733
 anche
 un semplice
+
+69
+00:01:26,733 --> 00:01:28,294
 contatto può
 interrompere
+
+70
+00:01:28,294 --> 00:01:29,856
 un processo
-di crescita che
+di crescita
 
-16
-00:01:29,856 --> 00:01:36,244
-richiede
+71
+00:01:29,856 --> 00:01:31,453
+che richiede
 migliaia
-di anni. Non
-raccogliete
-nulla e non
-lasciate
-rifiuti. Ogni
-elemento qui
 
-17
-00:01:36,244 --> 00:01:41,780
-ha un valore
+72
+00:01:31,453 --> 00:01:33,050
+di anni. Non
+
+73
+00:01:33,050 --> 00:01:34,647
+raccogliete
+nulla e
+
+74
+00:01:34,647 --> 00:01:36,244
+non lasciate
+rifiuti. Ogni
+
+75
+00:01:36,244 --> 00:01:37,628
+elemento qui ha
+
+76
+00:01:37,628 --> 00:01:39,012
+un valore
 scientifico
-e naturalistico.
+
+77
+00:01:39,012 --> 00:01:39,704
+e
+
+78
+00:01:39,704 --> 00:01:40,396
+naturalistico.
 Seguite
+
+79
+00:01:40,396 --> 00:01:41,088
 esclusivamente
+
+80
+00:01:41,088 --> 00:01:41,780
 le passerelle
 
-18
-00:01:41,780 --> 00:01:48,168
+81
+00:01:41,780 --> 00:01:43,377
 e il percorso
-segnalato. Non
-è consentito
+
+82
+00:01:43,377 --> 00:01:44,974
+segnalato. Non è
+
+83
+00:01:44,974 --> 00:01:45,772
+consentito
+
+84
+00:01:45,772 --> 00:01:46,571
 uscire dalle
+
+85
+00:01:46,571 --> 00:01:47,369
 aree
 autorizzate.
+
+86
+00:01:47,369 --> 00:01:48,168
 Questo
 garantisce
 
-19
-00:01:48,168 --> 00:01:53,704
+87
+00:01:48,168 --> 00:01:49,552
 la vostra
+
+88
+00:01:49,552 --> 00:01:50,936
 sicurezza
 e tutela
+
+89
+00:01:50,936 --> 00:01:52,320
 le formazioni
 calcaree.
-Mantenete
-un tono di voce
 
-20
-00:01:53,704 --> 00:01:59,808
-basso. La grotta
+90
+00:01:52,320 --> 00:01:53,704
+Mantenete
+un tono
+
+91
+00:01:53,704 --> 00:01:55,230
+di voce basso.
+
+92
+00:01:55,230 --> 00:01:56,756
+La grotta
 amplifica
+
+93
+00:01:56,756 --> 00:01:58,282
 i suoni e
+
+94
+00:01:58,282 --> 00:01:59,808
 un ambiente
 silenzioso
-permette a tutti
-di vivere
+permette
 
-21
-00:01:59,808 --> 00:02:06,125
+95
+00:01:59,808 --> 00:02:01,387
+a tutti di
+
+96
+00:02:01,387 --> 00:02:02,966
+vivere
 un'esperienza
-suggestiva e
-il più possibile
-autentica. Non
-è consentito
-fumare.
-È vietato
+suggestiva
 
-22
-00:02:06,125 --> 00:02:11,945
+97
+00:02:02,966 --> 00:02:04,545
+e il più
+
+98
+00:02:04,545 --> 00:02:06,125
+possibile
+autentica. Non è
+
+99
+00:02:06,125 --> 00:02:07,580
+consentito
+fumare. È
+
+100
+00:02:07,580 --> 00:02:09,035
+vietato
 accendere fiamme
-libere.
-È permesso fare
-fotografie
-ma l'uso del
-flash
-fotografico
 
-23
-00:02:11,945 --> 00:02:18,262
-è vietato: oltre
-a poter
+101
+00:02:09,035 --> 00:02:10,490
+libere.
+È permesso
+
+102
+00:02:10,490 --> 00:02:11,945
+fare fotografie
+ma
+
+103
+00:02:11,945 --> 00:02:13,524
+l'uso del flash
+
+104
+00:02:13,524 --> 00:02:15,103
+fotografico
+è vietato:
+
+105
+00:02:15,103 --> 00:02:16,682
+oltre a poter
+
+106
+00:02:16,682 --> 00:02:17,472
 interferire con
+
+107
+00:02:17,472 --> 00:02:18,262
 l'equilibrio
 dell'ambiente
+
+108
+00:02:18,262 --> 00:02:19,681
 sotterraneo,
 il flash
 
-24
-00:02:18,262 --> 00:02:23,940
+109
+00:02:19,681 --> 00:02:21,101
 compromette
 la qualità
+
+110
+00:02:21,101 --> 00:02:22,520
 stessa della
-visita. In uno
-spazio
+visita.
+
+111
+00:02:22,520 --> 00:02:23,940
+In uno spazio
+
+112
+00:02:23,940 --> 00:02:25,501
 naturalmente
 buio come
 
-25
-00:02:23,940 --> 00:02:30,186
-la grotta,
-la luce
+113
+00:02:25,501 --> 00:02:27,063
+la grotta, la
+
+114
+00:02:27,063 --> 00:02:27,843
+luce
+
+115
+00:02:27,843 --> 00:02:28,624
 artificiale
 improvvisa
+
+116
+00:02:28,624 --> 00:02:29,405
 altera
 l'atmosfera,
-crea un forte
+
+117
+00:02:29,405 --> 00:02:30,186
+crea un
+
+118
+00:02:30,186 --> 00:02:30,966
+forte
+
+119
+00:02:30,966 --> 00:02:31,747
 inquinamento
-
-26
-00:02:30,186 --> 00:02:36,432
 visivo
-e interrompe
-quella
-suggestione
-fatta di ombre,
-silenzi
-e riflessi
-sull'acqua che
 
-27
-00:02:36,432 --> 00:02:42,323
-rende unica
-l'esperienza.
-La guida
+120
+00:02:31,747 --> 00:02:32,528
+e
+
+121
+00:02:32,528 --> 00:02:33,309
+interrompe
+quella
+
+122
+00:02:33,309 --> 00:02:34,870
+suggestione
+fatta di
+
+123
+00:02:34,870 --> 00:02:36,432
+ombre, silenzi
+e riflessi
+
+124
+00:02:36,432 --> 00:02:37,904
+sull'acqua che
+rende
+
+125
+00:02:37,904 --> 00:02:39,377
+unica
+l'esperienza. La
+
+126
+00:02:39,377 --> 00:02:40,850
+guida
 è responsabile
+
+127
+00:02:40,850 --> 00:02:42,323
 della vostra
 sicurezza.
+
+128
+00:02:42,323 --> 00:02:43,059
 Ascoltate
 
-28
-00:02:42,323 --> 00:02:48,214
-attentamente
-le istruzioni,
+129
+00:02:43,059 --> 00:02:43,795
+attentamente le
+
+130
+00:02:43,795 --> 00:02:44,531
+istruzioni,
+
+131
+00:02:44,531 --> 00:02:45,268
 soprattutto nei
+
+132
+00:02:45,268 --> 00:02:46,741
 tratti più
-stretti o con
+stretti
+
+133
+00:02:46,741 --> 00:02:48,214
+o con
 pavimentazione
 
-29
-00:02:48,214 --> 00:02:53,608
-umida. La Grotta
-del Bue Marino
-è un patrimonio
+134
+00:02:48,214 --> 00:02:49,562
+umida. La
+
+135
+00:02:49,562 --> 00:02:50,911
+Grotta del Bue
+
+136
+00:02:50,911 --> 00:02:52,259
+Marino è un
+
+137
+00:02:52,259 --> 00:02:53,608
+patrimonio
 naturale
 prezioso:
-il vostro
 
-30
-00:02:53,608 --> 00:02:58,931
-rispetto è parte
+138
+00:02:53,608 --> 00:02:54,938
+il vostro
+rispetto
+
+139
+00:02:54,938 --> 00:02:56,269
+è parte
 integrante
+
+140
+00:02:56,269 --> 00:02:57,600
 dell'esperien-
 za. Grazie per
+
+141
+00:02:57,600 --> 00:02:58,265
 la
 collaborazione
 
-31
+142
+00:02:58,265 --> 00:02:58,931
+e buona
+
+143
 00:02:58,931 --> 00:03:00,000
-e buona visita.
+visita.

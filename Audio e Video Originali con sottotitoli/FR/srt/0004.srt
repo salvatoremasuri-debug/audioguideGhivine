@@ -1,351 +1,794 @@
 1
-00:00:00,000 --> 00:00:05,687
+00:00:00,000 --> 00:00:01,421
 Nous nous
-trouvons dans
-la merveilleuse
-Salle des
-Miroirs, l'un
-des endroits les
+trouvons
 
 2
-00:00:05,687 --> 00:00:11,445
-plus évocateurs
-de l'ensemble
-du parcours
-touristique
-de la Grotte
-du Bue Marino.
+00:00:01,421 --> 00:00:02,843
+dans
+la merveilleuse
 
 3
-00:00:11,445 --> 00:00:17,559
-Dans cette
-partie, l'eau
-est
-habituellement
-si calme et
-si plate qu'elle
-se transforme
+00:00:02,843 --> 00:00:04,265
+Salle des
+Miroirs,
 
 4
-00:00:17,559 --> 00:00:23,388
-en une surface
-réfléchissante
-parfaite. Les
-parois et les
-concrétions
-se reflètent
+00:00:04,265 --> 00:00:05,687
+l'un des
+endroits les
 
 5
-00:00:23,388 --> 00:00:29,431
-en créant une
-image inversée
-d'une netteté
-extraordinair-
-e, donnant
-l'illusion d'une
+00:00:05,687 --> 00:00:07,126
+plus évocateurs
+de
 
 6
-00:00:29,431 --> 00:00:35,260
-profondeur bien
-plus grande que
-la réalité.
-Ce n'est
-cependant qu'un
-effet optique
+00:00:07,126 --> 00:00:08,566
+l'ensemble
+du parcours
 
 7
-00:00:35,260 --> 00:00:41,303
-: au point
-le plus profond
-accessible
-au public, l'eau
+00:00:08,566 --> 00:00:10,005
+touristique
+de la
+
+8
+00:00:10,005 --> 00:00:11,445
+Grotte du Bue
+Marino.
+
+9
+00:00:11,445 --> 00:00:12,209
+Dans
+
+10
+00:00:12,209 --> 00:00:12,973
+cette partie,
+
+11
+00:00:12,973 --> 00:00:13,737
+l'eau est
+
+12
+00:00:13,737 --> 00:00:14,502
+habituellement
+si
+
+13
+00:00:14,502 --> 00:00:16,030
+calme et si
+
+14
+00:00:16,030 --> 00:00:17,559
+plate qu'elle
+se transforme
+
+15
+00:00:17,559 --> 00:00:19,016
+en une surface
+
+16
+00:00:19,016 --> 00:00:20,473
+réfléchissante
+parfaite. Les
+
+17
+00:00:20,473 --> 00:00:21,930
+parois et les
+
+18
+00:00:21,930 --> 00:00:23,388
+concrétions
+se reflètent en
+
+19
+00:00:23,388 --> 00:00:24,898
+créant une image
+
+20
+00:00:24,898 --> 00:00:25,653
+inversée d'une
+
+21
+00:00:25,653 --> 00:00:26,409
+netteté
+extraordinair-
+e,
+
+22
+00:00:26,409 --> 00:00:27,164
+donnant
+l'illusion
+
+23
+00:00:27,164 --> 00:00:27,920
+d'une profondeur
+
+24
+00:00:27,920 --> 00:00:28,675
+bien plus
+
+25
+00:00:28,675 --> 00:00:29,431
+grande que
+
+26
+00:00:29,431 --> 00:00:30,888
+la réalité. Ce
+
+27
+00:00:30,888 --> 00:00:32,345
+n'est cependant
+qu'un
+
+28
+00:00:32,345 --> 00:00:33,802
+effet optique :
+
+29
+00:00:33,802 --> 00:00:35,260
+au point le plus
+
+30
+00:00:35,260 --> 00:00:36,770
+profond
+accessible au
+
+31
+00:00:36,770 --> 00:00:38,281
+public, l'eau
 ne dépasse
+
+32
+00:00:38,281 --> 00:00:39,792
 jamais deux
 mètres.
 
-8
-00:00:41,303 --> 00:00:47,203
+33
+00:00:39,792 --> 00:00:41,303
 La formation
-de ces « miroirs
-» dépend aussi
+de ces
+
+34
+00:00:41,303 --> 00:00:42,778
+« miroirs »
+
+35
+00:00:42,778 --> 00:00:44,253
+dépend aussi
 beaucoup des
+
+36
+00:00:44,253 --> 00:00:44,990
 conditions
+
+37
+00:00:44,990 --> 00:00:45,728
 météorologiqu-
-
-9
-00:00:47,203 --> 00:00:52,961
 es extérieures.
-Lorsque souffle
-dehors un vent
-sec, comme
-le mistral,
-l'air reste
 
-10
-00:00:52,961 --> 00:00:58,861
-stable et
+38
+00:00:45,728 --> 00:00:46,465
+Lorsque souffle
+
+39
+00:00:46,465 --> 00:00:47,203
+dehors un
+
+40
+00:00:47,203 --> 00:00:48,642
+vent sec, comme
+
+41
+00:00:48,642 --> 00:00:50,082
+le mistral,
+l'air
+
+42
+00:00:50,082 --> 00:00:51,521
+reste stable et
+
+43
+00:00:51,521 --> 00:00:52,961
 la surface
-de l'eau demeure
+de l'eau
+
+44
+00:00:52,961 --> 00:00:54,436
+demeure
 immobile,
-permettant aux
-reflets
+permettant
+
+45
+00:00:54,436 --> 00:00:55,911
+aux reflets
 d'apparaître
 
-11
-00:00:58,861 --> 00:01:05,117
-dans toute leur
+46
+00:00:55,911 --> 00:00:56,648
+dans
+
+47
+00:00:56,648 --> 00:00:57,386
+toute leur
+
+48
+00:00:57,386 --> 00:00:58,123
 perfection. Si,
+
+49
+00:00:58,123 --> 00:00:58,861
 en revanche,
+
+50
+00:00:58,861 --> 00:01:00,425
 un vent humide
+
+51
+00:01:00,425 --> 00:01:01,989
 souffle
 à l'extérieur,
 comme
 
-12
-00:01:05,117 --> 00:01:10,449
-le sirocco,
+52
+00:01:01,989 --> 00:01:02,771
+le
+
+53
+00:01:02,771 --> 00:01:03,553
+sirocco,
 l'humidité
-pénètre
-à l'intérieur
-de la grotte.
-Elle y rencontre
 
-13
-00:01:10,449 --> 00:01:16,421
-un environnement
+54
+00:01:03,553 --> 00:01:04,335
+pénètre à
+
+55
+00:01:04,335 --> 00:01:05,117
+l'intérieur de
+
+56
+00:01:05,117 --> 00:01:06,450
+la grotte. Elle
+
+57
+00:01:06,450 --> 00:01:07,783
+y rencontre un
+
+58
+00:01:07,783 --> 00:01:08,449
+environnement
+
+59
+00:01:08,449 --> 00:01:09,116
 naturellement
-plus frais et
-un phénomène
+plus
+
+60
+00:01:09,116 --> 00:01:09,782
+frais
+
+61
+00:01:09,782 --> 00:01:10,449
+et un
+
+62
+00:01:10,449 --> 00:01:11,942
+phénomène
 de condensation
+
+63
+00:01:11,942 --> 00:01:13,435
 se produit
+: l'air
 
-14
-00:01:16,421 --> 00:01:21,966
-: l'air chaud
-et humide,
+64
+00:01:13,435 --> 00:01:14,928
+chaud et humide,
+
+65
+00:01:14,928 --> 00:01:16,421
 au contact des
-parois plus
-fraîches,
-produit de fines
+parois
 
-15
-00:01:21,966 --> 00:01:28,364
+66
+00:01:16,421 --> 00:01:17,807
+plus fraîches,
+produit
+
+67
+00:01:17,807 --> 00:01:19,193
+de fines
 gouttelettes
+
+68
+00:01:19,193 --> 00:01:20,579
 d'eau. Dans ces
+
+69
+00:01:20,579 --> 00:01:21,966
 cas,
-à l'intérieur
-de la Salle des
+à l'intérieur de
+
+70
+00:01:21,966 --> 00:01:23,565
+la Salle des
+
+71
+00:01:23,565 --> 00:01:25,165
 Miroirs peut
 commencer une
 
-16
-00:01:28,364 --> 00:01:34,762
+72
+00:01:25,165 --> 00:01:26,764
 sorte de pluie
-très fine qui
-ride la surface
+très
+
+73
+00:01:26,764 --> 00:01:28,364
+fine qui ride la
+
+74
+00:01:28,364 --> 00:01:29,963
+surface
 de l'eau,
+
+75
+00:01:29,963 --> 00:01:31,563
 faisant
 disparaître
 l'effet miroir.
 
-17
-00:01:34,762 --> 00:01:40,378
+76
+00:01:31,563 --> 00:01:33,162
 La température
 à l'intérieur
-de la grotte est
-en effet
-constante toute
-l'année,
 
-18
-00:01:40,378 --> 00:01:46,563
-comprise entre
-16 et 18 degrés
+77
+00:01:33,162 --> 00:01:34,762
+de la grotte est
+
+78
+00:01:34,762 --> 00:01:36,166
+en effet
+constante
+
+79
+00:01:36,166 --> 00:01:37,570
+toute l'année,
+comprise
+
+80
+00:01:37,570 --> 00:01:38,974
+entre 16 et
+
+81
+00:01:38,974 --> 00:01:40,378
+18 degrés
 centigrades.
 L'humidité
-relative est
-très élevée
-et peut
 
-19
-00:01:46,563 --> 00:01:52,748
-atteindre 99%.
+82
+00:01:40,378 --> 00:01:41,151
+relative
+
+83
+00:01:41,151 --> 00:01:41,924
+est très
+
+84
+00:01:41,924 --> 00:01:42,697
+élevée et
+
+85
+00:01:42,697 --> 00:01:43,470
+peut atteindre
+
+86
+00:01:43,470 --> 00:01:44,243
+99%.
+
+87
+00:01:44,243 --> 00:01:45,016
 C'est
-précisément cet
-équilibre
+précisément
+
+88
+00:01:45,016 --> 00:01:45,789
+cet équilibre
+
+89
+00:01:45,789 --> 00:01:46,563
 délicat entre
+
+90
+00:01:46,563 --> 00:01:48,109
 la température,
 l'humidité
 
-20
-00:01:52,748 --> 00:01:58,577
+91
+00:01:48,109 --> 00:01:49,655
 et les
 conditions
-extérieures qui
-détermine
-la magie —
+extérieures
+
+92
+00:01:49,655 --> 00:01:51,201
+qui détermine la
+
+93
+00:01:51,201 --> 00:01:52,748
+magie —
 ou l'absence
+
+94
+00:01:52,748 --> 00:01:54,205
 — des miroirs.
 
-21
-00:01:58,577 --> 00:02:04,477
+95
+00:01:54,205 --> 00:01:55,662
 Cette salle est
+
+96
+00:01:55,662 --> 00:01:57,119
 également l'un
-des meilleurs
+des
+
+97
+00:01:57,119 --> 00:01:58,577
+meilleurs
 endroits pour
-observer les
-couleurs de
+observer
 
-22
-00:02:04,477 --> 00:02:10,733
-la grotte.
-Le blanc est
-la couleur
-naturelle de
-la roche
-calcaire,
-la roche
+98
+00:01:58,577 --> 00:02:00,052
+les couleurs de
+
+99
+00:02:00,052 --> 00:02:01,527
+la grotte. Le
+
+100
+00:02:01,527 --> 00:02:03,002
+blanc est la
+
+101
+00:02:03,002 --> 00:02:04,477
+couleur
+naturelle de la
+
+102
+00:02:04,477 --> 00:02:06,041
+roche calcaire,
+la
+
+103
+00:02:06,041 --> 00:02:07,605
+roche
 sédimentaire
-
-23
-00:02:10,733 --> 00:02:17,060
 dont est
+
+104
+00:02:07,605 --> 00:02:09,169
 composée toute
-la montagne.
+la
+
+105
+00:02:09,169 --> 00:02:10,733
+montagne.
 Le rouge-orangé
-est dû à
-la présence
-d'oxyde de fer,
+est
 
-24
-00:02:17,060 --> 00:02:23,316
+106
+00:02:10,733 --> 00:02:12,314
+dû à la
+
+107
+00:02:12,314 --> 00:02:13,896
+présence d'oxyde
+de fer,
+
+108
+00:02:13,896 --> 00:02:15,478
 un élément
-commun dans les
-environnements
-karstiques. Les
-teintes brunes,
-quant à elles,
+commun
 
-25
-00:02:23,316 --> 00:02:28,861
-sont liées à des
+109
+00:02:15,478 --> 00:02:17,060
+dans les
+environnements
+karstiques.
+
+110
+00:02:17,060 --> 00:02:17,842
+Les
+
+111
+00:02:17,842 --> 00:02:18,624
+teintes brunes,
+
+112
+00:02:18,624 --> 00:02:19,406
+quant à
+
+113
+00:02:19,406 --> 00:02:20,188
+elles, sont
+
+114
+00:02:20,188 --> 00:02:21,752
+liées à des
+
+115
+00:02:21,752 --> 00:02:23,316
 dépôts
 détritiques
-: boue, terre
+: boue,
+
+116
+00:02:23,316 --> 00:02:24,702
+terre
 et matériaux
+
+117
+00:02:24,702 --> 00:02:26,088
 transportés par
+l'eau
 
-26
-00:02:28,861 --> 00:02:34,690
-l'eau au fil
-du temps. Sur
-les parois est
-visible aussi
+118
+00:02:26,088 --> 00:02:27,474
+au fil du
+
+119
+00:02:27,474 --> 00:02:28,861
+temps. Sur les
+parois
+
+120
+00:02:28,861 --> 00:02:30,318
+est visible
+aussi
+
+121
+00:02:30,318 --> 00:02:31,775
 une fine ligne
+
+122
+00:02:31,775 --> 00:02:33,232
 horizontale
-
-27
-00:02:34,690 --> 00:02:40,448
 marron, qui
-va de la Salle
-des Candélabres
-jusqu'à environ
-la moitié
-du parcours.
 
-28
-00:02:40,448 --> 00:02:46,064
-En l'observant
-de près,
-on découvre
-qu'elle est
+123
+00:02:33,232 --> 00:02:34,690
+va de la Salle
+
+124
+00:02:34,690 --> 00:02:36,129
+des Candélabres
+jusqu'à
+
+125
+00:02:36,129 --> 00:02:37,569
+environ
+la moitié
+
+126
+00:02:37,569 --> 00:02:39,008
+du parcours. En
+
+127
+00:02:39,008 --> 00:02:40,448
+l'observant
+de près, on
+
+128
+00:02:40,448 --> 00:02:41,852
+découvre qu'elle
+est
+
+129
+00:02:41,852 --> 00:02:43,256
 composée
 de fossiles
-d'huîtres,
 
-29
-00:02:46,064 --> 00:02:52,178
+130
+00:02:43,256 --> 00:02:44,660
+d'huîtres,
 datant d'environ
+
+131
+00:02:44,660 --> 00:02:46,064
 120 à 125 000
+
+132
+00:02:46,064 --> 00:02:47,592
 ans. Cette ligne
+
+133
+00:02:47,592 --> 00:02:49,121
 témoigne d'un
 ancien niveau
+
+134
+00:02:49,121 --> 00:02:50,649
 de la mer,
 
-30
-00:02:52,178 --> 00:02:58,505
+135
+00:02:50,649 --> 00:02:52,178
 probablement
 postérieur à une
-phase glaciaire.
-Avec la fonte
-des glaces,
-la mer a atteint
 
-31
-00:02:58,505 --> 00:03:04,903
-une hauteur
+136
+00:02:52,178 --> 00:02:53,759
+phase glaciaire.
+Avec
+
+137
+00:02:53,759 --> 00:02:55,341
+la fonte des
+glaces,
+
+138
+00:02:55,341 --> 00:02:56,923
+la mer a
+
+139
+00:02:56,923 --> 00:02:58,505
+atteint une
+hauteur
 supérieure
-à celle
-actuelle,
+
+140
+00:02:58,505 --> 00:02:59,304
+à
+
+141
+00:02:59,304 --> 00:03:00,104
+celle actuelle,
+
+142
+00:03:00,104 --> 00:03:00,904
 permettant aux
-huîtres
-de s'installer
+
+143
+00:03:00,904 --> 00:03:01,704
+huîtres de
+
+144
+00:03:01,704 --> 00:03:03,303
+s'installer
 le long des
 
-32
-00:03:04,903 --> 00:03:11,017
+145
+00:03:03,303 --> 00:03:04,903
 parois de
-la grotte. Avec
-la baisse
+la grotte.
+
+146
+00:03:04,903 --> 00:03:06,431
+Avec la baisse
+
+147
+00:03:06,431 --> 00:03:07,960
 ultérieure
 du niveau marin,
+
+148
+00:03:07,960 --> 00:03:09,488
 ces organismes
-se sont
+se
 
-33
-00:03:11,017 --> 00:03:17,344
-fossilisés,
+149
+00:03:09,488 --> 00:03:11,017
+sont fossilisés,
 laissant une
-trace encore
-aujourd'hui
-parfaitement
-visible. La même
-ligne qui
 
-34
-00:03:17,344 --> 00:03:22,747
-signale cet
-ancien niveau
-de la mer peut
+150
+00:03:11,017 --> 00:03:11,807
+trace
+
+151
+00:03:11,807 --> 00:03:12,598
+encore
+aujourd'hui
+
+152
+00:03:12,598 --> 00:03:13,389
+parfaitement
+visible.
+
+153
+00:03:13,389 --> 00:03:14,180
+La même
+
+154
+00:03:14,180 --> 00:03:15,762
+ligne qui
+signale
+
+155
+00:03:15,762 --> 00:03:17,344
+cet ancien
+niveau de
+
+156
+00:03:17,344 --> 00:03:18,694
+la mer peut
+
+157
+00:03:18,694 --> 00:03:20,045
 être observée
 également
+
+158
+00:03:20,045 --> 00:03:21,396
 le long des
 
-35
-00:03:22,747 --> 00:03:29,074
+159
+00:03:21,396 --> 00:03:22,747
 côtes du Golfe
+
+160
+00:03:22,747 --> 00:03:24,328
 d'Orosei,
 où elle
-se manifeste
-dans un sillon
-d'estran évident
-incisé dans
 
-36
-00:03:29,074 --> 00:03:35,046
-la roche. Ici,
-dans la Salle
-des Miroirs,
-nous n'observons
+161
+00:03:24,328 --> 00:03:25,910
+se manifeste
+dans un
+
+162
+00:03:25,910 --> 00:03:27,492
+sillon d'estran
+évident
+
+163
+00:03:27,492 --> 00:03:29,074
+incisé dans
+la roche.
+
+164
+00:03:29,074 --> 00:03:30,567
+Ici, dans la
+
+165
+00:03:30,567 --> 00:03:32,060
+Salle des
+Miroirs, nous
+
+166
+00:03:32,060 --> 00:03:32,806
+n'observons
+
+167
+00:03:32,806 --> 00:03:33,553
 pas seulement
+
+168
+00:03:33,553 --> 00:03:34,299
 des reflets
 
-37
-00:03:35,046 --> 00:03:41,160
-: nous observons
+169
+00:03:34,299 --> 00:03:35,046
+: nous
+
+170
+00:03:35,046 --> 00:03:36,574
+observons
 le temps,
+
+171
+00:03:36,574 --> 00:03:38,103
 le climat
 et l'histoire
+
+172
+00:03:38,103 --> 00:03:39,631
 géologique
 imprimés dans
+
+173
+00:03:39,631 --> 00:03:41,160
 la pierre.

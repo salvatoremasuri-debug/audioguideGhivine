@@ -1,421 +1,910 @@
 1
-00:00:00,000 --> 00:00:06,452
-Bienvenue dans
-la suggestive
-Salle des
-Candélabres,
-ainsi nommée
-parce que les
-concrétions
+00:00:00,000 --> 00:00:00,806
+Bienvenue
 
 2
-00:00:06,452 --> 00:00:12,402
-présentes dans
-cette partie
-du parcours
-rappellent, par
-leur forme
-et leur couleur,
+00:00:00,806 --> 00:00:01,613
+dans la
 
 3
-00:00:12,402 --> 00:00:18,352
-d'élégants
-candélabres
-du XIXe siècle,
-avec la cire qui
-semble couler
-lentement des
+00:00:01,613 --> 00:00:02,419
+suggestive Salle
 
 4
-00:00:18,352 --> 00:00:24,230
-bougies. Nous
-nous trouvons
-dans la première
-des quatre
-salles que nous
-visiterons
+00:00:02,419 --> 00:00:03,226
+des Candélabres,
 
 5
-00:00:24,230 --> 00:00:30,395
-le long d'un
-parcours
-d'environ
-un kilomètre.
-En réalité,
-la Grotte du Bue
-Marino fait
+00:00:03,226 --> 00:00:04,032
+ainsi nommée
 
 6
-00:00:30,395 --> 00:00:36,775
-partie d'un
-système
-karstique
-beaucoup plus
-vaste. La grotte
-que vous visitez
-aujourd'hui
+00:00:04,032 --> 00:00:04,839
+parce que
 
 7
-00:00:36,775 --> 00:00:43,227
-se connecte, par
-des galeries
-souterraines,
-à trois autres
-cavités :
-la Grotte de
-Su Palu,
+00:00:04,839 --> 00:00:05,645
+les concrétions
 
 8
-00:00:43,227 --> 00:00:49,105
-la Grotte de
-Su Molente et
-la Grotte
-de Monte Longos.
-Nous avons donc
-quatre accès
+00:00:05,645 --> 00:00:06,452
+présentes dans
 
 9
-00:00:49,105 --> 00:00:54,768
-extérieurs qui
-conduisent à
-un seul
-et immense
-système
-souterrain, avec
-environ
+00:00:06,452 --> 00:00:07,939
+cette partie du
 
 10
-00:00:54,768 --> 00:01:00,144
-75 kilomètres
-explorés jusqu'à
-présent. Et
-il est important
-de le souligner
+00:00:07,939 --> 00:00:09,427
+parcours
+rappellent, par
 
 11
-00:01:00,144 --> 00:01:06,094
-: ce système est
-encore en cours
-d'exploration.
-Nous
-ne connaissons
-pas son étendue
+00:00:09,427 --> 00:00:10,914
+leur forme et
 
 12
-00:01:06,094 --> 00:01:11,972
-réelle. Avec ses
-75 kilomètres
-déjà connus,
-il est
-aujourd'hui
-le deuxième
-système
+00:00:10,914 --> 00:00:12,402
+leur couleur,
+d'élégants
+candélabres
 
 13
-00:01:11,972 --> 00:01:18,209
-karstique
-le plus long
-d'Italie.
-La Grotte du Bue
-Marino est
-la seule partie
-du système
+00:00:12,402 --> 00:00:13,889
+du XIXe siècle,
 
 14
-00:01:18,209 --> 00:01:24,589
-accessible
-au public et est
-divisée en trois
-branches :
-la branche nord,
-longue d'environ
+00:00:13,889 --> 00:00:15,377
+avec la cire
 
 15
-00:01:24,589 --> 00:01:30,682
-9 km,
-actuellement
-fermée au public
-; la branche
-centrale, longue
-de 5 km,
-accessible
+00:00:15,377 --> 00:00:16,864
+qui semble
+couler
 
 16
-00:01:30,682 --> 00:01:36,202
-uniquement aux
-spéléo-plonge-
-urs ; la branche
-sud, longue de
-8 km, celle que
+00:00:16,864 --> 00:00:18,352
+lentement des
+bougies. Nous
 
 17
-00:01:36,202 --> 00:01:41,865
-nous visiterons
-aujourd'hui,
-dont seulement
-le premier
-kilomètre est
-ouvert aux
+00:00:18,352 --> 00:00:19,821
+nous trouvons
+dans
 
 18
-00:01:41,865 --> 00:01:48,317
-visiteurs depuis
-1983, année
-de la première
-ouverture
-au public.
-La branche sud
-est encore
+00:00:19,821 --> 00:00:21,291
+la première des
 
 19
-00:01:48,317 --> 00:01:54,697
-active. Le long
-du parcours,
-vous remarquerez
-encore
-le suintement,
-c'est-à-dire
-la chute
+00:00:21,291 --> 00:00:22,760
+quatre salles
+que
 
 20
-00:01:54,697 --> 00:02:01,149
-de gouttes
-d'eau, signe que
-les concrétions
-se forment
-encore lentement
-: la grotte
-change
+00:00:22,760 --> 00:00:24,230
+nous visiterons
+le long
 
 21
-00:02:01,149 --> 00:02:07,099
-continuelleme-
-nt, même si
-de façon
-imperceptible
-à nos yeux. Mais
-la grotte change
+00:00:24,230 --> 00:00:25,771
+d'un parcours
+d'environ
 
 22
-00:02:07,099 --> 00:02:13,551
-aussi sous
-l'effet d'une
-autre force,
-bien plus
-puissante
-: l'action
-érosive d'une
-rivière
+00:00:25,771 --> 00:00:27,312
+un kilomètre.
+En réalité,
 
 23
-00:02:13,551 --> 00:02:19,071
-souterraine qui
-coule encore
-aujourd'hui
-et continue
-de creuser ces
-galeries.
+00:00:27,312 --> 00:00:28,853
+la Grotte du
 
 24
-00:02:19,071 --> 00:02:25,451
-Pendant presque
-tout notre
-parcours, nous
-aurons de l'eau
-de mer sous nos
-pieds. À la fin
+00:00:28,853 --> 00:00:30,395
+Bue Marino fait
+partie
 
 25
-00:02:25,451 --> 00:02:31,544
-du parcours,
+00:00:30,395 --> 00:00:31,990
+d'un système
+karstique
+
+26
+00:00:31,990 --> 00:00:33,585
+beaucoup plus
+vaste. La
+
+27
+00:00:33,585 --> 00:00:35,180
+grotte que vous
+
+28
+00:00:35,180 --> 00:00:36,775
+visitez
+aujourd'hui
+se connecte,
+
+29
+00:00:36,775 --> 00:00:38,388
+par des galeries
+
+30
+00:00:38,388 --> 00:00:40,001
+souterraines,
+à trois autres
+
+31
+00:00:40,001 --> 00:00:41,614
+cavités :
+la Grotte
+
+32
+00:00:41,614 --> 00:00:43,227
+de Su Palu, la
+
+33
+00:00:43,227 --> 00:00:44,696
+Grotte de Su
+
+34
+00:00:44,696 --> 00:00:46,166
+Molente et la
+
+35
+00:00:46,166 --> 00:00:47,635
+Grotte de Monte
+
+36
+00:00:47,635 --> 00:00:49,105
+Longos. Nous
+avons donc
+
+37
+00:00:49,105 --> 00:00:50,520
+quatre accès
+extérieurs
+
+38
+00:00:50,520 --> 00:00:51,936
+qui conduisent à
+
+39
+00:00:51,936 --> 00:00:53,352
+un seul et
+
+40
+00:00:53,352 --> 00:00:54,768
+immense système
+souterrain, avec
+
+41
+00:00:54,768 --> 00:00:56,112
+environ
+75 kilomètres
+
+42
+00:00:56,112 --> 00:00:57,456
+explorés jusqu'à
+présent.
+
+43
+00:00:57,456 --> 00:00:58,800
+Et il est
+
+44
+00:00:58,800 --> 00:01:00,144
+important de le
+
+45
+00:01:00,144 --> 00:01:01,631
+souligner : ce
+
+46
+00:01:01,631 --> 00:01:03,119
+système est
+encore
+
+47
+00:01:03,119 --> 00:01:03,862
+en
+
+48
+00:01:03,862 --> 00:01:04,606
+cours
+d'exploration.
+
+49
+00:01:04,606 --> 00:01:05,350
+Nous ne
+
+50
+00:01:05,350 --> 00:01:06,094
+connaissons pas
+
+51
+00:01:06,094 --> 00:01:07,563
+son étendue
+réelle.
+
+52
+00:01:07,563 --> 00:01:09,033
+Avec ses 75
+
+53
+00:01:09,033 --> 00:01:10,502
+kilomètres déjà
+connus,
+
+54
+00:01:10,502 --> 00:01:11,972
+il est
+aujourd'hui le
+
+55
+00:01:11,972 --> 00:01:13,531
+deuxième système
+karstique
+
+56
+00:01:13,531 --> 00:01:15,090
+le plus long
+d'Italie.
+
+57
+00:01:15,090 --> 00:01:16,649
+La Grotte du
+
+58
+00:01:16,649 --> 00:01:18,209
+Bue Marino est
+la
+
+59
+00:01:18,209 --> 00:01:19,804
+seule partie du
+
+60
+00:01:19,804 --> 00:01:21,399
+système
+accessible
+au public
+
+61
+00:01:21,399 --> 00:01:22,994
+et est divisée
+
+62
+00:01:22,994 --> 00:01:24,589
+en trois
+branches :
+
+63
+00:01:24,589 --> 00:01:26,112
+la branche nord,
+
+64
+00:01:26,112 --> 00:01:27,635
+longue d'environ
+9 km,
+
+65
+00:01:27,635 --> 00:01:29,158
+actuellement
+fermée au
+
+66
+00:01:29,158 --> 00:01:30,682
+public ;
+la branche
+
+67
+00:01:30,682 --> 00:01:32,062
+centrale, longue
+de
+
+68
+00:01:32,062 --> 00:01:33,442
+5 km, accessible
+uniquement
+
+69
+00:01:33,442 --> 00:01:34,822
+aux
+spéléo-plonge-
+urs ;
+
+70
+00:01:34,822 --> 00:01:36,202
+la branche sud,
+longue
+
+71
+00:01:36,202 --> 00:01:37,617
+de 8 km,
+
+72
+00:01:37,617 --> 00:01:39,033
+celle que nous
+
+73
+00:01:39,033 --> 00:01:39,741
+visiterons
+
+74
+00:01:39,741 --> 00:01:40,449
+aujourd'hui,
+dont
+
+75
+00:01:40,449 --> 00:01:41,157
+seulement le
+
+76
+00:01:41,157 --> 00:01:41,865
+premier
+kilomètre
+
+77
+00:01:41,865 --> 00:01:43,478
+est ouvert aux
+
+78
+00:01:43,478 --> 00:01:45,091
+visiteurs depuis
+1983, année
+
+79
+00:01:45,091 --> 00:01:46,704
+de la première
+ouverture
+
+80
+00:01:46,704 --> 00:01:48,317
+au public.
+La branche
+
+81
+00:01:48,317 --> 00:01:49,912
+sud est encore
+
+82
+00:01:49,912 --> 00:01:51,507
+active. Le long
+du
+
+83
+00:01:51,507 --> 00:01:52,304
+parcours,
+
+84
+00:01:52,304 --> 00:01:53,102
+vous remarquerez
+
+85
+00:01:53,102 --> 00:01:53,899
+encore le
+
+86
+00:01:53,899 --> 00:01:54,697
+suintement,
+c'est-à-dire
+
+87
+00:01:54,697 --> 00:01:56,310
+la chute de
+
+88
+00:01:56,310 --> 00:01:57,923
+gouttes d'eau,
+signe que
+
+89
+00:01:57,923 --> 00:01:58,729
+les concrétions
+
+90
+00:01:58,729 --> 00:01:59,536
+se forment
+
+91
+00:01:59,536 --> 00:02:00,342
+encore lentement
+
+92
+00:02:00,342 --> 00:02:01,149
+: la
+
+93
+00:02:01,149 --> 00:02:02,636
+grotte change
+continuelleme-
+nt,
+
+94
+00:02:02,636 --> 00:02:04,124
+même si de façon
+
+95
+00:02:04,124 --> 00:02:05,611
+imperceptible
+à nos
+
+96
+00:02:05,611 --> 00:02:07,099
+yeux. Mais
+la grotte
+
+97
+00:02:07,099 --> 00:02:08,712
+change aussi
+sous
+
+98
+00:02:08,712 --> 00:02:10,325
+l'effet d'une
+autre force,
+
+99
+00:02:10,325 --> 00:02:11,131
+bien plus
+
+100
+00:02:11,131 --> 00:02:11,938
+puissante :
+
+101
+00:02:11,938 --> 00:02:12,744
+l'action érosive
+
+102
+00:02:12,744 --> 00:02:13,551
+d'une rivière
+
+103
+00:02:13,551 --> 00:02:14,931
+souterraine qui
+coule
+
+104
+00:02:14,931 --> 00:02:16,311
+encore
+aujourd'hui et
+
+105
+00:02:16,311 --> 00:02:17,691
+continue
+de creuser
+
+106
+00:02:17,691 --> 00:02:19,071
+ces galeries.
+Pendant presque
+
+107
+00:02:19,071 --> 00:02:20,666
+tout notre
+parcours,
+
+108
+00:02:20,666 --> 00:02:22,261
+nous aurons
+de l'eau
+
+109
+00:02:22,261 --> 00:02:23,856
+de mer sous
+
+110
+00:02:23,856 --> 00:02:25,451
+nos pieds. À la
+
+111
+00:02:25,451 --> 00:02:26,974
+fin du parcours,
+
+112
+00:02:26,974 --> 00:02:28,497
 nous
 rencontrerons
 une rivière
+
+113
+00:02:28,497 --> 00:02:30,020
 souterraine
-: devant nous
-coulera une eau
+: devant
 
-26
-00:02:31,544 --> 00:02:37,565
+114
+00:02:30,020 --> 00:02:31,544
+nous coulera une
+eau
+
+115
+00:02:31,544 --> 00:02:33,049
 douce, limpide
-et silencieuse.
+et
+
+116
+00:02:33,049 --> 00:02:34,554
+silencieuse.
 C'est
-précisément
-ce cours d'eau
-le principal
+précisément ce
+
+117
+00:02:34,554 --> 00:02:36,059
+cours d'eau le
+
+118
+00:02:36,059 --> 00:02:37,565
+principal
 artisan
-
-27
-00:02:37,565 --> 00:02:43,730
 de l'ensemble
-du système
-karstique. Par
-sa force
-érosive, exercée
-au cours
-de millions
 
-28
-00:02:43,730 --> 00:02:50,038
+119
+00:02:37,565 --> 00:02:39,106
+du système
+karstique.
+
+120
+00:02:39,106 --> 00:02:40,647
+Par sa force
+érosive,
+
+121
+00:02:40,647 --> 00:02:42,188
+exercée au cours
+
+122
+00:02:42,188 --> 00:02:43,730
+de millions
 d'années, il
-a creusé
-la roche
-calcaire,
+
+123
+00:02:43,730 --> 00:02:45,307
+a creusé la
+
+124
+00:02:45,307 --> 00:02:46,884
+roche calcaire,
 façonnant des
+
+125
+00:02:46,884 --> 00:02:48,461
 galeries,
 élargissant des
+
+126
+00:02:48,461 --> 00:02:50,038
 cavités
+et contribuant à
 
-29
-00:02:50,038 --> 00:02:55,629
-et contribuant
-à la formation
-d'une grande
-partie des
+127
+00:02:50,038 --> 00:02:51,435
+la formation
+d'une
+
+128
+00:02:51,435 --> 00:02:52,833
+grande partie
+des
+
+129
+00:02:52,833 --> 00:02:54,231
 75 kilomètres
-explorés à
+explorés
 
-30
-00:02:55,629 --> 00:03:01,579
-ce jour. Tandis
+130
+00:02:54,231 --> 00:02:55,629
+à ce jour.
+Tandis
+
+131
+00:02:55,629 --> 00:02:57,116
 que vous
-parcourez ces
-salles, essayez
-d'imaginer une
-époque où les
+parcourez
 
-31
-00:03:01,579 --> 00:03:07,457
-espaces que vous
-voyez étaient
+132
+00:02:57,116 --> 00:02:58,604
+ces salles,
+essayez
+
+133
+00:02:58,604 --> 00:03:00,091
+d'imaginer une
+époque
+
+134
+00:03:00,091 --> 00:03:01,579
+où les espaces
+que
+
+135
+00:03:01,579 --> 00:03:03,048
+vous voyez
+étaient
+
+136
+00:03:03,048 --> 00:03:04,518
 complètement
 submergés.
-Durant les
-phases initiales
+Durant
 
-32
-00:03:07,457 --> 00:03:13,909
+137
+00:03:04,518 --> 00:03:05,987
+les phases
+initiales
+
+138
+00:03:05,987 --> 00:03:07,457
 de sa formation,
-la grotte était
-remplie d'eau
-douce jusqu'au
+la
+
+139
+00:03:07,457 --> 00:03:09,070
+grotte était
+remplie
+
+140
+00:03:09,070 --> 00:03:10,683
+d'eau douce
+jusqu'au
 plafond.
+
+141
+00:03:10,683 --> 00:03:11,489
 L'imposante
 rivière
 
-33
-00:03:13,909 --> 00:03:20,002
+142
+00:03:11,489 --> 00:03:12,296
 souterraine
-occupait chaque
-espace, exerçant
-une action
-érosive continue
+occupait
+
+143
+00:03:12,296 --> 00:03:13,102
+chaque espace,
+
+144
+00:03:13,102 --> 00:03:13,909
+exerçant une
+
+145
+00:03:13,909 --> 00:03:15,432
+action érosive
+continue
+
+146
+00:03:15,432 --> 00:03:16,955
 sur la roche
+dans
 
-34
-00:03:20,002 --> 00:03:26,310
-dans son lent
-et incessant
-cheminement à
-la recherche
-d'un débouché
+147
+00:03:16,955 --> 00:03:18,478
+son lent et
+
+148
+00:03:18,478 --> 00:03:20,002
+incessant
+cheminement à la
+
+149
+00:03:20,002 --> 00:03:21,579
+recherche d'un
+débouché
+
+150
+00:03:21,579 --> 00:03:23,156
 naturel.
-Ce débouché
+Ce débouché a
 
-35
-00:03:26,310 --> 00:03:31,973
-a été trouvé sur
+151
+00:03:23,156 --> 00:03:24,733
+été trouvé sur
+
+152
+00:03:24,733 --> 00:03:26,310
 la mer
 : l'entrée
-actuelle de
-la Grotte du Bue
+
+153
+00:03:26,310 --> 00:03:27,725
+actuelle de la
+
+154
+00:03:27,725 --> 00:03:29,141
+Grotte du Bue
+
+155
+00:03:29,141 --> 00:03:30,557
 Marino coïncide
+en
 
-36
-00:03:31,973 --> 00:03:37,779
-en effet avec
-l'embouchure
-de cette rivière
+156
+00:03:30,557 --> 00:03:31,973
+effet avec
+l'embouchure de
+
+157
+00:03:31,973 --> 00:03:33,424
+cette rivière
 souterraine,
+
+158
+00:03:33,424 --> 00:03:34,876
 le tronçon
-terminal d'un
+terminal
 
-37
-00:03:37,779 --> 00:03:43,657
-vaste système
+159
+00:03:34,876 --> 00:03:36,327
+d'un vaste
+système
+
+160
+00:03:36,327 --> 00:03:37,779
 façonné par
-l'eau au cours
-des temps
+l'eau au
+
+161
+00:03:37,779 --> 00:03:39,248
+cours des temps
+
+162
+00:03:39,248 --> 00:03:40,718
 géologiques.
-Lorsque
-la rivière
+Lorsque la
 
-38
-00:03:43,657 --> 00:03:49,320
-a ouvert son
-débouché sur
-la mer,
-le niveau
-de l'eau
-à l'intérieur
-de la grotte
+163
+00:03:40,718 --> 00:03:42,187
+rivière a ouvert
 
-39
-00:03:49,320 --> 00:03:55,126
+164
+00:03:42,187 --> 00:03:43,657
+son débouché sur
+la
+
+165
+00:03:43,657 --> 00:03:45,072
+mer, le niveau
+
+166
+00:03:45,072 --> 00:03:46,488
+de l'eau à
+
+167
+00:03:46,488 --> 00:03:47,904
+l'intérieur
+de la
+
+168
+00:03:47,904 --> 00:03:49,320
+grotte
 a progressiveme-
-nt baissé. Les
-salles se sont
-vidées et la mer
-a fait partie
-des
+nt baissé.
 
-40
-00:03:55,126 --> 00:04:01,147
+169
+00:03:49,320 --> 00:03:50,771
+Les salles se
+
+170
+00:03:50,771 --> 00:03:52,223
+sont vidées
+et la
+
+171
+00:03:52,223 --> 00:03:53,674
+mer a fait
+
+172
+00:03:53,674 --> 00:03:55,126
+partie des
 environnements
 souterrains.
-C'est seulement
-à ce moment-là
+
+173
+00:03:55,126 --> 00:03:55,878
+C'est
+
+174
+00:03:55,878 --> 00:03:56,631
+seulement à
+
+175
+00:03:56,631 --> 00:03:57,383
+ce moment-là
+
+176
+00:03:57,383 --> 00:03:58,136
 que, goutte
+
+177
+00:03:58,136 --> 00:03:59,641
 après goutte,
+dans
 
-41
-00:04:01,147 --> 00:04:07,240
-dans le silence
+178
+00:03:59,641 --> 00:04:01,147
+le silence
 et l'obscurité,
+
+179
+00:04:01,147 --> 00:04:02,670
 toutes les
-concrétions que
-vous voyez
-aujourd'hui ont
+concrétions
 
-42
-00:04:07,240 --> 00:04:13,477
-commencé
-à croître et
-à se former
-lentement.
-Ce que nous
+180
+00:04:02,670 --> 00:04:04,193
+que vous voyez
+aujourd'hui
+
+181
+00:04:04,193 --> 00:04:05,716
+ont commencé à
+
+182
+00:04:05,716 --> 00:04:07,240
+croître et à se
+
+183
+00:04:07,240 --> 00:04:08,799
+former
+lentement. Ce
+
+184
+00:04:08,799 --> 00:04:10,358
+que nous
 observons n'est
+
+185
+00:04:10,358 --> 00:04:11,917
 pas simplement
+une
 
-43
-00:04:13,477 --> 00:04:19,068
-une grotte, mais
-le résultat d'un
-long
-et ininterrompu
+186
+00:04:11,917 --> 00:04:13,477
+grotte, mais
+le résultat
+
+187
+00:04:13,477 --> 00:04:14,874
+d'un long et
+
+188
+00:04:14,874 --> 00:04:16,272
+ininterrompu
 dialogue entre
-l'eau et
 
-44
-00:04:19,068 --> 00:04:24,731
-la pierre : une
-œuvre naturelle
+189
+00:04:16,272 --> 00:04:17,670
+l'eau et la
+
+190
+00:04:17,670 --> 00:04:19,068
+pierre : une
+œuvre
+
+191
+00:04:19,068 --> 00:04:20,483
+naturelle
 façonnée par
+
+192
+00:04:20,483 --> 00:04:21,899
 la force
 silencieuse
-d'une rivière
 
-45
-00:04:24,731 --> 00:04:26,880
-cachée au cœur
-de la montagne.
+193
+00:04:21,899 --> 00:04:23,315
+d'une rivière
+cachée
+
+194
+00:04:23,315 --> 00:04:24,731
+au cœur de
+
+195
+00:04:24,731 --> 00:04:25,805
+la
+
+196
+00:04:25,805 --> 00:04:26,880
+montagne.

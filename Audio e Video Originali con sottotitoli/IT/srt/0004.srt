@@ -1,353 +1,765 @@
 1
-00:00:00,000 --> 00:00:04,233
+00:00:00,000 --> 00:00:01,058
 Ci troviamo
 nella
+
+2
+00:00:01,058 --> 00:00:02,116
 meravigliosa
 Sala degli
+
+3
+00:00:02,116 --> 00:00:03,174
 Specchi, uno dei
+
+4
+00:00:03,174 --> 00:00:04,233
 luoghi più
 suggestivi
 
-2
-00:00:04,233 --> 00:00:08,678
+5
+00:00:04,233 --> 00:00:05,344
 dell'intero
 percorso
-turistico della
-Grotta del Bue
-Marino.
-In questo tratto
-l'acqua
+turistico
 
-3
-00:00:08,678 --> 00:00:13,387
-è solitamente
-così ferma
+6
+00:00:05,344 --> 00:00:06,455
+della Grotta del
+
+7
+00:00:06,455 --> 00:00:07,566
+Bue Marino. In
+
+8
+00:00:07,566 --> 00:00:08,678
+questo tratto
+l'acqua è
+
+9
+00:00:08,678 --> 00:00:09,855
+solitamente così
+ferma
+
+10
+00:00:09,855 --> 00:00:11,032
 e piatta
 da trasformarsi
+
+11
+00:00:11,032 --> 00:00:11,620
 in
+
+12
+00:00:11,620 --> 00:00:12,209
 una superficie
+
+13
+00:00:12,209 --> 00:00:12,798
 riflettente
 perfetta.
 
-4
-00:00:13,387 --> 00:00:17,990
-Le pareti e
-le concrezioni
+14
+00:00:12,798 --> 00:00:13,387
+Le pareti
+
+15
+00:00:13,387 --> 00:00:14,537
+e le concrezioni
+
+16
+00:00:14,537 --> 00:00:15,688
 si specchiano
 creando
-un'immagine
-capovolta
-di straordinaria
 
-5
-00:00:17,990 --> 00:00:22,752
-nitidezza, dando
+17
+00:00:15,688 --> 00:00:16,263
+un'immagine
+
+18
+00:00:16,263 --> 00:00:16,839
+capovolta di
+
+19
+00:00:16,839 --> 00:00:17,414
+straordinaria
+nitidezza,
+
+20
+00:00:17,414 --> 00:00:17,990
+dando
 l'illusione
+
+21
+00:00:17,990 --> 00:00:19,180
 di
 una profondità
+
+22
+00:00:19,180 --> 00:00:20,371
 molto maggiore
 rispetto alla
+
+23
+00:00:20,371 --> 00:00:21,561
 realtà. È però
 
-6
-00:00:22,752 --> 00:00:27,144
+24
+00:00:21,561 --> 00:00:22,752
 solo un effetto
-ottico: nel
-punto più
+ottico:
+
+25
+00:00:22,752 --> 00:00:23,850
+nel punto più
+
+26
+00:00:23,850 --> 00:00:24,948
 profondo
-accessibile
-al pubblico,
+accessibile al
+
+27
+00:00:24,948 --> 00:00:26,046
+pubblico,
 l'acqua non
 
-7
-00:00:27,144 --> 00:00:31,536
+28
+00:00:26,046 --> 00:00:27,144
 supera mai i due
+
+29
+00:00:27,144 --> 00:00:28,242
 metri.
 La formazione
+
+30
+00:00:28,242 --> 00:00:29,340
 di questi
 "specchi"
-dipende molto
-anche dalle
 
-8
-00:00:31,536 --> 00:00:36,139
-condizioni
+31
+00:00:29,340 --> 00:00:29,889
+dipende
+
+32
+00:00:29,889 --> 00:00:30,438
+molto anche
+
+33
+00:00:30,438 --> 00:00:30,987
+dalle condizioni
+
+34
+00:00:30,987 --> 00:00:31,536
 atmosferiche
-esterne. Quando
-fuori soffia
+esterne.
+
+35
+00:00:31,536 --> 00:00:32,686
+Quando fuori
+soffia
+
+36
+00:00:32,686 --> 00:00:33,837
 un vento secco,
+
+37
+00:00:33,837 --> 00:00:34,988
 come
 il maestrale,
 
-9
-00:00:36,139 --> 00:00:40,795
+38
+00:00:34,988 --> 00:00:36,139
 l'aria rimane
 stabile e
-la superficie
-dell'acqua resta
+
+39
+00:00:36,139 --> 00:00:36,721
+la
+
+40
+00:00:36,721 --> 00:00:37,303
+superficie
+dell'acqua
+
+41
+00:00:37,303 --> 00:00:37,885
+resta
+
+42
+00:00:37,885 --> 00:00:38,467
 immobile,
 permettendo
-ai riflessi
 
-10
-00:00:40,795 --> 00:00:45,504
-di apparire
-in tutta la loro
-perfezione.
-Se invece
+43
+00:00:38,467 --> 00:00:39,631
+ai riflessi di
+
+44
+00:00:39,631 --> 00:00:40,795
+apparire
+in tutta la
+
+45
+00:00:40,795 --> 00:00:41,972
+loro perfezione.
+Se
+
+46
+00:00:41,972 --> 00:00:43,149
+invece
 all'esterno
 è presente
+
+47
+00:00:43,149 --> 00:00:44,326
 un vento umido,
 
-11
-00:00:45,504 --> 00:00:50,054
+48
+00:00:44,326 --> 00:00:45,504
 come
 lo scirocco,
 l'umidità
+
+49
+00:00:45,504 --> 00:00:46,641
 penetra
 all'interno
-della grotta.
-Qui incontra
+della
+
+50
+00:00:46,641 --> 00:00:47,779
+grotta. Qui
+incontra
+
+51
+00:00:47,779 --> 00:00:48,916
 un ambiente
+naturalmente
 
-12
-00:00:50,054 --> 00:00:54,657
-naturalmente più
-freddo e
-si genera
+52
+00:00:48,916 --> 00:00:50,054
+più freddo e si
+
+53
+00:00:50,054 --> 00:00:50,629
+genera
+
+54
+00:00:50,629 --> 00:00:51,204
 un fenomeno
-di condensazione:
-l'aria calda
-e umida,
 
-13
-00:00:54,657 --> 00:00:59,102
+55
+00:00:51,204 --> 00:00:51,779
+di
+
+56
+00:00:51,779 --> 00:00:52,355
+condensazione:
+l'aria
+
+57
+00:00:52,355 --> 00:00:53,506
+calda e umida,
+
+58
+00:00:53,506 --> 00:00:54,657
 a contatto con
-le pareti più
-fresche, produce
-piccole gocce
-d'acqua.
-In questi casi,
+le
 
-14
-00:00:59,102 --> 00:01:03,547
+59
+00:00:54,657 --> 00:00:55,768
+pareti più
+fresche,
+
+60
+00:00:55,768 --> 00:00:56,879
+produce piccole
+gocce
+
+61
+00:00:56,879 --> 00:00:57,990
+d'acqua.
+In questi
+
+62
+00:00:57,990 --> 00:00:59,102
+casi,
 all'interno
-della Sala degli
-Specchi può
+della Sala
+
+63
+00:00:59,102 --> 00:01:00,213
+degli Specchi
+può
+
+64
+00:01:00,213 --> 00:01:01,324
 iniziare
 una sorta
-di pioggia
-finissima che
 
-15
-00:01:03,547 --> 00:01:08,203
-increspa
+65
+00:01:01,324 --> 00:01:02,435
+di pioggia
+finissima
+
+66
+00:01:02,435 --> 00:01:03,547
+che increspa
 la superficie
+
+67
+00:01:03,547 --> 00:01:04,129
 dell'acqua,
+
+68
+00:01:04,129 --> 00:01:04,711
 facendo
 scomparire
+
+69
+00:01:04,711 --> 00:01:05,293
 l'effetto
-specchio.
-La temperatura
 
-16
-00:01:08,203 --> 00:01:12,859
+70
+00:01:05,293 --> 00:01:05,875
+specchio. La
+
+71
+00:01:05,875 --> 00:01:06,457
+temperatura
+
+72
+00:01:06,457 --> 00:01:07,039
 all'interno
-della grotta
-è infatti
-costante tutto
-l'anno, compresa
-tra i 16 e i
-18 gradi
+della
 
-17
-00:01:12,859 --> 00:01:16,986
+73
+00:01:07,039 --> 00:01:07,621
+grotta è
+
+74
+00:01:07,621 --> 00:01:08,203
+infatti costante
+
+75
+00:01:08,203 --> 00:01:09,367
+tutto l'anno,
+compresa
+
+76
+00:01:09,367 --> 00:01:10,531
+tra i 16
+
+77
+00:01:10,531 --> 00:01:11,695
+e i 18
+
+78
+00:01:11,695 --> 00:01:12,859
+gradi
 centigradi.
 L'umidità
-relativa è molto
-elevata e può
+relativa
+
+79
+00:01:12,859 --> 00:01:13,890
+è molto elevata
+
+80
+00:01:13,890 --> 00:01:14,922
+e può
 raggiungere
+
+81
+00:01:14,922 --> 00:01:15,954
 anche il 99%.
 
-18
-00:01:16,986 --> 00:01:21,325
+82
+00:01:15,954 --> 00:01:16,986
 È proprio questo
+
+83
+00:01:16,986 --> 00:01:18,070
 equilibrio
 delicato tra
+
+84
+00:01:18,070 --> 00:01:19,155
 temperatura,
-umidità
-e condizioni
-esterne
+umidità e
 
-19
-00:01:21,325 --> 00:01:25,611
-a determinare
-la magia —
-o l'assenza
+85
+00:01:19,155 --> 00:01:20,240
+condizioni
+esterne a
+
+86
+00:01:20,240 --> 00:01:21,325
+determinare
+la magia
+
+87
+00:01:21,325 --> 00:01:22,396
+— o l'assenza
+
+88
+00:01:22,396 --> 00:01:23,468
 — degli specchi.
-Questa sala
-è anche uno dei
 
-20
-00:01:25,611 --> 00:01:30,267
+89
+00:01:23,468 --> 00:01:24,539
+Questa sala è
+
+90
+00:01:24,539 --> 00:01:25,611
+anche uno dei
+
+91
+00:01:25,611 --> 00:01:26,775
 punti migliori
-per osservare
-i colori della
-grotta.
-Il bianco è
-il colore
-naturale della
+per
 
-21
-00:01:30,267 --> 00:01:34,288
-roccia calcarea,
+92
+00:01:26,775 --> 00:01:27,939
+osservare
+i colori
+
+93
+00:01:27,939 --> 00:01:29,103
+della grotta. Il
+
+94
+00:01:29,103 --> 00:01:30,267
+bianco è
+il colore
+
+95
+00:01:30,267 --> 00:01:31,272
+naturale della
+roccia
+
+96
+00:01:31,272 --> 00:01:32,277
+calcarea,
 la roccia
+
+97
+00:01:32,277 --> 00:01:33,282
 sedimentaria
 di cui
+
+98
+00:01:33,282 --> 00:01:34,288
 è composta
 l'intera
+
+99
+00:01:34,288 --> 00:01:34,810
 montagna.
 
-22
-00:01:34,288 --> 00:01:38,468
-Il rosso-arancia-
-to è dovuto alla
+100
+00:01:34,810 --> 00:01:35,071
+Il
+
+101
+00:01:35,071 --> 00:01:35,333
+rosso-arancia-
+to
+
+102
+00:01:35,333 --> 00:01:36,378
+è dovuto alla
+
+103
+00:01:36,378 --> 00:01:37,423
 presenza
 di ossido
+
+104
+00:01:37,423 --> 00:01:38,468
 di ferro,
 elemento comune
 
-23
-00:01:38,468 --> 00:01:42,913
+105
+00:01:38,468 --> 00:01:39,579
 negli ambienti
 carsici.
+
+106
+00:01:39,579 --> 00:01:40,690
 Le tonalità
-marroni sono
-invece legate
+marroni
+
+107
+00:01:40,690 --> 00:01:41,801
+sono invece
+legate
+
+108
+00:01:41,801 --> 00:01:42,913
 a depositi
 detritici:
+fango,
 
-24
-00:01:42,913 --> 00:01:47,569
-fango, terra
+109
+00:01:42,913 --> 00:01:44,077
+terra
 e materiali
+
+110
+00:01:44,077 --> 00:01:45,241
 trasportati
 dall'acqua nel
+
+111
+00:01:45,241 --> 00:01:46,405
 tempo. Sulle
 pareti
+
+112
+00:01:46,405 --> 00:01:47,569
 è visibile anche
+una
 
-25
-00:01:47,569 --> 00:01:51,802
-una sottile
-linea
+113
+00:01:47,569 --> 00:01:48,627
+sottile linea
 orizzontale
-marrone, che
-dalla Sala dei
-Candelabri
-arriva fino
 
-26
-00:01:51,802 --> 00:01:56,141
-a circa metà
+114
+00:01:48,627 --> 00:01:49,685
+marrone, che
+dalla
+
+115
+00:01:49,685 --> 00:01:50,743
+Sala dei
+Candelabri
+
+116
+00:01:50,743 --> 00:01:51,802
+arriva fino a
+
+117
+00:01:51,802 --> 00:01:52,886
+circa metà
 percorso.
+
+118
+00:01:52,886 --> 00:01:53,971
 Osservandola
 da vicino,
+
+119
+00:01:53,971 --> 00:01:55,056
 si scopre che
+
+120
+00:01:55,056 --> 00:01:56,141
 è composta
 da fossili
 
-27
-00:01:56,141 --> 00:02:00,638
+121
+00:01:56,141 --> 00:01:57,265
 di ostrica,
 risalenti
-a circa 120–125
-mila anni fa.
-Questa linea
-testimonia
-un antico
 
-28
-00:02:00,638 --> 00:02:05,030
-livello del
+122
+00:01:57,265 --> 00:01:58,389
+a circa 120–125
+
+123
+00:01:58,389 --> 00:01:59,513
+mila anni fa.
+
+124
+00:01:59,513 --> 00:02:00,638
+Questa linea
+testimonia un
+
+125
+00:02:00,638 --> 00:02:01,736
+antico livello
+del
+
+126
+00:02:01,736 --> 00:02:02,834
 mare,
 probabilmente
-successivo a
-una fase
+successivo
+
+127
+00:02:02,834 --> 00:02:03,932
+a una fase
+
+128
+00:02:03,932 --> 00:02:05,030
 glaciale. Con
 lo scioglimento
 
-29
-00:02:05,030 --> 00:02:09,580
-dei ghiacci,
-il mare
-raggiunse
+129
+00:02:05,030 --> 00:02:06,167
+dei ghiacci, il
+
+130
+00:02:06,167 --> 00:02:07,305
+mare raggiunse
 un'altezza
+
+131
+00:02:07,305 --> 00:02:07,873
 superiore
+
+132
+00:02:07,873 --> 00:02:08,442
 a quella
+
+133
+00:02:08,442 --> 00:02:09,011
 attuale,
-permettendo alle
+permettendo
 
-30
-00:02:09,580 --> 00:02:14,183
-ostriche
+134
+00:02:09,011 --> 00:02:09,580
+alle ostriche
+
+135
+00:02:09,580 --> 00:02:10,730
 di insediarsi
-lungo le pareti
-della grotta.
-Con
-il successivo
-abbassamento del
+lungo
 
-31
-00:02:14,183 --> 00:02:18,786
-livello marino,
+136
+00:02:10,730 --> 00:02:11,881
+le pareti della
+
+137
+00:02:11,881 --> 00:02:13,032
+grotta. Con il
+
+138
+00:02:13,032 --> 00:02:14,183
+successivo
+abbassamento del
+livello
+
+139
+00:02:14,183 --> 00:02:14,758
+marino,
+
+140
+00:02:14,758 --> 00:02:15,333
 questi organismi
+
+141
+00:02:15,333 --> 00:02:15,908
 si
 fossilizzaron-
-o, lasciando
-una traccia
+o,
+
+142
+00:02:15,908 --> 00:02:16,196
+lasciando
+
+143
+00:02:16,196 --> 00:02:16,484
+una
+
+144
+00:02:16,484 --> 00:02:17,059
+traccia
+
+145
+00:02:17,059 --> 00:02:17,635
 ancora oggi
 
-32
-00:02:18,786 --> 00:02:23,072
+146
+00:02:17,635 --> 00:02:18,210
 perfettamente
 visibile.
-La stessa linea
-che segnala
-quell'antico
-livello del mare
 
-33
-00:02:23,072 --> 00:02:27,093
-si può osservare
-anche lungo
+147
+00:02:18,210 --> 00:02:18,786
+La stessa
+
+148
+00:02:18,786 --> 00:02:19,857
+linea che
+segnala
+
+149
+00:02:19,857 --> 00:02:20,929
+quell'antico
+livello del
+
+150
+00:02:20,929 --> 00:02:22,000
+mare si può
+
+151
+00:02:22,000 --> 00:02:23,072
+osservare anche
+lungo
+
+152
+00:02:23,072 --> 00:02:24,077
 le coste del
+
+153
+00:02:24,077 --> 00:02:25,082
 Golfo di Orosei,
+
+154
+00:02:25,082 --> 00:02:26,087
 dove
 si manifesta
 
-34
-00:02:27,093 --> 00:02:31,749
+155
+00:02:26,087 --> 00:02:27,093
 in un evidente
+
+156
+00:02:27,093 --> 00:02:28,257
 solco
 di battente
-inciso nella
-roccia. Qui,
-nella Sala degli
-Specchi, non
 
-35
-00:02:31,749 --> 00:02:36,035
-osserviamo
+157
+00:02:28,257 --> 00:02:29,421
+inciso nella
+roccia.
+
+158
+00:02:29,421 --> 00:02:30,585
+Qui, nella Sala
+
+159
+00:02:30,585 --> 00:02:31,749
+degli Specchi,
+non osserviamo
+
+160
+00:02:31,749 --> 00:02:32,820
 soltanto
 riflessi:
 osserviamo
-il tempo,
-il clima e
-la storia
-geologica
 
-36
-00:02:36,035 --> 00:02:37,200
-impressi nella
+161
+00:02:32,820 --> 00:02:33,892
+il tempo, il
+
+162
+00:02:33,892 --> 00:02:34,963
+clima e la
+
+163
+00:02:34,963 --> 00:02:36,035
+storia geologica
+impressi
+
+164
+00:02:36,035 --> 00:02:36,617
+nella
+
+165
+00:02:36,617 --> 00:02:37,200
 pietra.

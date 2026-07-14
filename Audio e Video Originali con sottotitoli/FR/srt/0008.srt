@@ -1,278 +1,396 @@
 1
-00:00:00,000 --> 00:00:06,033
+00:00:00,000 --> 00:00:02,781
 Mais que
 savons-nous
 de la présence
 humaine
-à l'intérieur
-de la Grotte
-du Bue Marino
 
 2
-00:00:06,033 --> 00:00:11,563
-? La grotte
-n'est pas
+00:00:02,781 --> 00:00:05,563
+à l'intérieur
+de la Grotte
+du Bue
+
+3
+00:00:05,563 --> 00:00:08,055
+Marino ?
+La grotte n'est
+pas
+
+4
+00:00:08,055 --> 00:00:10,548
 seulement
 un lieu d'une
 beauté naturelle
-extraordinaire
-
-3
-00:00:11,563 --> 00:00:17,237
-: c'est aussi
-un site d'un
-grand intérêt
-archéologique.
-Les preuves
-recueillies
-
-4
-00:00:17,237 --> 00:00:23,629
-indiquent que
-la grotte était
-fréquentée dès
-la préhistoire.
-En observant
-la paroi devant
 
 5
-00:00:23,629 --> 00:00:30,021
+00:00:10,548 --> 00:00:13,221
+extraordinaire
+: c'est aussi un
+
+6
+00:00:13,221 --> 00:00:15,894
+site d'un grand
+intérêt
+archéologique.
+Les
+
+7
+00:00:15,894 --> 00:00:18,205
+preuves
+recueillies
+indiquent que
+
+8
+00:00:18,205 --> 00:00:20,517
+la grotte était
+fréquentée dès
+
+9
+00:00:20,517 --> 00:00:23,117
+la préhistoire.
+En observant la
+
+10
+00:00:23,117 --> 00:00:25,718
+paroi devant
 vous, vous
 pouvez remarquer
+
+11
+00:00:25,718 --> 00:00:28,463
 un encadrement
 avec des
 gravures
+
+12
+00:00:28,463 --> 00:00:31,208
 rupestres
 particulièrem-
 ent
+significatives :
 
-6
-00:00:30,021 --> 00:00:35,695
-significatives
-: il s'agit
-d'une vingtaine
-de figures
+13
+00:00:31,208 --> 00:00:33,808
+il s'agit d'une
+vingtaine de
+
+14
+00:00:33,808 --> 00:00:36,409
+figures
 anthropomorph-
 es gravées
-
-7
-00:00:35,695 --> 00:00:41,584
 au marteau,
+
+15
+00:00:36,409 --> 00:00:38,937
 d'une cupule
 — une petite
 cavité
+
+16
+00:00:38,937 --> 00:00:41,466
 circulaire
 creusée dans
 la roche — et
 
-8
-00:00:41,584 --> 00:00:47,976
+17
+00:00:41,466 --> 00:00:44,247
 de deux cercles
 concentriques
-avec une autre
-cupule en leur
-centre. Selon
-les chercheurs,
+avec une
 
-9
-00:00:47,976 --> 00:00:53,793
-ces gravures
+18
+00:00:44,247 --> 00:00:47,029
+autre cupule
+en leur centre.
+Selon les
+
+19
+00:00:47,029 --> 00:00:49,810
+chercheurs, ces
+gravures
 pourraient
-remonter à
-la Culture
-d'Ozieri
-(4000–3500 av.
-J.-C.) ou à
+remonter
 
-10
-00:00:53,793 --> 00:00:59,826
-la Culture
-de Filigosa
+20
+00:00:49,810 --> 00:00:52,592
+à la Culture
+d'Ozieri
+(4000–3500
+
+21
+00:00:52,592 --> 00:00:55,481
+av. J.-C.) ou
+à la Culture de
+
+22
+00:00:55,481 --> 00:00:56,926
+Filigosa
 (3000–2500 av.
+
+23
+00:00:56,926 --> 00:00:58,371
 J.-C.),
 certainement
-à une époque
-où le niveau
+à une
 
-11
-00:00:59,826 --> 00:01:05,859
-de la mer était
-inférieur
+24
+00:00:58,371 --> 00:01:01,116
+époque où
+le niveau de
+la mer
+
+25
+00:01:01,116 --> 00:01:03,861
+était inférieur
 de quelques
 mètres par
 rapport
-à aujourd'hui
-et où l'accès
 
-12
-00:01:05,859 --> 00:01:12,251
-à la grotte
+26
+00:01:03,861 --> 00:01:06,461
+à aujourd'hui
+et où l'accès à
+
+27
+00:01:06,461 --> 00:01:09,062
+la grotte
 se faisait
 probablement par
-voie terrestre.
-Si vous regardez
-en bas à droite,
+voie
 
-13
-00:01:12,251 --> 00:01:18,140
-vous remarquerez
-une figure
+28
+00:01:09,062 --> 00:01:11,662
+terrestre.
+Si vous regardez
+en bas
+
+29
+00:01:11,662 --> 00:01:14,263
+à droite, vous
+remarquerez une
+figure
+
+30
+00:01:14,263 --> 00:01:16,936
 isolée avec une
 structure
-particulière
-en « candélabre
+particulière en
 
-14
-00:01:18,140 --> 00:01:24,532
+31
+00:01:16,936 --> 00:01:19,609
+« candélabre
 », dotée
 de membres
+
+32
+00:01:19,609 --> 00:01:22,101
 multiples. Juste
 au-dessus
-d'elle,
-on distingue
-deux figures
-avec des
+d'elle, on
 
-15
-00:01:24,532 --> 00:01:30,780
+33
+00:01:22,101 --> 00:01:24,594
+distingue deux
+figures avec des
+
+34
+00:01:24,594 --> 00:01:27,483
 appendices
 latéraux
 obliques. Plus
 haut encore
+
+35
+00:01:27,483 --> 00:01:30,373
 apparaît une
 figure avec les
-bras et les
+bras
 
-16
-00:01:30,780 --> 00:01:36,382
-jambes pliés
-dans la même
-direction.
+36
+00:01:30,373 --> 00:01:33,154
+et les jambes
+pliés dans la
+
+37
+00:01:33,154 --> 00:01:35,936
+même direction.
 Toutes les
 figures
 présentent des
-membres
 
-17
-00:01:36,382 --> 00:01:41,912
+38
+00:01:35,936 --> 00:01:38,753
+membres
 allongés, arqués
 et inclinés,
+
+39
+00:01:38,753 --> 00:01:41,571
 disposés
 de façon
 irrégulière
 autour des
-motifs
 
-18
-00:01:41,912 --> 00:01:47,801
+40
+00:01:41,571 --> 00:01:44,316
+motifs
 concentriques.
 L'interprétat-
-ion la plus
-répandue suggère
-que la scène
+ion la
+
+41
+00:01:44,316 --> 00:01:47,061
+plus répandue
+suggère que
+la scène
+
+42
+00:01:47,061 --> 00:01:50,059
 représente
-
-19
-00:01:47,801 --> 00:01:53,977
 un groupe
-de figures
-en prière
-disposées autour
-d'un symbole
-circulaire,
-peut-être lié
+de figures en
 
-20
-00:01:53,977 --> 00:01:59,507
+43
+00:01:50,059 --> 00:01:53,057
+prière disposées
+autour d'un
+symbole
+circulaire,
+
+44
+00:01:53,057 --> 00:01:55,802
+peut-être lié
 à des rituels
-religieux ou
-à des pratiques
+religieux
+
+45
+00:01:55,802 --> 00:01:58,547
+ou à des
+pratiques
 symboliques
 liées à
-la nature. Des
 
-21
-00:01:59,507 --> 00:02:05,468
+46
+00:01:58,547 --> 00:02:00,967
+la nature. Des
 représentatio-
+
+47
+00:02:00,967 --> 00:02:03,387
 ns
 anthropomorph-
 es stylisées
 similaires
+
+48
+00:02:03,387 --> 00:02:06,204
 se trouvent
 également dans
-
-22
-00:02:05,468 --> 00:02:11,357
 d'autres sites
+
+49
+00:02:06,204 --> 00:02:09,022
 italiens, comme
 le Parc National
-des Gravures
+des
+
+50
+00:02:09,022 --> 00:02:11,839
+Gravures
 Rupestres
 de Naquane,
+le site de
 
-23
-00:02:11,357 --> 00:02:17,605
-le site de Sas
-Concas et
+51
+00:02:11,839 --> 00:02:14,657
+Sas Concas et
 la Grotte
 du Papa. Les
+
+52
+00:02:14,657 --> 00:02:17,438
 analogies entre
 des lieux
 pourtant très
 
-24
-00:02:17,605 --> 00:02:23,997
+53
+00:02:17,438 --> 00:02:20,220
 éloignés les uns
 des autres
 suggèrent
+
+54
+00:02:20,220 --> 00:02:22,820
 l'existence,
 dans
 l'Antiquité,
-d'un réseau
-culturel
+d'un
 
-25
-00:02:23,997 --> 00:02:30,101
+55
+00:02:22,820 --> 00:02:25,421
+réseau culturel
 partagé, dans
-lequel symboles
+lequel
+
+56
+00:02:25,421 --> 00:02:27,732
+symboles
 et pratiques
 rituelles
+
+57
+00:02:27,732 --> 00:02:30,044
 se diffusaient
 entre
 différentes
 
-26
-00:02:30,101 --> 00:02:35,990
+58
+00:02:30,044 --> 00:02:33,006
 communautés.
 Devant vous,
 vous n'observez
-pas seulement
-des gravures
-dans la roche
+pas
 
-27
-00:02:35,990 --> 00:02:41,664
+59
+00:02:33,006 --> 00:02:35,968
+seulement des
+gravures dans
+la roche
+
+60
+00:02:35,968 --> 00:02:38,316
 : vous observez
 un témoignage
+
+61
+00:02:38,316 --> 00:02:40,664
 de
 la spiritualité
-préhistorique
-de la Sardaigne.
+préhistorique de
 
-28
-00:02:41,664 --> 00:02:47,481
+62
+00:02:40,664 --> 00:02:43,987
+la Sardaigne.
 En ce point
 précis,
 la nature et
-la présence
-humaine
-se rencontrent,
-laissant une
 
-29
-00:02:47,481 --> 00:02:51,500
-empreinte qui
-traverse des
+63
+00:02:43,987 --> 00:02:46,082
+la présence
+humaine se
+
+64
+00:02:46,082 --> 00:02:48,177
+rencontrent,
+laissant une
+empreinte
+
+65
+00:02:48,177 --> 00:02:51,500
+qui traverse des
 milliers
 d'années
 d'histoire.

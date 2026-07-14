@@ -1,209 +1,322 @@
 1
-00:00:00,020 --> 00:00:05,960
+00:00:00,020 --> 00:00:00,050
 Il nome Grotta
-del Bue Marino
-nasce dalla
-presenza, fino
-a pochi decenni
-fa, della
+del Bue
 
 2
-00:00:05,960 --> 00:00:12,479
-Monachus
-monachus,
-la foca monaca,
-conosciuta
-in sardo come
-Su Oe Marinu,
-il "bue marino".
+00:00:00,050 --> 00:00:00,080
+Marino nasce
+dalla presenza,
+fino
 
 3
-00:00:12,479 --> 00:00:18,274
-Il soprannome
-deriva dal suo
-aspetto
-massiccio e dai
-suoni profondi
-che emetteva
+00:00:00,085 --> 00:00:03,397
+a pochi decenni
+fa, della
+Monachus
+monachus,
 
 4
-00:00:18,274 --> 00:00:24,576
+00:00:03,397 --> 00:00:05,429
+la foca monaca,
+conosciuta in
+
+5
+00:00:05,429 --> 00:00:07,462
+sardo come Su
+Oe Marinu,
+
+6
+00:00:07,462 --> 00:00:09,457
+il "bue marino".
+Il
+
+7
+00:00:09,457 --> 00:00:11,452
+soprannome
+deriva dal suo
+aspetto
+
+8
+00:00:11,452 --> 00:00:13,522
+massiccio e dai
+suoni
+
+9
+00:00:13,522 --> 00:00:15,592
+profondi che
+emetteva
 all'interno
+
+10
+00:00:15,592 --> 00:00:19,205
 delle cavità
 costiere:
 un verso che,
 amplificato
+
+11
+00:00:19,205 --> 00:00:22,969
 dalle pareti
 della grotta,
-
-5
-00:00:24,576 --> 00:00:30,806
 ricordava
 il muggito di
+
+12
+00:00:22,969 --> 00:00:26,356
 un bue. La foca
 monaca
 mediterranea
 è uno dei
-mammiferi marini
 
-6
-00:00:30,806 --> 00:00:36,891
+13
+00:00:26,356 --> 00:00:30,120
+mammiferi marini
 più rari
 al mondo ed
 è una specie
+
+14
+00:00:30,120 --> 00:00:33,884
 in via
 di estinzione.
 Si stima che
 in tutto il Mar
 
-7
-00:00:36,891 --> 00:00:42,396
+15
+00:00:33,884 --> 00:00:37,572
 Mediterraneo
 si contino non
 più di 500
 esemplari,
-concentrati
-principalmente
-
-8
-00:00:42,396 --> 00:00:48,119
-in alcune aree
-particolarmen-
-te isolate
-e protette, come
-specifici
-arcipelaghi
-
-9
-00:00:48,119 --> 00:00:54,638
-della Grecia
-e tratti delle
-coste
-dell'Africa del
-Nord. La sua
-presenza è oggi
-frammentata
-
-10
-00:00:54,638 --> 00:01:01,085
-e delicata,
-legata a luoghi
-ancora poco
-antropizzati.
-Un esemplare
-adulto può
-raggiungere
-
-11
-00:01:01,085 --> 00:01:06,880
-i 2,5 metri
-di lunghezza
-e un peso medio
-tra i 250 e
-i 300
-chilogrammi.
-Il corpo
-
-12
-00:01:06,880 --> 00:01:12,458
-è robusto,
-il muso corto
-e arrotondato,
-gli occhi grandi
-e scuri.
-Il mantello
-
-13
-00:01:12,458 --> 00:01:18,977
-varia dal grigio
-al bruno scuro.
-Fino agli anni
-'80, la foca
-monaca viveva
-stabilmente nel
-
-14
-00:01:18,977 --> 00:01:24,410
-Golfo di Orosei
-e utilizzava
-queste grotte
-come rifugio
-sicuro per
-riposare
-
-15
-00:01:24,410 --> 00:01:30,857
-e partorire. Con
-l'aumento del
-turismo, del
-traffico nautico
-e della presenza
-umana lungo
 
 16
-00:01:30,857 --> 00:01:36,652
-la costa,
-la specie
-ha progressivame-
-nte abbandonato
-l'area, fino
-a scomparire.
+00:00:37,572 --> 00:00:39,679
+concentrati
+principalmente
+in
 
 17
-00:01:36,652 --> 00:01:43,026
-Non era però
-un animale
+00:00:39,679 --> 00:00:41,787
+alcune aree
 particolarmen-
-te amato dai
-pescatori
-locali. Attratta
-dal pesce
+te
 
 18
-00:01:43,026 --> 00:01:48,893
+00:00:41,787 --> 00:00:43,631
+isolate
+e protette,
+
+19
+00:00:43,631 --> 00:00:45,475
+come specifici
+arcipelaghi
+della
+
+20
+00:00:45,475 --> 00:00:49,163
+Grecia e tratti
+delle coste
+dell'Africa del
+Nord.
+
+21
+00:00:49,163 --> 00:00:51,120
+La sua presenza
+è
+
+22
+00:00:51,120 --> 00:00:53,077
+oggi frammentata
+e delicata,
+legata
+
+23
+00:00:53,077 --> 00:00:55,109
+a luoghi ancora
+poco
+
+24
+00:00:55,109 --> 00:00:57,142
+antropizzati.
+Un esemplare
+adulto
+
+25
+00:00:57,142 --> 00:01:00,680
+può raggiungere
+i 2,5 metri
+di lunghezza e
+
+26
+00:01:00,680 --> 00:01:04,143
+un peso medio
+tra i 250 e
+i 300
+chilogrammi. Il
+
+27
+00:01:04,143 --> 00:01:07,756
+corpo è robusto,
+il muso corto
+e arrotondato,
+gli
+
+28
+00:01:07,756 --> 00:01:09,788
+occhi grandi
+e scuri. Il
+
+29
+00:01:09,788 --> 00:01:11,821
+mantello varia
+dal grigio al
+
+30
+00:01:11,821 --> 00:01:13,966
+bruno scuro.
+Fino agli anni
+
+31
+00:01:13,966 --> 00:01:16,112
+'80, la foca
+monaca viveva
+stabilmente
+
+32
+00:01:16,112 --> 00:01:18,295
+nel Golfo
+di Orosei
+
+33
+00:01:18,295 --> 00:01:20,478
+e utilizzava
+queste grotte
+come
+
+34
+00:01:20,478 --> 00:01:22,322
+rifugio sicuro
+per riposare
+
+35
+00:01:22,322 --> 00:01:24,166
+e partorire. Con
+l'aumento
+
+36
+00:01:24,166 --> 00:01:26,424
+del turismo, del
+traffico
+
+37
+00:01:26,424 --> 00:01:28,682
+nautico e della
+presenza umana
+
+38
+00:01:28,682 --> 00:01:30,526
+lungo la costa,
+la
+
+39
+00:01:30,526 --> 00:01:31,448
+specie ha
+
+40
+00:01:31,448 --> 00:01:32,370
+progressivame-
+nte abbandonato
+
+41
+00:01:32,370 --> 00:01:36,510
+l'area, fino
+a scomparire.
+Non era però
+un animale
+
+42
+00:01:36,510 --> 00:01:38,316
+particolarmen-
+te amato dai
+
+43
+00:01:38,316 --> 00:01:40,123
+pescatori
+locali. Attratta
+dal
+
+44
+00:01:40,123 --> 00:01:44,338
+pesce
 intrappolato,
 rompeva le reti
 e si nutriva
+
+45
+00:01:44,338 --> 00:01:46,257
 facilmente del
 pescato,
-causando danni
+causando
 
-19
-00:01:48,893 --> 00:01:55,267
-economici.
+46
+00:01:46,257 --> 00:01:48,177
+danni economici.
 Questo conflitto
+
+47
+00:01:48,177 --> 00:01:52,242
 con l'uomo
 ha contribuito,
 nel tempo, alla
+
+48
+00:01:52,242 --> 00:01:53,935
 sua
 persecuzione.
+Oggi il
 
-20
-00:01:55,267 --> 00:02:01,352
-Oggi il suo
-ricordo
+49
+00:01:53,935 --> 00:01:55,629
+suo ricordo
 sopravvive nel
+
+50
+00:01:55,629 --> 00:01:59,016
 nome di questa
 grotta.
 Camminando qui
-dentro, tra
+dentro,
 
-21
-00:02:01,352 --> 00:02:07,437
-silenzio e acqua
+51
+00:01:59,016 --> 00:02:01,123
+tra silenzio
+e acqua
+
+52
+00:02:01,123 --> 00:02:03,231
 cristallina,
 possiamo
 immaginare
-quando questo
-luogo era
-il rifugio
+quando
 
-22
-00:02:07,437 --> 00:02:12,870
-di uno degli
+53
+00:02:03,231 --> 00:02:06,468
+questo luogo era
+il rifugio di
+
+54
+00:02:06,468 --> 00:02:08,312
+uno degli
 animali più
+
+55
+00:02:08,312 --> 00:02:10,156
 affascinanti,
 rari
 e vulnerabili
+
+56
+00:02:10,156 --> 00:02:12,870
 del
 Mediterraneo.
